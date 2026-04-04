@@ -652,13 +652,16 @@ export default function HomePageClient({ latestArticles, moduleLinkMap, locale }
       <section id="arena-zero-ai-movie" className="scroll-mt-24 px-4 py-20">
         <div className="container mx-auto max-w-5xl">
           <div className="text-center mb-12 scroll-reveal">
-            <p className="text-sm font-medium text-[hsl(var(--nav-theme-light))] uppercase tracking-wide mb-3">Production</p>
-            <h2 className="text-4xl md:text-5xl font-bold mb-4">
+            <p className="text-sm font-medium text-[hsl(var(--nav-theme-light))] uppercase tracking-wide mb-3">{t.modules.arenaZeroAiMovie.eyebrow}</p>
+            <h2 className="text-4xl md:text-5xl font-bold mb-3">
               <LinkedTitle linkData={moduleLinkMap['arenaZeroAiMovie']} locale={locale}>
                 {t.modules.arenaZeroAiMovie.title}
               </LinkedTitle>
             </h2>
-            <p className="text-muted-foreground text-lg max-w-3xl mx-auto">
+            <p className="text-xl text-foreground/80 font-medium max-w-3xl mx-auto mb-4">
+              {t.modules.arenaZeroAiMovie.subtitle}
+            </p>
+            <p className="text-muted-foreground text-base max-w-3xl mx-auto">
               {t.modules.arenaZeroAiMovie.intro}
             </p>
           </div>
@@ -690,13 +693,16 @@ export default function HomePageClient({ latestArticles, moduleLinkMap, locale }
       <section id="arena-zero-making-of" className="scroll-mt-24 px-4 py-20 bg-white/[0.02]">
         <div className="container mx-auto max-w-5xl">
           <div className="text-center mb-12 scroll-reveal">
-            <p className="text-sm font-medium text-[hsl(var(--nav-theme-light))] uppercase tracking-wide mb-3">Behind the Scenes</p>
-            <h2 className="text-4xl md:text-5xl font-bold mb-4">
+            <p className="text-sm font-medium text-[hsl(var(--nav-theme-light))] uppercase tracking-wide mb-3">{t.modules.arenaZeroMakingOf.eyebrow}</p>
+            <h2 className="text-4xl md:text-5xl font-bold mb-3">
               <LinkedTitle linkData={moduleLinkMap['arenaZeroMakingOf']} locale={locale}>
                 {t.modules.arenaZeroMakingOf.title}
               </LinkedTitle>
             </h2>
-            <p className="text-muted-foreground text-lg max-w-3xl mx-auto">
+            <p className="text-xl text-foreground/80 font-medium max-w-3xl mx-auto mb-4">
+              {t.modules.arenaZeroMakingOf.subtitle}
+            </p>
+            <p className="text-muted-foreground text-base max-w-3xl mx-auto">
               {t.modules.arenaZeroMakingOf.intro}
             </p>
           </div>
@@ -721,13 +727,16 @@ export default function HomePageClient({ latestArticles, moduleLinkMap, locale }
       <section id="arena-zero-characters" className="scroll-mt-24 px-4 py-20">
         <div className="container mx-auto max-w-5xl">
           <div className="text-center mb-12 scroll-reveal">
-            <p className="text-sm font-medium text-[hsl(var(--nav-theme-light))] uppercase tracking-wide mb-3">Characters</p>
-            <h2 className="text-4xl md:text-5xl font-bold mb-4">
+            <p className="text-sm font-medium text-[hsl(var(--nav-theme-light))] uppercase tracking-wide mb-3">{t.modules.arenaZeroCharacters.eyebrow}</p>
+            <h2 className="text-4xl md:text-5xl font-bold mb-3">
               <LinkedTitle linkData={moduleLinkMap['arenaZeroCharacters']} locale={locale}>
                 {t.modules.arenaZeroCharacters.title}
               </LinkedTitle>
             </h2>
-            <p className="text-muted-foreground text-lg max-w-3xl mx-auto">
+            <p className="text-xl text-foreground/80 font-medium max-w-3xl mx-auto mb-4">
+              {t.modules.arenaZeroCharacters.subtitle}
+            </p>
+            <p className="text-muted-foreground text-base max-w-3xl mx-auto">
               {t.modules.arenaZeroCharacters.intro}
             </p>
           </div>
@@ -755,13 +764,16 @@ export default function HomePageClient({ latestArticles, moduleLinkMap, locale }
       <section id="arena-zero-runtime" className="scroll-mt-24 px-4 py-20 bg-white/[0.02]">
         <div className="container mx-auto max-w-5xl">
           <div className="text-center mb-12 scroll-reveal">
-            <p className="text-sm font-medium text-[hsl(var(--nav-theme-light))] uppercase tracking-wide mb-3">Details</p>
-            <h2 className="text-4xl md:text-5xl font-bold mb-4">
+            <p className="text-sm font-medium text-[hsl(var(--nav-theme-light))] uppercase tracking-wide mb-3">{t.modules.arenaZeroRuntime.eyebrow}</p>
+            <h2 className="text-4xl md:text-5xl font-bold mb-3">
               <LinkedTitle linkData={moduleLinkMap['arenaZeroRuntime']} locale={locale}>
                 {t.modules.arenaZeroRuntime.title}
               </LinkedTitle>
             </h2>
-            <p className="text-muted-foreground text-lg max-w-3xl mx-auto">
+            <p className="text-xl text-foreground/80 font-medium max-w-3xl mx-auto mb-4">
+              {t.modules.arenaZeroRuntime.subtitle}
+            </p>
+            <p className="text-muted-foreground text-base max-w-3xl mx-auto">
               {t.modules.arenaZeroRuntime.intro}
             </p>
           </div>

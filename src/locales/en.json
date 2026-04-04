@@ -111,12 +111,12 @@
       },
       {
         "icon": "Users",
-        "title": "Arena Zero Characters",
+        "title": "Arena Zero Movie Characters",
         "description": "Main character, enemies, and creatures"
       },
       {
         "icon": "Clock",
-        "title": "Arena Zero Runtime",
+        "title": "Arena Zero Movie Runtime",
         "description": "Episode length, release dates, platform info"
       },
       {
@@ -408,140 +408,154 @@
       ]
     },
     "arenaZeroAiMovie": {
-      "title": "Arena Zero AI Movie Explained",
+      "title": "Arena Zero Movie: AI Production vs Traditional Film",
+      "eyebrow": "AI FILMMAKING",
+      "subtitle": "Why Arena Zero Movie feels different from a traditional sci-fi release",
       "displayType": "comparisonTable",
-      "intro": "Arena Zero is significant because it demonstrates what fully AI-generated production can achieve at the series level. Here is how it differs from traditional filmmaking.",
+      "intro": "Arena Zero stands out because Higgsfield presents it as a fully AI-generated sci-fi pilot on an AI-native streaming platform. That changes the conversation from plot alone to process, speed, scale, and what a small team can now produce with generative tools.",
       "comparisons": [
         {
-          "aspect": "Production Method",
-          "traditional": "Live actors, physical sets, traditional VFX pipeline",
-          "aiNative": "Entirely generated with AI video tools, no physical production"
+          "aspect": "What it is",
+          "traditional": "Usually launched as a short film, TV episode, or feature through standard studio, festival, or streaming pipelines.",
+          "aiNative": "A 10-minute sci-fi pilot released as part of Higgsfield Original Series."
         },
         {
-          "aspect": "Character Consistency",
-          "traditional": "Same actor across all scenes",
-          "aiNative": "AI character consistency maintained across generated scenes using Higgsfield tools"
+          "aspect": "How footage is made",
+          "traditional": "Scenes are captured with cameras, actors, physical sets, lighting setups, and post-production.",
+          "aiNative": "Every frame was generated using AI. The official launch post describes the episode as made from fully AI-generated footage."
         },
         {
-          "aspect": "Action Sequences",
-          "traditional": "Stunt teams, choreography, multi-camera shoots",
-          "aiNative": "AI-generated action sequences directed through prompt-based production"
+          "aspect": "Tool stack",
+          "traditional": "Camera packages, locations, art direction, cast, crew, editing suites, VFX pipelines, and sound work.",
+          "aiNative": "A 20-plus tool ecosystem including Cinema Studio, SOUL 2.0, and Soul ID, using Higgsfield as a creative control layer over models such as Kling 2.6, Veo 3.1, and Sora 2."
         },
         {
-          "aspect": "Release Model",
-          "traditional": "Theatrical release or traditional streaming deal",
-          "aiNative": "Direct release on Higgsfield's own AI-native streaming platform"
+          "aspect": "Team and speed",
+          "traditional": "Larger crews and much longer production and post schedules for comparable action-heavy material.",
+          "aiNative": "A 4-person team, about 5,000 generations, and the project was made in 4 days according to the official behind-the-scenes breakdown."
         },
         {
-          "aspect": "Production Speed",
-          "traditional": "Months to years of pre and post production",
-          "aiNative": "Significantly compressed production timeline using AI generation"
+          "aspect": "Why people keep discussing it",
+          "traditional": "Discussion usually centers on story, cast, direction, effects, and box office or ratings.",
+          "aiNative": "It packages AI video as a complete story with character continuity, arena stakes, and a public release page instead of a single impressive clip."
         },
         {
-          "aspect": "Cost Structure",
-          "traditional": "Large crew, location costs, licensing",
-          "aiNative": "AI tool subscription-based production with a small team"
+          "aspect": "Release model",
+          "traditional": "Distribution normally runs through theaters, broadcasters, major streaming services, or established studio channels.",
+          "aiNative": "Premiered on Higgsfield Original Series, described as the first complete AI streaming platform for fully AI-generated series and films."
         }
       ]
     },
     "arenaZeroMakingOf": {
-      "title": "Arena Zero Making Of",
+      "title": "Arena Zero Movie Making Of",
+      "eyebrow": "BEHIND THE SCENES",
+      "subtitle": "How Arena Zero Movie was turned into a watchable AI pilot",
       "displayType": "stepByStep",
-      "intro": "Higgsfield published a breakdown of how Arena Zero was produced. The process covers character design, scene generation, action sequence production, and how consistency was maintained across the full episode.",
+      "intro": "The public breakdown around Arena Zero makes one thing clear: the result came from a repeatable workflow, not a one-click prompt. The emphasis is on planning, character consistency, shot control, and stitching many short generations into one coherent episode.",
       "steps": [
         {
-          "title": "Character Design and Consistency",
-          "description": "The main character and opponent designs were established first to maintain visual consistency across all generated scenes. Higgsfield tools allow character identity to carry through separate AI video generations."
+          "title": "Start with a simple narrative spine",
+          "description": "The episode is framed around an easy-to-follow hook: a deadbeat gamer is dragged into an alien arena and forced to represent Earth in an intergalactic tournament."
         },
         {
-          "title": "Scene-by-Scene Generation",
-          "description": "Each scene in Arena Zero was generated using Higgsfield's AI video system, with the production team directing the content through prompts and iterating on output quality."
+          "title": "Design continuity before chasing spectacle",
+          "description": "The workflow guide highlights planning, consistency systems, and the need to chain short clips into longer narratives, which is why the episode feels closer to a pilot than a disconnected montage."
         },
         {
-          "title": "Action Sequence Production",
-          "description": "The arena combat sequences used AI generation to produce dynamic action. The Seedance 2.0 breakdown video shows how the 7-foot Ogre confrontation was built from generated clips."
+          "title": "Use Higgsfield as the control layer",
+          "description": "Higgsfield is described as a creative control layer over multiple video models, while the official launch post positions Higgsfield's tools as the production environment for cinematic AI work."
         },
         {
-          "title": "Assembly and Pacing",
-          "description": "Individual generated scenes were assembled into the full 10-minute episode. Pacing and narrative flow were managed in the editing phase, similar to traditional film post-production."
+          "title": "Generate scenes at scale",
+          "description": "The official Seedance 2.0 breakdown promoted a 4-person team working through roughly 5,000 generations, showing how much iteration sat behind the finished footage."
         },
         {
-          "title": "Platform Release",
-          "description": "The completed episode was published to Higgsfield's Original Series platform as a free watch, with the YouTube upload following for broader distribution."
+          "title": "Assemble short generations into a long-form cut",
+          "description": "The workflow guide stresses that long-form AI filmmaking depends on understanding how to connect short generated shots into a single structured episode with momentum."
+        },
+        {
+          "title": "Publish as part of an episodic platform",
+          "description": "Instead of leaving the project as a demo reel, Higgsfield released Arena Zero inside Original Series, giving the pilot a real watch page and a series-style context."
         }
       ]
     },
     "arenaZeroCharacters": {
-      "title": "Arena Zero Characters and Creatures",
+      "title": "Arena Zero Movie Characters and Creatures",
+      "eyebrow": "CAST AND THREATS",
+      "subtitle": "The key faces, voices, and monsters that define Arena Zero Movie",
       "displayType": "cardList",
-      "intro": "Arena Zero introduces its characters through action rather than exposition. Episode 1 establishes the protagonist and the first enemy encounter, with future episodes expected to expand the roster.",
+      "intro": "Arena Zero does not arrive with a deep franchise wiki yet, but the official pages already establish a few memorable anchors. The protagonist, the arena spectacle, and the first major creature threat are the clearest pieces of story identity right now.",
       "characters": [
         {
-          "name": "The Main Character",
+          "name": "The Gamer",
           "role": "Protagonist",
-          "description": "A deadbeat gamer accidentally pulled into the alien arena and forced to represent Earth in an intergalactic tournament. His survival instinct drives the plot forward."
+          "description": "The official synopsis describes him as a deadbeat gamer who hits the wrong button and wakes up in an alien arena."
         },
         {
-          "name": "The 7-Foot Ogre",
-          "role": "First Enemy",
-          "description": "The primary threat in Episode 1. A massive opponent charging directly at the protagonist in the opening arena sequence. Establishes the scale and danger of the tournament."
+          "name": "Earth's Representative",
+          "role": "Role",
+          "description": "The same synopsis makes his new role clear: he is chosen to represent Earth in an intergalactic tournament he never agreed to enter."
         },
         {
-          "name": "The Arena Organizers",
-          "role": "Unknown Antagonists",
-          "description": "The alien force running the tournament that drafted the protagonist. Their full identity, motives, and rules are revealed across episodes."
+          "name": "The Arena Announcer",
+          "role": "Host Voice",
+          "description": "Transcript snippets from Episode 1 include an announcer introducing a warrior from the mysterious planet Earth, framing the arena as a show as much as a battle."
         },
         {
-          "name": "Earth's Representation",
-          "role": "Narrative Concept",
-          "description": "Arena Zero is structured around the idea that one ordinary person represents an entire planet. This raises the stakes of every fight to a planetary level."
+          "name": "The 7-foot Ogre",
+          "role": "Creature Threat",
+          "description": "The official episode description singles out a 7-foot Ogre as the first obvious survival challenge standing between the hero and staying alive."
+        },
+        {
+          "name": "Opponents From Other Fictional Universes",
+          "role": "Arena Roster",
+          "description": "Higgsfield's launch post describes Arena Zero as a story about fighting through opponents from other fictional universes, giving the series its crossover-style arena identity."
+        },
+        {
+          "name": "Planet Gnid",
+          "role": "Lore Element",
+          "description": "Higgsfield's Arena Zero shorts reference the destruction of planet Gnid, hinting at a wider sci-fi backdrop beyond the first arena confrontation."
         }
       ]
     },
     "arenaZeroRuntime": {
-      "title": "Arena Zero Runtime and Release Date",
+      "title": "Arena Zero Movie Runtime and Release Date",
+      "eyebrow": "QUICK FACTS",
+      "subtitle": "Arena Zero Movie runtime, launch timing, and current episode status",
       "displayType": "infoTable",
-      "intro": "Key production and release information for Arena Zero Episode 1 and the series as a whole.",
+      "intro": "This is the clean reference block for users who just want the basics. The official material gives enough to answer the most common watch-page questions: what it is, when it arrived, how long it runs, and whether more episodes are live yet.",
       "info": [
         {
+          "label": "Format",
+          "value": "AI-generated sci-fi pilot episode on Higgsfield Original Series"
+        },
+        {
+          "label": "Official Launch Announcement",
+          "value": "March 20, 2026"
+        },
+        {
           "label": "Episode 1 Runtime",
-          "value": "Approximately 10 minutes"
+          "value": "10 minutes"
         },
         {
-          "label": "Genre",
-          "value": "Sci-fi action, survival, tournament"
+          "label": "Episode 1 Status",
+          "value": "Live on the official Arena Zero Episode 1 page"
         },
         {
-          "label": "Production Method",
-          "value": "Fully AI-generated (Higgsfield AI tools)"
+          "label": "Episode 1 Page Views",
+          "value": "627.9K views shown on the official platform"
         },
         {
-          "label": "Platform",
-          "value": "Higgsfield Original Series (free to watch)"
+          "label": "Series Rollout Status",
+          "value": "Episode 2 and Episode 3 pages are public; Episodes 2 through 5 are marked Coming Soon"
         },
         {
-          "label": "Launch Date",
-          "value": "March 20, 2026 (Original Series launch)"
+          "label": "Episode 2 Page Date",
+          "value": "March 19, 2026"
         },
         {
-          "label": "Episode 1 Views",
-          "value": "627.9K (official Higgsfield platform)"
-        },
-        {
-          "label": "YouTube Views",
-          "value": "694K (Higgsfield AI channel)"
-        },
-        {
-          "label": "Episodes Listed",
-          "value": "5 (Episode 1 live, Episodes 2-5 Coming Soon)"
-        },
-        {
-          "label": "Episode 2 Status",
-          "value": "Page live, Coming Soon label"
-        },
-        {
-          "label": "Price",
-          "value": "Free on Higgsfield and YouTube"
+          "label": "Current Positioning",
+          "value": "Presented by Higgsfield as the launch title for its Original Series platform"
         }
       ]
     },
