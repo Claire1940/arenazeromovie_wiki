@@ -10,14 +10,7 @@
       "twitterDescription": "Arena Zero Wiki covers Episode 1, trailer, plot, ending explained, watch links, AI production details, and series news for Higgsfield viewers."
     }
   },
-  "nav": {
-    "guides": "Guides",
-    "crafting": "Crafting",
-    "items": "Items",
-    "biomes": "Biomes",
-    "building": "Building",
-    "support": "Support"
-  },
+  "nav": {},
   "common": {
     "home": "Home",
     "more": "More",
