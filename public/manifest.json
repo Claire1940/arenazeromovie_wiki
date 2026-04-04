@@ -1,11 +1,11 @@
 {
-  "name": "Lucid Blocks Wiki - Crafting, Biomes & Achievements",
-  "short_name": "Lucid Blocks",
-  "description": "Lucid Blocks Wiki covers crafting, biomes, creatures, items, achievements, endings, and survival tips for the surreal voxel sandbox adventure on Steam.",
+  "name": "Arena Zero Wiki - Episode 1, Trailer & Ending Guide",
+  "short_name": "Arena Zero Wiki",
+  "description": "Arena Zero Wiki covers Episode 1, trailer, plot, ending explained, watch links, AI production details, release updates, and series news for Higgsfield viewers.",
   "start_url": "/",
   "display": "standalone",
   "orientation": "any",
-  "theme_color": "#1a7a7a",
+  "theme_color": "#3db83d",
   "background_color": "#0a0a0a",
   "icons": [
     {
