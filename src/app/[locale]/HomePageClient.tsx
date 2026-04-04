@@ -479,13 +479,16 @@ export default function HomePageClient({ latestArticles, moduleLinkMap, locale }
       <section id="arena-zero-ending-explained" className="scroll-mt-24 px-4 py-20">
         <div className="container mx-auto max-w-5xl">
           <div className="text-center mb-12 scroll-reveal">
-            <p className="text-sm font-medium text-[hsl(var(--nav-theme-light))] uppercase tracking-wide mb-3">Ending</p>
-            <h2 className="text-4xl md:text-5xl font-bold mb-4">
+            <p className="text-sm font-medium text-[hsl(var(--nav-theme-light))] uppercase tracking-wide mb-3">{t.modules.arenaZeroEndingExplained.eyebrow}</p>
+            <h2 className="text-4xl md:text-5xl font-bold mb-3">
               <LinkedTitle linkData={moduleLinkMap['arenaZeroEndingExplained']} locale={locale}>
                 {t.modules.arenaZeroEndingExplained.title}
               </LinkedTitle>
             </h2>
-            <p className="text-muted-foreground text-lg max-w-3xl mx-auto">
+            <p className="text-xl text-foreground/80 font-medium max-w-3xl mx-auto mb-4">
+              {t.modules.arenaZeroEndingExplained.subtitle}
+            </p>
+            <p className="text-muted-foreground text-base max-w-3xl mx-auto">
               {t.modules.arenaZeroEndingExplained.intro}
             </p>
           </div>
@@ -497,11 +500,14 @@ export default function HomePageClient({ latestArticles, moduleLinkMap, locale }
                   onClick={() => setEndingExpanded(endingExpanded === index ? null : index)}
                   className="w-full flex items-center justify-between p-5 text-left hover:bg-white/5 transition-colors"
                 >
-                  <span className="font-semibold">{faq.question}</span>
+                  <div className="flex items-center gap-3">
+                    <MessageCircle className="w-4 h-4 text-[hsl(var(--nav-theme-light))] flex-shrink-0" />
+                    <span className="font-semibold">{faq.question}</span>
+                  </div>
                   <ChevronDown className={`w-5 h-5 flex-shrink-0 transition-transform ${endingExpanded === index ? 'rotate-180' : ''}`} />
                 </button>
                 {endingExpanded === index && (
-                  <div className="px-5 pb-5 text-muted-foreground text-sm">{faq.answer}</div>
+                  <div className="px-5 pb-5 pl-12 text-muted-foreground text-sm">{faq.answer}</div>
                 )}
               </div>
             ))}
@@ -513,38 +519,40 @@ export default function HomePageClient({ latestArticles, moduleLinkMap, locale }
       <section id="arena-zero-trailer" className="scroll-mt-24 px-4 py-20 bg-white/[0.02]">
         <div className="container mx-auto max-w-5xl">
           <div className="text-center mb-12 scroll-reveal">
-            <p className="text-sm font-medium text-[hsl(var(--nav-theme-light))] uppercase tracking-wide mb-3">Trailer</p>
-            <h2 className="text-4xl md:text-5xl font-bold mb-4">
+            <p className="text-sm font-medium text-[hsl(var(--nav-theme-light))] uppercase tracking-wide mb-3">{t.modules.arenaZeroTrailer.eyebrow}</p>
+            <h2 className="text-4xl md:text-5xl font-bold mb-3">
               <LinkedTitle linkData={moduleLinkMap['arenaZeroTrailer']} locale={locale}>
                 {t.modules.arenaZeroTrailer.title}
               </LinkedTitle>
             </h2>
-            <p className="text-muted-foreground text-lg max-w-3xl mx-auto">
+            <p className="text-xl text-foreground/80 font-medium max-w-3xl mx-auto mb-4">
+              {t.modules.arenaZeroTrailer.subtitle}
+            </p>
+            <p className="text-muted-foreground text-base max-w-3xl mx-auto">
               {t.modules.arenaZeroTrailer.intro}
             </p>
           </div>
 
           <div className="scroll-reveal grid grid-cols-1 md:grid-cols-3 gap-6">
             {t.modules.arenaZeroTrailer.videos.map((video: any, index: number) => (
-              <a
-                key={index}
-                href={video.url}
-                target="_blank"
-                rel="noopener noreferrer"
-                className="p-6 bg-white/5 border border-border rounded-xl hover:border-[hsl(var(--nav-theme)/0.5)] transition-colors group block"
-              >
+              <div key={index} className="p-6 bg-white/5 border border-border rounded-xl hover:border-[hsl(var(--nav-theme)/0.5)] transition-colors group flex flex-col">
                 <div className="flex items-center gap-3 mb-4">
                   <div className="w-10 h-10 rounded-lg bg-[hsl(var(--nav-theme)/0.1)] flex items-center justify-center group-hover:bg-[hsl(var(--nav-theme)/0.2)] transition-colors">
-                    <Video className="w-5 h-5 text-[hsl(var(--nav-theme-light))]" />
+                    <Play className="w-5 h-5 text-[hsl(var(--nav-theme-light))]" />
                   </div>
-                  <span className="text-xs px-2 py-1 rounded-full bg-[hsl(var(--nav-theme)/0.1)] border border-[hsl(var(--nav-theme)/0.3)]">{video.type}</span>
+                  <span className="text-xs px-2 py-1 rounded-full bg-[hsl(var(--nav-theme)/0.1)] border border-[hsl(var(--nav-theme)/0.3)]">{video.meta}</span>
                 </div>
                 <h3 className="font-bold mb-2 group-hover:text-[hsl(var(--nav-theme-light))] transition-colors">{video.title}</h3>
-                <p className="text-muted-foreground text-sm">{video.description}</p>
-                <div className="flex items-center gap-1 mt-4 text-xs text-[hsl(var(--nav-theme-light))]">
-                  Watch on YouTube <ExternalLink className="w-3 h-3" />
-                </div>
-              </a>
+                <p className="text-muted-foreground text-sm flex-1">{video.description}</p>
+                <a
+                  href={video.url}
+                  target="_blank"
+                  rel="noopener noreferrer"
+                  className="flex items-center gap-2 mt-4 text-sm font-medium text-[hsl(var(--nav-theme-light))] hover:underline"
+                >
+                  {video.label} <ExternalLink className="w-3 h-3" />
+                </a>
+              </div>
             ))}
           </div>
         </div>
@@ -557,25 +565,42 @@ export default function HomePageClient({ latestArticles, moduleLinkMap, locale }
       <section id="arena-zero-review" className="scroll-mt-24 px-4 py-20">
         <div className="container mx-auto max-w-5xl">
           <div className="text-center mb-12 scroll-reveal">
-            <p className="text-sm font-medium text-[hsl(var(--nav-theme-light))] uppercase tracking-wide mb-3">Review</p>
-            <h2 className="text-4xl md:text-5xl font-bold mb-4">
+            <p className="text-sm font-medium text-[hsl(var(--nav-theme-light))] uppercase tracking-wide mb-3">{t.modules.arenaZeroReview.eyebrow}</p>
+            <h2 className="text-4xl md:text-5xl font-bold mb-3">
               <LinkedTitle linkData={moduleLinkMap['arenaZeroReview']} locale={locale}>
                 {t.modules.arenaZeroReview.title}
               </LinkedTitle>
             </h2>
-            <p className="text-muted-foreground text-lg max-w-3xl mx-auto">
+            <p className="text-xl text-foreground/80 font-medium max-w-3xl mx-auto mb-4">
+              {t.modules.arenaZeroReview.subtitle}
+            </p>
+            <p className="text-muted-foreground text-base max-w-3xl mx-auto">
               {t.modules.arenaZeroReview.intro}
             </p>
           </div>
 
           <div className="scroll-reveal grid grid-cols-1 md:grid-cols-2 gap-6">
             {t.modules.arenaZeroReview.quotes.map((quote: any, index: number) => (
-              <div key={index} className="p-6 bg-white/5 border border-border rounded-xl hover:border-[hsl(var(--nav-theme)/0.5)] transition-colors">
-                <Star className="w-5 h-5 text-[hsl(var(--nav-theme-light))] mb-3" />
-                <p className="text-sm mb-4 italic">"{quote.text}"</p>
+              <div key={index} className="p-6 bg-white/5 border border-border rounded-xl hover:border-[hsl(var(--nav-theme)/0.5)] transition-colors flex flex-col">
+                <div className="flex items-center justify-between mb-3">
+                  <Star className="w-5 h-5 text-[hsl(var(--nav-theme-light))]" />
+                  <span className={`text-xs px-2 py-0.5 rounded-full border ${
+                    quote.tone === 'Positive' ? 'bg-green-500/10 border-green-500/30 text-green-400' :
+                    quote.tone === 'Excited' ? 'bg-[hsl(var(--nav-theme)/0.1)] border-[hsl(var(--nav-theme)/0.3)] text-[hsl(var(--nav-theme-light))]' :
+                    'bg-yellow-500/10 border-yellow-500/30 text-yellow-400'
+                  }`}>{quote.tone}</span>
+                </div>
+                <p className="text-sm mb-4 italic flex-1">"{quote.text}"</p>
                 <div className="flex items-center justify-between">
-                  <span className="text-xs font-semibold text-[hsl(var(--nav-theme-light))]">{quote.author}</span>
-                  <span className="text-xs text-muted-foreground">{quote.source}</span>
+                  <div>
+                    <p className="text-xs font-semibold text-[hsl(var(--nav-theme-light))]">{quote.author}</p>
+                    <p className="text-xs text-muted-foreground">{quote.source}</p>
+                  </div>
+                  {quote.href && (
+                    <a href={quote.href} target="_blank" rel="noopener noreferrer" className="text-muted-foreground hover:text-[hsl(var(--nav-theme-light))] transition-colors">
+                      <ExternalLink className="w-3 h-3" />
+                    </a>
+                  )}
                 </div>
               </div>
             ))}
@@ -587,13 +612,16 @@ export default function HomePageClient({ latestArticles, moduleLinkMap, locale }
       <section id="arena-zero-what-is-it" className="scroll-mt-24 px-4 py-20 bg-white/[0.02]">
         <div className="container mx-auto max-w-5xl">
           <div className="text-center mb-12 scroll-reveal">
-            <p className="text-sm font-medium text-[hsl(var(--nav-theme-light))] uppercase tracking-wide mb-3">Overview</p>
-            <h2 className="text-4xl md:text-5xl font-bold mb-4">
+            <p className="text-sm font-medium text-[hsl(var(--nav-theme-light))] uppercase tracking-wide mb-3">{t.modules.arenaZeroWhatIsIt.eyebrow}</p>
+            <h2 className="text-4xl md:text-5xl font-bold mb-3">
               <LinkedTitle linkData={moduleLinkMap['arenaZeroWhatIsIt']} locale={locale}>
                 {t.modules.arenaZeroWhatIsIt.title}
               </LinkedTitle>
             </h2>
-            <p className="text-muted-foreground text-lg max-w-3xl mx-auto">
+            <p className="text-xl text-foreground/80 font-medium max-w-3xl mx-auto mb-4">
+              {t.modules.arenaZeroWhatIsIt.subtitle}
+            </p>
+            <p className="text-muted-foreground text-base max-w-3xl mx-auto">
               {t.modules.arenaZeroWhatIsIt.intro}
             </p>
           </div>

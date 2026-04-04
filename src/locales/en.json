@@ -81,22 +81,22 @@
       },
       {
         "icon": "Lightbulb",
-        "title": "Arena Zero Ending Explained",
+        "title": "Arena Zero Movie Ending Explained",
         "description": "What happened, why it ended that way"
       },
       {
         "icon": "Video",
-        "title": "Arena Zero Trailer",
+        "title": "Arena Zero Movie Trailer",
         "description": "Official YouTube uploads and preview clips"
       },
       {
         "icon": "Star",
-        "title": "Arena Zero Review",
+        "title": "Arena Zero Movie Review",
         "description": "Is it worth watching? Community verdict"
       },
       {
         "icon": "HelpCircle",
-        "title": "Arena Zero What Is It",
+        "title": "Arena Zero Movie Explained",
         "description": "Movie, pilot, or AI demo - explained clearly"
       },
       {
@@ -291,108 +291,119 @@
       ]
     },
     "arenaZeroEndingExplained": {
-      "title": "Arena Zero Ending Explained",
+      "title": "Arena Zero Movie Ending Explained",
+      "eyebrow": "Story Analysis",
+      "subtitle": "What the Arena Zero ending is really setting up",
       "displayType": "accordion",
-      "intro": "Arena Zero Episode 1 ends with several open threads. Here is a breakdown of what the ending shows, what it leaves unresolved, and what it sets up for Episode 2.",
+      "intro": "Arena Zero ends like a strong sci-fi pilot: it gives the viewer a complete first jolt, then widens the frame. The immediate conflict is survival inside the arena, but the larger hook is that one underqualified player is now tied to Earth's fate in an intergalactic competition he never agreed to join.",
       "faqs": [
         {
-          "question": "What happens at the end of Arena Zero Episode 1?",
-          "answer": "The main character faces a 7-foot Ogre as his first combat challenge inside the alien arena. Episode 1 ends at this confrontation, establishing the immediate survival threat without resolving it."
+          "question": "Does Episode 1 have a real ending or a cliffhanger?",
+          "answer": "It delivers a first-act payoff rather than a full resolution. The episode proves the hero can survive the arena's opening threat, then leaves the larger tournament unresolved so the story can expand into later rounds."
         },
         {
-          "question": "Does Arena Zero Episode 1 have a resolution?",
-          "answer": "Episode 1 functions as a sci-fi pilot, so it is structured to establish the premise and end on a cliffhanger rather than deliver a complete story arc. The resolution begins in Episode 2."
+          "question": "What do the ending stakes confirm?",
+          "answer": "The official setup is simple and brutal: the protagonist is forced to represent Earth in an intergalactic tournament, and losing means Earth is wiped out. That turns the ending into a hard confirmation that every future fight carries planetary consequences."
         },
         {
-          "question": "What are the rules of the Arena Zero tournament?",
-          "answer": "Arena Zero is framed as an intergalactic tournament where Earth must be represented by a chosen combatant. Losing means Earth is destroyed. The specific rules of each fight are introduced across episodes."
+          "question": "Why is the first ogre fight so important?",
+          "answer": "The fight establishes the series logic. Arena Zero is not about a trained warrior suddenly becoming invincible; it is about a gamer surviving through pattern recognition, timing, panic management, and improvisation under pressure."
         },
         {
-          "question": "Who abducted the main character and why?",
-          "answer": "The abduction is triggered by the character accidentally pressing the wrong button. The alien force running the arena drafts participants without consent. The full scope of who is organizing the tournament is part of the ongoing story."
-        },
-        {
-          "question": "Will the main character win the tournament?",
-          "answer": "Episode 1 does not reveal the outcome. The series is structured across multiple episodes, with Episodes 2 through 5 listed on Higgsfield. The ongoing result of the tournament is the central dramatic thread."
+          "question": "What does the ending suggest about the next episode?",
+          "answer": "The official Arena Zero series page already lists Episodes 2 through 5 as coming soon, so the final beat is designed to open the bracket, not close the story. The ending is a forward pull into the next match and the wider rules of the arena."
         }
       ]
     },
     "arenaZeroTrailer": {
-      "title": "Arena Zero Trailer",
+      "title": "Arena Zero Movie Trailer",
+      "eyebrow": "Watch",
+      "subtitle": "The best official Arena Zero videos to watch first",
       "displayType": "videoGallery",
-      "intro": "The official Arena Zero trailer and episode content are available on the Higgsfield AI YouTube channel. The main entry is the full Episode 1 upload, with an official Short covering the series premise.",
+      "intro": "For a video-first topic like Arena Zero, users usually want one of three things: the full episode, a fast explanation, or the official place where future uploads will appear. These official links handle all three without forcing people to dig through reposts.",
       "videos": [
         {
-          "title": "Arena Zero Episode 1 - World's First AI Action Series",
+          "title": "World's First Ever AI Action Series - Arena Zero Ep.1",
+          "meta": "Full official episode",
+          "description": "This is the main watch entry for users who want the complete Arena Zero pilot in one click. It is the clearest starting point for plot, tone, visual style, and pacing.",
           "url": "https://www.youtube.com/watch?v=qqcH-1Rk-ow",
-          "type": "Full Episode",
-          "description": "Official Higgsfield AI YouTube upload of the full Arena Zero Episode 1. Runtime: approximately 10 minutes."
+          "label": "Watch Episode 1"
         },
         {
-          "title": "What is Arena Zero? | Higgsfield AI Original Series",
+          "title": "What Is Arena Zero? | Higgsfield AI Original Series",
+          "meta": "Official short explainer",
+          "description": "A quick-format introduction for users who want the concept before committing to the full episode. It works especially well for first-time visitors arriving from search or social.",
           "url": "https://www.youtube.com/shorts/P2RQ_K05XsU",
-          "type": "Official Short",
-          "description": "Official Shorts-format preview introducing the Arena Zero series premise and visual style."
+          "label": "Watch the short"
         },
         {
-          "title": "Seedance 2.0: Arena Zero Breakdown",
-          "url": "https://www.youtube.com/watch?v=036jyFZWppw",
-          "type": "Production Breakdown",
-          "description": "Official breakdown of how Arena Zero was produced using Higgsfield AI tools, including character consistency and action sequences."
+          "title": "Higgsfield AI",
+          "meta": "Official channel hub",
+          "description": "Best for viewers who want follow-up uploads, trailers, shorts, and creator-side Arena Zero content in one place. It is the safest recurring source for future video embeds on the page.",
+          "url": "https://www.youtube.com/@HiggsfieldAI",
+          "label": "Open the channel"
         }
       ]
     },
     "arenaZeroReview": {
       "title": "Arena Zero Movie Review",
+      "eyebrow": "Early Reactions",
+      "subtitle": "What early viewers and industry watchers are saying",
       "displayType": "quoteWall",
-      "intro": "Arena Zero has drawn attention as the first fully AI-generated action series on a dedicated platform. Reactions focus on its technical achievement, visual quality, and the question of whether the storytelling matches the production ambition.",
+      "intro": "The first wave of Arena Zero reviews is less about star ratings and more about threshold questions: Is this watchable? Does it feel like a real series? Is it still a tech demo? The most useful overview is to put creator commentary and community reactions side by side.",
       "quotes": [
         {
-          "text": "This might be the beginning of AI Hollywood. The action sequences and character consistency are genuinely impressive for a fully AI-generated series.",
-          "author": "r/ChatGPT community",
-          "source": "Reddit discussion thread"
+          "text": "the quality and consistency are worth paying attention to",
+          "author": "Taryn O'Neill",
+          "source": "Future Film Fridays",
+          "tone": "Positive",
+          "href": "https://tarynoneill.medium.com/03-20-26-future-film-fridays-f6017a621435"
         },
         {
-          "text": "The visual quality is there. Whether it tells a compelling story is a different question, but as a proof of concept for what AI can do in under 10 minutes, it lands.",
-          "author": "AI video creator community",
-          "source": "r/aivideo"
+          "text": "Feels like Netflix + YouTube + AI tools all merged into one.",
+          "author": "Post reaction",
+          "source": "r/ChatGPT",
+          "tone": "Excited",
+          "href": "https://www.reddit.com/r/ChatGPT/comments/1rz8cxi/this_might_be_the_beginning_of_ai_hollywood_arena/"
         },
         {
-          "text": "Worth watching if you want to see where AI-generated video is heading. The production value is higher than most AI demos.",
-          "author": "Future Film Fridays",
-          "source": "Medium / Taryn O'Neill"
+          "text": "This was actually brilliant sitting watching the whole thing like it was a series",
+          "author": "Community comment",
+          "source": "r/aivideo",
+          "tone": "Positive",
+          "href": "https://www.reddit.com/r/aivideo/comments/1rzlggl/arena_zero_ai_web_series/"
         },
         {
-          "text": "Arena Zero is the first AI original series I've seen where the action actually looks intentional rather than random. Higgsfield clearly worked on the pacing.",
-          "author": "Independent creator",
-          "source": "Reddit / r/aivideo"
+          "text": "It's cringe, but it's really well done.",
+          "author": "Community comment",
+          "source": "r/aivideo",
+          "tone": "Mixed",
+          "href": "https://www.reddit.com/r/aivideo/comments/1rzlggl/arena_zero_ai_web_series/"
         }
       ]
     },
     "arenaZeroWhatIsIt": {
-      "title": "Arena Zero What Is It",
+      "title": "Arena Zero Movie Explained",
+      "eyebrow": "Basics",
+      "subtitle": "So what exactly is Arena Zero?",
       "displayType": "accordion",
-      "intro": "Arena Zero is frequently described as a movie, a short film, and an AI demo. Here is a clear breakdown of what it actually is and where it fits.",
+      "intro": "Arena Zero sits in a category many users do not have a tidy label for yet. It looks like a short film, is released like a pilot episode, and is being discussed as both a narrative series launch and a showcase for a new AI filmmaking platform.",
       "faqs": [
         {
-          "question": "Is Arena Zero a movie?",
-          "answer": "Arena Zero is a 10-minute sci-fi pilot, not a feature-length movie. It is the first episode in a multi-episode original series produced by Higgsfield AI and published on their streaming platform."
+          "question": "Is Arena Zero a movie, a short film, or a series?",
+          "answer": "Arena Zero is presented as a 10-minute sci-fi pilot episode on Higgsfield Original Series. It is closer to a series launch or proof-of-concept pilot than to a standalone theatrical movie."
         },
         {
-          "question": "Is Arena Zero made entirely with AI?",
-          "answer": "Yes. Arena Zero is described by Higgsfield as an AI-native original series, meaning the visuals, character animation, and action sequences were generated using AI video tools."
+          "question": "Is Arena Zero fully AI-generated?",
+          "answer": "Yes. Higgsfield describes Original Series as an AI-native streaming platform where full episodes are produced from scratch using generative AI, and Arena Zero is the launch title used to introduce that format."
         },
         {
-          "question": "Where is Arena Zero available to watch?",
-          "answer": "Arena Zero is available for free on the Higgsfield Original Series platform. The official Episode 1 page streams the full pilot, and a YouTube upload on the Higgsfield AI channel offers a second viewing option."
+          "question": "Can you watch Arena Zero for free?",
+          "answer": "Yes. Higgsfield states that Arena Zero and the trailers on Original Series are free to watch on the platform."
         },
         {
-          "question": "How long is Arena Zero?",
-          "answer": "Arena Zero Episode 1 runs approximately 10 minutes. It is described as a sci-fi pilot designed to introduce the world, characters, and tournament premise."
-        },
-        {
-          "question": "Is Arena Zero part of a series?",
-          "answer": "Yes. Higgsfield has published five episode pages for Arena Zero, with Episode 1 live and Episodes 2 through 5 listed as Coming Soon. The platform presents it as an ongoing original series."
+          "question": "Why do people describe it in different ways?",
+          "answer": "Because Arena Zero works on multiple levels at once: it is a watchable narrative episode, a pilot for a larger sci-fi concept, and a flagship example of Higgsfield's AI filmmaking and distribution stack."
         }
       ]
     },
