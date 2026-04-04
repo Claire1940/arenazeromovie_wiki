@@ -10,7 +10,16 @@
       "twitterDescription": "Arena Zero Wiki covers Episode 1, trailer, plot, ending explained, watch links, AI production details, and series news for Higgsfield viewers."
     }
   },
-  "nav": {},
+  "nav": {
+    "episode": "Episodes",
+    "watch": "Watch",
+    "cast": "Cast",
+    "guide": "Guide",
+    "release": "Release",
+    "format": "Format",
+    "platform": "Platform",
+    "creator": "Creator"
+  },
   "common": {
     "home": "Home",
     "more": "More",
@@ -821,125 +830,165 @@
     "disclaimer": "Unofficial fan-made resource website."
   },
   "pages": {
-    "guides": {
-      "title": "Arena Zero Guides",
-      "description": "Complete gameplay guides from beginner basics to advanced Apotheosis strategies. Master survival and crafting.",
-      "metaTitle": "Arena Zero Guides - Episode, Plot & Story Guide",
-      "metaDescription": "Complete Arena Zero guides covering Episode 1, plot summary, ending explained, and story guides for the Higgsfield AI sci-fi series.",
-      "categoryLabel": "GAME GUIDES",
-      "whatIs": "What are Guides?",
-      "whatIsDescription": "Comprehensive guides covering gameplay mechanics, survival strategies, and the Apotheosis crafting system. Learn everything from first steps to advanced techniques.",
-      "why": "Why read guides?",
+    "episode": {
+      "title": "Arena Zero Movie Episodes",
+      "description": "Full episode guide for Arena Zero - the world's first AI-generated action series. Explore Episode 1, Episode 2, and upcoming episodes.",
+      "metaTitle": "Arena Zero Episodes - Full Episode Guide 2026",
+      "metaDescription": "Complete guide to Arena Zero episodes including Episode 1 watch links, Episodes 2-5 status, and release updates from Higgsfield.",
+      "categoryLabel": "EPISODES",
+      "whatIs": "What are Arena Zero Episodes?",
+      "whatIsDescription": "Arena Zero episodes are installments of the world's first AI-generated action series by Higgsfield. Each episode follows Leo's survival in an intergalactic tournament where losing means your planet is erased.",
+      "why": "Why watch Arena Zero?",
       "whySteps": {
-        "step1Title": "Learn Core Mechanics",
-        "step1Description": "Understand the Apotheosis system and avoid common beginner mistakes",
-        "step2Title": "Fast Progression",
-        "step2Description": "Follow proven paths to survive and thrive in the surreal world",
-        "step3Title": "Master Strategies",
-        "step3Description": "Develop advanced tactics for exploration and crafting"
+        "step1Title": "Watch Episode 1 Free",
+        "step1Description": "Stream the premiere episode directly on Higgsfield's official site at no cost",
+        "step2Title": "Follow the Story",
+        "step2Description": "Track Leo's journey through the Thousand Worlds tournament from episode to episode",
+        "step3Title": "Stay Updated",
+        "step3Description": "Keep up with Episodes 2–5 release status and Coming Soon announcements"
+      },
+      "featured": "Featured & Essential",
+      "all": "All Episodes"
+    },
+    "watch": {
+      "title": "Arena Zero Movie Where to Watch",
+      "description": "Find every official link to watch Arena Zero online. Stream Episode 1 free on Higgsfield and discover all available viewing platforms.",
+      "metaTitle": "Arena Zero Watch Online - Official Streaming Links 2026",
+      "metaDescription": "Where to watch Arena Zero movie and episodes. Free streaming on Higgsfield official site, YouTube, and other platforms in 2026.",
+      "categoryLabel": "WATCH GUIDES",
+      "whatIs": "Where to Watch Arena Zero?",
+      "whatIsDescription": "Arena Zero is officially available on Higgsfield's platform for free. Learn all the streaming options, regional availability, and how to watch the full series online.",
+      "why": "Why use our watch guides?",
+      "whySteps": {
+        "step1Title": "Find Official Links",
+        "step1Description": "Get verified, working links to stream Arena Zero without confusion or piracy risks",
+        "step2Title": "Compare Platforms",
+        "step2Description": "Check if Arena Zero is on Netflix, YouTube, OTT platforms, or other streaming services",
+        "step3Title": "Watch for Free",
+        "step3Description": "Discover how to watch Arena Zero Episode 1 completely free on the official site"
+      },
+      "featured": "Featured & Essential",
+      "all": "All Watch Guides"
+    },
+    "cast": {
+      "title": "Arena Zero Movie Cast",
+      "description": "Meet the AI-generated cast of Arena Zero. From protagonist Leo to arena champions, explore every character in the Higgsfield sci-fi series.",
+      "metaTitle": "Arena Zero Cast - Characters & AI Actors Guide 2026",
+      "metaDescription": "Complete Arena Zero cast guide covering AI-generated characters, protagonist Leo, arena champions, and the Higgsfield production team.",
+      "categoryLabel": "CAST & CHARACTERS",
+      "whatIs": "Who is in the Arena Zero Cast?",
+      "whatIsDescription": "Unlike traditional films, the Arena Zero cast consists entirely of AI-generated characters created by Higgsfield. From the human protagonist Leo to alien arena champions, each character is designed using cutting-edge generative AI.",
+      "why": "Why explore the cast?",
+      "whySteps": {
+        "step1Title": "Meet the Characters",
+        "step1Description": "Discover Leo, Hokei, and every arena champion who fights in the Thousand Worlds tournament",
+        "step2Title": "Understand AI Acting",
+        "step2Description": "Learn how Higgsfield creates consistent, expressive AI characters across multiple scenes",
+        "step3Title": "Follow Character Arcs",
+        "step3Description": "Track each character's role and development as the series progresses"
+      },
+      "featured": "Featured & Essential",
+      "all": "All Cast Guides"
+    },
+    "guide": {
+      "title": "Arena Zero Movie Guides",
+      "description": "Comprehensive guides covering Arena Zero plot, ending explained, story breakdown, and everything about the world's first AI action series.",
+      "metaTitle": "Arena Zero Guide - Plot, Ending & Story Breakdown 2026",
+      "metaDescription": "Complete Arena Zero movie guides including plot summary, ending explained, story breakdown, and lore details for the Higgsfield AI series.",
+      "categoryLabel": "SERIES GUIDES",
+      "whatIs": "What are Arena Zero Guides?",
+      "whatIsDescription": "Our Arena Zero guides provide in-depth analysis of the plot, characters, world-building, and production of the world's first AI-generated action series. Perfect for first-time viewers and lore enthusiasts alike.",
+      "why": "Why read our guides?",
+      "whySteps": {
+        "step1Title": "Understand the Plot",
+        "step1Description": "Get a clear breakdown of the Thousand Worlds tournament story and all its twists",
+        "step2Title": "Explore the Lore",
+        "step2Description": "Dive into Planet Zero, the intergalactic arena rules, and the universe's backstory",
+        "step3Title": "Ending Explained",
+        "step3Description": "Understand how Episode 1 ends and what it sets up for future episodes"
       },
       "featured": "Featured & Essential",
       "all": "All Guides"
     },
-    "crafting": {
-      "title": "Arena Zero Trailer",
-      "description": "Master the Apotheosis fusion system with essence mechanics, recipes, and crafting strategies for powerful items.",
-      "metaTitle": "Arena Zero Trailer - Official YouTube Videos",
-      "metaDescription": "Watch Arena Zero official trailers, Episode 1 full video, and preview shorts from the Higgsfield AI YouTube channel.",
-      "categoryLabel": "CRAFTING SYSTEM",
-      "whatIs": "What is Crafting?",
-      "whatIsDescription": "The Apotheosis system is a unique essence-driven fusion mechanic where you combine up to six items to discover new recipes. No fixed crafting menus—experimentation is key.",
-      "why": "Why master crafting?",
+    "release": {
+      "title": "Arena Zero Movie Release Dates",
+      "description": "Stay updated on Arena Zero episode release dates, production schedule, and news about the world's first AI-generated action series.",
+      "metaTitle": "Arena Zero Release Date - Episode Schedule & Updates 2026",
+      "metaDescription": "Arena Zero movie release date tracker. Follow the episode release schedule, Coming Soon updates, and production news for the Higgsfield AI series.",
+      "categoryLabel": "RELEASE UPDATES",
+      "whatIs": "When is Arena Zero Released?",
+      "whatIsDescription": "Arena Zero Episode 1 launched in 2026 on Higgsfield. Episodes 2–5 are listed as Coming Soon. Because AI production is faster than traditional filmmaking, new episodes may arrive quickly.",
+      "why": "Why track release dates?",
       "whySteps": {
-        "step1Title": "Unlock Powerful Items",
-        "step1Description": "Discover essential tools, weapons, and mobility gear through fusion",
-        "step2Title": "Understand Essences",
-        "step2Description": "Learn how item essences combine to create predictable results",
-        "step3Title": "Optimize Resources",
-        "step3Description": "Use dilution mechanics to maximize output from cheap materials"
+        "step1Title": "Never Miss an Episode",
+        "step1Description": "Get notified when new Arena Zero episodes become available on Higgsfield",
+        "step2Title": "Understand the Schedule",
+        "step2Description": "Learn how AI production timelines differ from traditional film release schedules",
+        "step3Title": "Follow the Series",
+        "step3Description": "Stay updated on whether Arena Zero will expand to streaming platforms like Netflix"
       },
       "featured": "Featured & Essential",
-      "all": "All Crafting Guides"
+      "all": "All Release Guides"
     },
-    "items": {
-      "title": "Arena Zero Characters",
-      "description": "Detailed item guides covering tools, weapons, mobility gear, and storage solutions with crafting recipes and usage tips.",
-      "metaTitle": "Arena Zero Characters - Cast and Creatures Guide",
-      "metaDescription": "Complete guide to Arena Zero characters including the protagonist, arena opponents, and creatures from the Higgsfield original series.",
-      "categoryLabel": "ITEMS & EQUIPMENT",
-      "whatIs": "What are Items?",
-      "whatIsDescription": "Comprehensive guides for tools, weapons, mobility gear, and functional items. Learn crafting recipes, usage strategies, and optimal combinations.",
-      "why": "Why check item guides?",
+    "format": {
+      "title": "Arena Zero Movie Format",
+      "description": "Is Arena Zero a movie, series, or AI demo? Explore the format, structure, episode length, and what makes it unique in digital entertainment.",
+      "metaTitle": "Arena Zero Format - Movie, Series or AI Pilot? 2026",
+      "metaDescription": "Understand the Arena Zero format. Is it a movie or series? Learn about the AI-generated format, episode structure, and Higgsfield original series classification.",
+      "categoryLabel": "SERIES FORMAT",
+      "whatIs": "What Format is Arena Zero?",
+      "whatIsDescription": "Arena Zero is a Higgsfield Original Series - an AI-generated episodic sci-fi action series. While often called a movie, it's technically a pilot with 5 planned episodes, each around 10 minutes long.",
+      "why": "Why does format matter?",
       "whySteps": {
-        "step1Title": "Learn Crafting Recipes",
-        "step1Description": "Discover how to craft essential tools and weapons using Apotheosis",
-        "step2Title": "Optimize Equipment",
-        "step2Description": "Choose the best items for your playstyle and progression stage",
-        "step3Title": "Improve Survival",
-        "step3Description": "Equip mobility gear and weapons to navigate the dangerous world"
+        "step1Title": "Movie vs Series",
+        "step1Description": "Clarify the distinction between Arena Zero as a pilot, movie, and ongoing AI series",
+        "step2Title": "AI Production Model",
+        "step2Description": "Learn how the AI format enables faster production and unique storytelling possibilities",
+        "step3Title": "Episode Structure",
+        "step3Description": "Understand the 10-minute episode format and how it fits into the larger narrative"
       },
       "featured": "Featured & Essential",
-      "all": "All Items"
+      "all": "All Format Guides"
     },
-    "biomes": {
-      "title": "Arena Zero Episodes",
-      "description": "Explore world regions, environmental features, resource locations, and survival tips for each biome.",
-      "metaTitle": "Arena Zero Episodes - Full Episode Guide",
-      "metaDescription": "Complete guide to Arena Zero episodes including Episode 1 watch links, Episodes 2-5 status, and release updates from Higgsfield.",
-      "categoryLabel": "WORLD REGIONS",
-      "whatIs": "What are Biomes?",
-      "whatIsDescription": "Guides to different world regions, environmental features, resource distribution, and danger zones. Learn what to expect and how to prepare for each area.",
-      "why": "Why explore biomes?",
+    "platform": {
+      "title": "Arena Zero Movie Platforms",
+      "description": "Find out which platforms carry Arena Zero. From Netflix speculation to OTT availability, discover where you can watch the AI action series.",
+      "metaTitle": "Arena Zero Platforms - Netflix, OTT & Streaming Options 2026",
+      "metaDescription": "Where is Arena Zero streaming? Check Netflix, OTT platforms, and official Higgsfield availability for the world's first AI action series in 2026.",
+      "categoryLabel": "STREAMING PLATFORMS",
+      "whatIs": "Which Platforms Show Arena Zero?",
+      "whatIsDescription": "Arena Zero is currently available on Higgsfield's official platform. Fans are seeking it on Netflix, OTT services, and regional platforms. We track all official and potential distribution channels.",
+      "why": "Why check platform guides?",
       "whySteps": {
-        "step1Title": "Find Resources",
-        "step1Description": "Locate rare materials and essences specific to each region",
-        "step2Title": "Avoid Dangers",
-        "step2Description": "Understand environmental hazards and hostile creatures",
-        "step3Title": "Plan Exploration",
-        "step3Description": "Prepare the right tools and gear for each biome type"
+        "step1Title": "Find Your Platform",
+        "step1Description": "Discover if Arena Zero is on Netflix, Amazon, or other streaming services near you",
+        "step2Title": "Regional Availability",
+        "step2Description": "Check if Arena Zero is accessible in your region, including Tamil, Hindi, and international markets",
+        "step3Title": "Official vs Unofficial",
+        "step3Description": "Know which platforms are official and which are unauthorized copies"
       },
       "featured": "Featured & Essential",
-      "all": "All Biomes"
+      "all": "All Platform Guides"
     },
-    "building": {
-      "title": "Arena Zero Production",
-      "description": "Master Qualia personal dimensions, base building, storage management, and creative construction techniques.",
-      "metaTitle": "Arena Zero Production - How the AI Series Was Made",
-      "metaDescription": "Learn how Arena Zero was produced using Higgsfield AI tools. Behind-the-scenes breakdown of the world's first AI action series.",
-      "categoryLabel": "BUILDING & BASES",
-      "whatIs": "What is Building?",
-      "whatIsDescription": "Guides to the Qualia personal dimension system, base construction, storage management, and creative building. Learn to create your safe haven in the surreal world.",
-      "why": "Why build bases?",
+    "creator": {
+      "title": "Arena Zero Movie Creator - Higgsfield",
+      "description": "Learn about Higgsfield, the AI studio behind Arena Zero. Explore their Seedance 2.0 technology, production team, and the future of AI filmmaking.",
+      "metaTitle": "Arena Zero Creator - Higgsfield AI Studio & Technology 2026",
+      "metaDescription": "Discover Higgsfield, the creator of Arena Zero. Learn about Seedance 2.0 AI technology, the 4-person team, and how they built the world's first AI action series.",
+      "categoryLabel": "CREATOR & STUDIO",
+      "whatIs": "Who Created Arena Zero?",
+      "whatIsDescription": "Arena Zero was created by Higgsfield, an AI-native creative studio. A team of four directors used Higgsfield's proprietary Seedance 2.0 model to produce the entire series in just four days.",
+      "why": "Why learn about the creator?",
       "whySteps": {
-        "step1Title": "Create Safe Spaces",
-        "step1Description": "Establish secure bases for storage and crafting operations",
-        "step2Title": "Manage Resources",
-        "step2Description": "Organize materials efficiently with storage solutions",
-        "step3Title": "Unlock Qualia",
-        "step3Description": "Access personal pocket dimensions for ultimate convenience"
+        "step1Title": "Understand the Technology",
+        "step1Description": "Learn how Seedance 2.0 enables character consistency and cinematic quality in AI-generated film",
+        "step2Title": "Production Insights",
+        "step2Description": "See how 4 directors created a full sci-fi action series in just 4 days using AI tools",
+        "step3Title": "Future of AI Film",
+        "step3Description": "Discover how Higgsfield is shaping the future of independent and AI-native filmmaking"
       },
       "featured": "Featured & Essential",
-      "all": "All Building Guides"
-    },
-    "support": {
-      "title": "Arena Zero FAQ",
-      "description": "Technical support, platform compatibility, performance optimization, and troubleshooting for common issues.",
-      "metaTitle": "Arena Zero FAQ - Common Questions Answered",
-      "metaDescription": "Frequently asked questions about Arena Zero including how to watch, episode status, AI production details, and series updates.",
-      "categoryLabel": "TECHNICAL SUPPORT",
-      "whatIs": "What is Support?",
-      "whatIsDescription": "Technical guides covering platform compatibility, performance optimization, crash fixes, and common issues. Get help with Steam Deck, multiplayer questions, and settings.",
-      "why": "Why check support?",
-      "whySteps": {
-        "step1Title": "Fix Technical Issues",
-        "step1Description": "Resolve crashes, performance problems, and compatibility issues",
-        "step2Title": "Optimize Performance",
-        "step2Description": "Configure settings for best experience on your platform",
-        "step3Title": "Platform Compatibility",
-        "step3Description": "Learn about Steam Deck, controller support, and system requirements"
-      },
-      "featured": "Featured & Essential",
-      "all": "All Support Articles"
+      "all": "All Creator Guides"
     }
   }
 }

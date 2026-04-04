@@ -11,12 +11,14 @@
     }
   },
   "nav": {
-    "guides": "Руководства",
-    "crafting": "Крафт",
-    "items": "Предметы",
-    "biomes": "Биомы",
-    "building": "Строительство",
-    "support": "Поддержка"
+    "episode": "Episodes",
+    "watch": "Watch",
+    "cast": "Cast",
+    "guide": "Guide",
+    "release": "Release",
+    "format": "Format",
+    "platform": "Platform",
+    "creator": "Creator"
   },
   "common": {
     "home": "Главная",

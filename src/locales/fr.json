@@ -11,12 +11,14 @@
     }
   },
   "nav": {
-    "guides": "Guides",
-    "crafting": "Fabrication",
-    "items": "Objets",
-    "biomes": "Biomes",
-    "building": "Construction",
-    "support": "Support"
+    "episode": "Episodes",
+    "watch": "Watch",
+    "cast": "Cast",
+    "guide": "Guide",
+    "release": "Release",
+    "format": "Format",
+    "platform": "Platform",
+    "creator": "Creator"
   },
   "common": {
     "home": "Accueil",
