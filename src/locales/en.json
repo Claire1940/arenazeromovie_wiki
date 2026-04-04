@@ -560,107 +560,206 @@
       ]
     },
     "arenaZeroHiggsfieldGuide": {
-      "title": "Arena Zero Higgsfield Original Series Guide",
+      "title": "How Arena Zero Fits Into Higgsfield Original Series",
+      "eyebrow": "Platform Guide",
+      "subtitle": "Arena Zero is the watch-first title inside Higgsfield's AI-native streaming lineup.",
       "displayType": "cardList",
-      "intro": "Arena Zero is the launch title for Higgsfield's Original Series platform. Higgsfield is an AI video generation company that built its own streaming destination for AI-native content.",
-      "series": [
+      "intro": "Higgsfield positions Arena Zero as the entry point to Original Series: a free, 10-minute sci-fi pilot that launches a broader slate of AI-made episodes and trailers. This guide explains both where Arena Zero sits now and how the larger series slate grows around it.",
+      "items": [
         {
-          "name": "Arena Zero",
-          "status": "Episode 1 Live",
-          "description": "The flagship launch series. A 10-minute sci-fi action pilot about a gamer drafted to represent Earth in an alien tournament."
+          "title": "Watch-first launch title",
+          "value": "Arena Zero",
+          "description": "The official launch article introduces Arena Zero as the title viewers should start with before exploring the rest of the slate."
         },
         {
-          "name": "Higgsfield Original Series Hub",
-          "status": "Active",
-          "description": "The main platform page listing all Higgsfield original content. Arena Zero is the featured entry, with other series in development."
+          "title": "What Original Series is",
+          "value": "AI-native streaming platform",
+          "description": "Higgsfield describes Original Series as a complete streaming destination for fully AI-generated films and series released to a global audience."
         },
         {
-          "name": "Higgsfield AI Platform",
-          "status": "Active",
-          "description": "The underlying AI video generation platform powering all Original Series content. Used by creators to generate character-consistent AI videos."
+          "title": "Launch slate",
+          "value": "1 pilot plus 12 trailers",
+          "description": "The initial rollout combines the Arena Zero pilot with twelve trailers across different genres and worlds."
+        },
+        {
+          "title": "How full series get selected",
+          "value": "Audience decides what expands",
+          "description": "Viewers help determine which trailers move forward into fuller series treatment."
+        },
+        {
+          "title": "Creator pipeline",
+          "value": "Contests feed new titles",
+          "description": "Higgsfield uses contests as the route for independent creators and studios to get discovered, sponsored, and added to Original Series."
+        },
+        {
+          "title": "Scale of the latest contest",
+          "value": "8,752 submissions from 139 countries",
+          "description": "The most recent Action Contest distributed $500,000 to independent filmmakers and serves as the platform's current talent funnel."
+        },
+        {
+          "title": "Viewing model",
+          "value": "Free to watch",
+          "description": "Higgsfield states that Arena Zero and the trailer slate are available to watch for free on the platform."
+        },
+        {
+          "title": "Browsing shelves you will see",
+          "value": "Higgsfield Choice, First Look, On Our Radar, Coming Soon",
+          "description": "These shelves organize the broader slate and make Arena Zero feel like part of a living catalog rather than a single isolated upload."
         }
       ]
     },
     "arenaZeroViewerReactions": {
-      "title": "Arena Zero Viewer Reactions",
+      "title": "What Early Viewers Are Saying About Arena Zero",
+      "eyebrow": "Community Pulse",
+      "subtitle": "The first wave of reactions centers on consistency, fun factor, and whether Arena Zero Movie feels like a real step forward for AI-native filmmaking.",
       "displayType": "quoteWall",
-      "intro": "Arena Zero generated immediate reactions on Reddit and social media after launch. Here is a sample of what viewers said about the Episode 1 experience.",
+      "intro": "Arena Zero Movie is getting discussed less like a novelty clip and more like an early benchmark for long-form AI storytelling. These reactions capture the main themes: character consistency, watchability, genre appeal, and the feeling that AI-made series are becoming easier to imagine as a real category.",
       "quotes": [
         {
-          "text": "This is what I've been waiting for. AI action that actually has narrative structure. Episode 1 sets up something genuinely interesting.",
-          "author": "Viewer on r/aivideo",
-          "source": "Reddit"
+          "text": "the quality and consistency are worth paying attention to",
+          "author": "Taryn O'Neill",
+          "source": "Medium",
+          "theme": "Craft quality"
         },
         {
-          "text": "I was skeptical but the visual quality surprised me. The 7-foot Ogre scene in the arena is legitimately tense.",
-          "author": "r/ChatGPT community",
-          "source": "Reddit"
+          "text": "Dang that was fun.",
+          "author": "SteviaCannonball9117",
+          "source": "Reddit r/aivideo",
+          "theme": "Instant entertainment"
         },
         {
-          "text": "The concept is strong and the pacing works for a 10-minute format. Curious to see if Episode 2 keeps the momentum.",
-          "author": "AI video observer",
-          "source": "Reddit / r/aivideo"
+          "text": "Really well done. The constancy is really impressive.",
+          "author": "notEnotA",
+          "source": "Reddit r/aivideo",
+          "theme": "Character consistency"
         },
         {
-          "text": "The fact that this is fully AI-generated and has coherent characters across the entire episode is the real story here.",
-          "author": "Tech media reader",
-          "source": "Medium"
+          "text": "Dungeon Crawler Carl meets Gladiator. I liked it.",
+          "author": "pexoroo",
+          "source": "Reddit r/aivideo",
+          "theme": "Genre comparison"
+        },
+        {
+          "text": "Ok im hooked sure why not",
+          "author": "5280Rockymtn",
+          "source": "Reddit r/aivideo",
+          "theme": "Series hook"
+        },
+        {
+          "text": "this is the second short ai film ive ever seen that was actually decent. the future is here",
+          "author": "blisstaker",
+          "source": "Reddit r/aivideo",
+          "theme": "AI milestone framing"
         }
       ]
     },
     "arenaZeroSimilarSeries": {
-      "title": "Arena Zero Similar AI Series",
+      "title": "More AI Series and Trailers to Watch After Arena Zero",
+      "eyebrow": "More to Watch",
+      "subtitle": "Arena Zero Movie works best as a gateway title. The Higgsfield Originals hub surfaces a wider set of AI-native titles across featured shelves.",
       "displayType": "gallery",
-      "intro": "If you enjoyed Arena Zero, Higgsfield's Original Series platform has additional AI-generated content. The broader AI video landscape also has other notable productions worth exploring.",
+      "intro": "Higgsfield is not presenting Arena Zero as a one-off experiment. The Original Series hub already surfaces a wider set of AI-native titles across featured shelves, early looks, and newer releases.",
       "series": [
         {
-          "name": "Higgsfield Original Series",
-          "platform": "Higgsfield",
-          "status": "Active",
-          "description": "The full catalog of Higgsfield AI original productions. Arena Zero is the flagship series, with other titles in development or announced."
+          "name": "Spit & Glow",
+          "badge": "Higgsfield Choice",
+          "format": "Featured title",
+          "snapshot": "Listed alongside Arena Zero in the platform's main featured shelf.",
+          "href": "https://higgsfield.ai/original-series/spit-and-glow/episode-1"
         },
         {
-          "name": "Higgsfield AI YouTube Channel",
-          "platform": "YouTube",
-          "status": "Active",
-          "description": "The official Higgsfield AI YouTube channel features Arena Zero episodes, production breakdowns, and previews of upcoming AI-native series."
+          "name": "Bucket List",
+          "badge": "Higgsfield Choice",
+          "format": "Trailer",
+          "snapshot": "The trailer page shows 33.2K views and places it among the platform's front-facing picks.",
+          "href": "https://higgsfield.ai/original-series/bucket-list/episode-1"
         },
         {
-          "name": "AI Video Creator Community",
-          "platform": "Reddit / r/aivideo",
-          "status": "Active",
-          "description": "A community of creators and viewers discussing AI-generated video content, including Arena Zero reactions and other notable AI film projects."
+          "name": "Vermin Control Unit",
+          "badge": "Higgsfield Choice / First Look",
+          "format": "Episode 1",
+          "snapshot": "Appears in multiple shelves and the episode page shows 20.9K views.",
+          "href": "https://higgsfield.ai/original-series/vermin-control-unit/episode-1"
+        },
+        {
+          "name": "Buddy",
+          "badge": "First Look",
+          "format": "Episode 1",
+          "snapshot": "A currently watchable title in the discovery shelf, with 7,317 views on its episode page.",
+          "href": "https://higgsfield.ai/original-series/buddy/episode-1"
+        },
+        {
+          "name": "Tails of Steel",
+          "badge": "First Look / On Our Radar",
+          "format": "Episode 1",
+          "snapshot": "Featured in two browsing shelves, with 19.8K views on its watch page.",
+          "href": "https://higgsfield.ai/original-series/tails-of-steel/episode-1"
+        },
+        {
+          "name": "Viking Courier",
+          "badge": "First Look",
+          "format": "Episode 1",
+          "snapshot": "A live title in the expanding lineup, with 10.8K views on its page.",
+          "href": "https://higgsfield.ai/original-series/viking-courier/episode-1"
+        },
+        {
+          "name": "Misfortune",
+          "badge": "Higgsfield Choice",
+          "format": "Episode 1",
+          "snapshot": "Another featured-series entry, with 9,987 views on the current episode page.",
+          "href": "https://higgsfield.ai/original-series/misfortune/episode-1"
+        },
+        {
+          "name": "Zephyr",
+          "badge": "Current release",
+          "format": "Intro / Episode rollout",
+          "snapshot": "Already present on the hub with fresh rollout activity.",
+          "href": "https://higgsfield.ai/original-series/zephyr/episode-1"
         }
       ]
     },
     "arenaZeroNewsUpdates": {
-      "title": "Arena Zero News and Updates",
+      "title": "Arena Zero and Original Series Launch Timeline",
+      "eyebrow": "Latest Timeline",
+      "subtitle": "This timeline tracks the rollout around Arena Zero Movie, from the platform launch to follow-up episodes and official behind-the-scenes content.",
       "displayType": "timeline",
-      "intro": "Follow the latest official announcements for Arena Zero, including episode releases, platform updates, and series news from Higgsfield.",
+      "intro": "Arena Zero Movie is part of a broader, actively developing release cycle. A timeline works well here because viewers want quick answers about when the platform launched, what went live since, and where official follow-up content is appearing.",
       "events": [
         {
           "date": "Mar 20, 2026",
-          "event": "Higgsfield Original Series launches with Arena Zero",
-          "details": "Higgsfield announces its Original Series platform with Arena Zero as the featured title. Episode 1 is free to watch.",
+          "event": "Original Series launch article goes live",
+          "details": "Higgsfield publishes the official post framing Original Series as the first complete AI streaming platform.",
           "href": "https://higgsfield.ai/blog/blog-original-series"
         },
         {
-          "date": "Episode 1 Live",
-          "event": "Arena Zero Episode 1 reaches 627.9K views on Higgsfield",
-          "details": "Episode 1 accumulates 627.9K official views on the Higgsfield platform and 694K on YouTube.",
+          "date": "Mar 20, 2026",
+          "event": "Arena Zero Movie is named the watch-first title",
+          "details": "The launch article says the rollout starts with Arena Zero, a 10-minute sci-fi pilot, plus twelve trailers produced by the Higgsfield team.",
+          "href": "https://higgsfield.ai/blog/blog-original-series"
+        },
+        {
+          "date": "Late Mar 2026",
+          "event": "Arena Zero Episode 1 becomes the anchor watch page",
+          "details": "The on-platform Episode 1 page shows 627.9K views and presents Episode 2 through Episode 5 slots in the series rail.",
           "href": "https://higgsfield.ai/original-series/arena-zero/episode-1"
         },
         {
-          "date": "Episode 2 Page Live",
-          "event": "Episode 2 URL and synopsis are publicly accessible",
-          "details": "The official Episode 2 page is live on Higgsfield with a story synopsis, but the episode itself still shows Coming Soon.",
+          "date": "Mar 19, 2026",
+          "event": "Additional Arena Zero episode pages are listed",
+          "details": "Episode 2 is indexed on the platform with its own page and 12.7K views, extending Arena Zero beyond a single landing page.",
           "href": "https://higgsfield.ai/original-series/arena-zero/episode-2"
         },
         {
-          "date": "Episodes 3-5",
-          "event": "Episodes 3, 4, and 5 pages indexed on Higgsfield",
-          "details": "All five Arena Zero episode pages are publicly accessible. Episodes 3-5 show early view counts and are marked Coming Soon.",
-          "href": "https://higgsfield.ai/original-series"
+          "date": "Early Apr 2026",
+          "event": "Official breakdown video appears on YouTube",
+          "details": "Higgsfield adds Seedance 2.0: Arena Zero Breakdown to the official channel, giving the series a making-of style follow-up.",
+          "href": "https://www.youtube.com/watch?v=036jyFZWppw"
+        },
+        {
+          "date": "Early Apr 2026",
+          "event": "The platform continues rolling out new titles",
+          "details": "Zephyr's current episode page appears as a fresh release, showing that Original Series is expanding beyond the Arena Zero launch wave.",
+          "href": "https://higgsfield.ai/original-series/zephyr/episode-1"
         }
       ]
     }

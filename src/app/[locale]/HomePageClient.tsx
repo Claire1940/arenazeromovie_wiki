@@ -796,26 +796,31 @@ export default function HomePageClient({ latestArticles, moduleLinkMap, locale }
       <section id="arena-zero-higgsfield-guide" className="scroll-mt-24 px-4 py-20">
         <div className="container mx-auto max-w-5xl">
           <div className="text-center mb-12 scroll-reveal">
-            <p className="text-sm font-medium text-[hsl(var(--nav-theme-light))] uppercase tracking-wide mb-3">Platform</p>
-            <h2 className="text-4xl md:text-5xl font-bold mb-4">
+            <p className="text-sm font-medium text-[hsl(var(--nav-theme-light))] uppercase tracking-wide mb-3">{t.modules.arenaZeroHiggsfieldGuide.eyebrow}</p>
+            <h2 className="text-4xl md:text-5xl font-bold mb-3">
               <LinkedTitle linkData={moduleLinkMap['arenaZeroHiggsfieldGuide']} locale={locale}>
                 {t.modules.arenaZeroHiggsfieldGuide.title}
               </LinkedTitle>
             </h2>
-            <p className="text-muted-foreground text-lg max-w-3xl mx-auto">
+            <p className="text-xl text-foreground/80 font-medium max-w-3xl mx-auto mb-4">
+              {t.modules.arenaZeroHiggsfieldGuide.subtitle}
+            </p>
+            <p className="text-muted-foreground text-base max-w-3xl mx-auto">
               {t.modules.arenaZeroHiggsfieldGuide.intro}
             </p>
           </div>
 
-          <div className="scroll-reveal grid grid-cols-1 md:grid-cols-3 gap-6">
-            {t.modules.arenaZeroHiggsfieldGuide.series.map((item: any, index: number) => (
-              <div key={index} className="p-6 bg-white/5 border border-border rounded-xl hover:border-[hsl(var(--nav-theme)/0.5)] transition-colors">
-                <div className="flex items-center gap-3 mb-4">
+          <div className="scroll-reveal grid grid-cols-1 md:grid-cols-2 gap-4">
+            {t.modules.arenaZeroHiggsfieldGuide.items.map((item: any, index: number) => (
+              <div key={index} className="flex gap-4 p-5 bg-white/5 border border-border rounded-xl hover:border-[hsl(var(--nav-theme)/0.5)] transition-colors">
+                <div className="flex-shrink-0 w-10 h-10 rounded-lg bg-[hsl(var(--nav-theme)/0.1)] flex items-center justify-center">
                   <Globe className="w-5 h-5 text-[hsl(var(--nav-theme-light))]" />
-                  <span className="text-xs px-2 py-1 rounded-full bg-[hsl(var(--nav-theme)/0.1)] border border-[hsl(var(--nav-theme)/0.3)]">{item.status}</span>
                 </div>
-                <h3 className="font-bold mb-2">{item.name}</h3>
-                <p className="text-muted-foreground text-sm">{item.description}</p>
+                <div className="flex-1 min-w-0">
+                  <p className="text-xs text-muted-foreground mb-1">{item.title}</p>
+                  <p className="font-bold text-sm text-[hsl(var(--nav-theme-light))] mb-1">{item.value}</p>
+                  <p className="text-muted-foreground text-xs">{item.description}</p>
+                </div>
               </div>
             ))}
           </div>
@@ -826,23 +831,31 @@ export default function HomePageClient({ latestArticles, moduleLinkMap, locale }
       <section id="arena-zero-viewer-reactions" className="scroll-mt-24 px-4 py-20 bg-white/[0.02]">
         <div className="container mx-auto max-w-5xl">
           <div className="text-center mb-12 scroll-reveal">
-            <p className="text-sm font-medium text-[hsl(var(--nav-theme-light))] uppercase tracking-wide mb-3">Community</p>
-            <h2 className="text-4xl md:text-5xl font-bold mb-4">
+            <p className="text-sm font-medium text-[hsl(var(--nav-theme-light))] uppercase tracking-wide mb-3">{t.modules.arenaZeroViewerReactions.eyebrow}</p>
+            <h2 className="text-4xl md:text-5xl font-bold mb-3">
               <LinkedTitle linkData={moduleLinkMap['arenaZeroViewerReactions']} locale={locale}>
                 {t.modules.arenaZeroViewerReactions.title}
               </LinkedTitle>
             </h2>
-            <p className="text-muted-foreground text-lg max-w-3xl mx-auto">
+            <p className="text-xl text-foreground/80 font-medium max-w-3xl mx-auto mb-4">
+              {t.modules.arenaZeroViewerReactions.subtitle}
+            </p>
+            <p className="text-muted-foreground text-base max-w-3xl mx-auto">
               {t.modules.arenaZeroViewerReactions.intro}
             </p>
           </div>
 
-          <div className="scroll-reveal grid grid-cols-1 md:grid-cols-2 gap-6">
+          <div className="scroll-reveal grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6">
             {t.modules.arenaZeroViewerReactions.quotes.map((quote: any, index: number) => (
-              <div key={index} className="p-6 bg-white/5 border border-border rounded-xl hover:border-[hsl(var(--nav-theme)/0.5)] transition-colors">
-                <MessageCircle className="w-5 h-5 text-[hsl(var(--nav-theme-light))] mb-3" />
-                <p className="text-sm mb-4 italic">"{quote.text}"</p>
-                <div className="flex items-center justify-between">
+              <div key={index} className="p-6 bg-white/5 border border-border rounded-xl hover:border-[hsl(var(--nav-theme)/0.5)] transition-colors flex flex-col">
+                <div className="flex items-center justify-between mb-3">
+                  <MessageCircle className="w-5 h-5 text-[hsl(var(--nav-theme-light))]" />
+                  {quote.theme && (
+                    <span className="text-xs px-2 py-0.5 rounded-full bg-[hsl(var(--nav-theme)/0.1)] border border-[hsl(var(--nav-theme)/0.3)] text-[hsl(var(--nav-theme-light))]">{quote.theme}</span>
+                  )}
+                </div>
+                <p className="text-sm mb-4 italic flex-1">"{quote.text}"</p>
+                <div className="flex items-center justify-between mt-auto">
                   <span className="text-xs font-semibold text-[hsl(var(--nav-theme-light))]">{quote.author}</span>
                   <span className="text-xs text-muted-foreground">{quote.source}</span>
                 </div>
@@ -856,30 +869,42 @@ export default function HomePageClient({ latestArticles, moduleLinkMap, locale }
       <section id="arena-zero-similar-series" className="scroll-mt-24 px-4 py-20">
         <div className="container mx-auto max-w-5xl">
           <div className="text-center mb-12 scroll-reveal">
-            <p className="text-sm font-medium text-[hsl(var(--nav-theme-light))] uppercase tracking-wide mb-3">Discover More</p>
-            <h2 className="text-4xl md:text-5xl font-bold mb-4">
+            <p className="text-sm font-medium text-[hsl(var(--nav-theme-light))] uppercase tracking-wide mb-3">{t.modules.arenaZeroSimilarSeries.eyebrow}</p>
+            <h2 className="text-4xl md:text-5xl font-bold mb-3">
               <LinkedTitle linkData={moduleLinkMap['arenaZeroSimilarSeries']} locale={locale}>
                 {t.modules.arenaZeroSimilarSeries.title}
               </LinkedTitle>
             </h2>
-            <p className="text-muted-foreground text-lg max-w-3xl mx-auto">
+            <p className="text-xl text-foreground/80 font-medium max-w-3xl mx-auto mb-4">
+              {t.modules.arenaZeroSimilarSeries.subtitle}
+            </p>
+            <p className="text-muted-foreground text-base max-w-3xl mx-auto">
               {t.modules.arenaZeroSimilarSeries.intro}
             </p>
           </div>
 
-          <div className="scroll-reveal grid grid-cols-1 md:grid-cols-3 gap-6">
+          <div className="scroll-reveal grid grid-cols-2 md:grid-cols-3 lg:grid-cols-4 gap-4">
             {t.modules.arenaZeroSimilarSeries.series.map((item: any, index: number) => (
-              <div key={index} className="p-6 bg-white/5 border border-border rounded-xl hover:border-[hsl(var(--nav-theme)/0.5)] transition-colors">
-                <div className="flex items-center gap-3 mb-4">
-                  <div className="w-10 h-10 rounded-lg bg-[hsl(var(--nav-theme)/0.1)] flex items-center justify-center">
-                    <Sparkles className="w-5 h-5 text-[hsl(var(--nav-theme-light))]" />
+              <a
+                key={index}
+                href={item.href}
+                target="_blank"
+                rel="noopener noreferrer"
+                className="p-4 bg-white/5 border border-border rounded-xl hover:border-[hsl(var(--nav-theme)/0.5)] transition-colors group flex flex-col"
+              >
+                <div className="flex items-center gap-2 mb-3">
+                  <div className="w-8 h-8 rounded-lg bg-[hsl(var(--nav-theme)/0.1)] flex items-center justify-center group-hover:bg-[hsl(var(--nav-theme)/0.2)] transition-colors flex-shrink-0">
+                    <Sparkles className="w-4 h-4 text-[hsl(var(--nav-theme-light))]" />
                   </div>
-                  <span className="text-xs px-2 py-1 rounded-full bg-[hsl(var(--nav-theme)/0.1)] border border-[hsl(var(--nav-theme)/0.3)]">{item.status}</span>
+                  <span className="text-xs px-1.5 py-0.5 rounded-full bg-[hsl(var(--nav-theme)/0.1)] border border-[hsl(var(--nav-theme)/0.3)] text-[hsl(var(--nav-theme-light))] leading-tight truncate">{item.badge}</span>
                 </div>
-                <h3 className="font-bold mb-1">{item.name}</h3>
-                <p className="text-xs text-[hsl(var(--nav-theme-light))] mb-2">{item.platform}</p>
-                <p className="text-muted-foreground text-sm">{item.description}</p>
-              </div>
+                <h3 className="font-bold text-sm mb-1 group-hover:text-[hsl(var(--nav-theme-light))] transition-colors">{item.name}</h3>
+                <p className="text-xs text-muted-foreground mb-2">{item.format}</p>
+                <p className="text-muted-foreground text-xs flex-1">{item.snapshot}</p>
+                <div className="flex items-center gap-1 mt-3 text-xs font-medium text-[hsl(var(--nav-theme-light))]">
+                  Watch <ExternalLink className="w-3 h-3" />
+                </div>
+              </a>
             ))}
           </div>
         </div>
@@ -889,13 +914,16 @@ export default function HomePageClient({ latestArticles, moduleLinkMap, locale }
       <section id="arena-zero-news-updates" className="scroll-mt-24 px-4 py-20 bg-white/[0.02]">
         <div className="container mx-auto max-w-5xl">
           <div className="text-center mb-12 scroll-reveal">
-            <p className="text-sm font-medium text-[hsl(var(--nav-theme-light))] uppercase tracking-wide mb-3">News</p>
-            <h2 className="text-4xl md:text-5xl font-bold mb-4">
+            <p className="text-sm font-medium text-[hsl(var(--nav-theme-light))] uppercase tracking-wide mb-3">{t.modules.arenaZeroNewsUpdates.eyebrow}</p>
+            <h2 className="text-4xl md:text-5xl font-bold mb-3">
               <LinkedTitle linkData={moduleLinkMap['arenaZeroNewsUpdates']} locale={locale}>
                 {t.modules.arenaZeroNewsUpdates.title}
               </LinkedTitle>
             </h2>
-            <p className="text-muted-foreground text-lg max-w-3xl mx-auto">
+            <p className="text-xl text-foreground/80 font-medium max-w-3xl mx-auto mb-4">
+              {t.modules.arenaZeroNewsUpdates.subtitle}
+            </p>
+            <p className="text-muted-foreground text-base max-w-3xl mx-auto">
               {t.modules.arenaZeroNewsUpdates.intro}
             </p>
           </div>
@@ -907,10 +935,20 @@ export default function HomePageClient({ latestArticles, moduleLinkMap, locale }
                 <div className="p-5 bg-white/5 border border-border rounded-xl hover:border-[hsl(var(--nav-theme)/0.5)] transition-colors">
                   <div className="flex items-center gap-2 mb-2">
                     <Bell className="w-4 h-4 text-[hsl(var(--nav-theme-light))]" />
-                    <span className="text-xs text-muted-foreground">{event.date}</span>
+                    <span className="text-xs font-medium text-[hsl(var(--nav-theme-light))]">{event.date}</span>
                   </div>
                   <h3 className="font-bold mb-1">{event.event}</h3>
-                  <p className="text-muted-foreground text-sm">{event.details}</p>
+                  <p className="text-muted-foreground text-sm mb-3">{event.details}</p>
+                  {event.href && (
+                    <a
+                      href={event.href}
+                      target="_blank"
+                      rel="noopener noreferrer"
+                      className="inline-flex items-center gap-1 text-xs font-medium text-[hsl(var(--nav-theme-light))] hover:underline"
+                    >
+                      View source <ExternalLink className="w-3 h-3" />
+                    </a>
+                  )}
                 </div>
               </div>
             ))}
