@@ -36,7 +36,7 @@ export function generateStaticParams() {
 // 生成元数据
 export async function generateMetadata({ params }: Props): Promise<Metadata> {
 	const { locale } = await params
-	const siteUrl = process.env.NEXT_PUBLIC_SITE_URL || 'https://www.lucidblocks.wiki'
+	const siteUrl = process.env.NEXT_PUBLIC_SITE_URL || 'https://arenazeromovie.wiki'
 
 	// 获取 SEO 翻译
 	const t = await getTranslations('seo.home')
@@ -64,15 +64,15 @@ export async function generateMetadata({ params }: Props): Promise<Metadata> {
 			type: 'website',
 			locale: locale,
 			url: locale === 'en' ? siteUrl : `${siteUrl}/${locale}`,
-			siteName: 'Lucid Blocks Wiki',
+			siteName: 'Arena Zero Movie Wiki',
 			title: t('ogTitle'),
 			description: t('ogDescription'),
 			images: [
 				{
-					url: `${siteUrl}/images/hero.webp`,
+					url: 'https://arenazeromovie.wiki/images/hero.webp',
 					width: 1920,
 					height: 1080,
-					alt: 'Lucid Blocks - Surreal Voxel Sandbox',
+					alt: 'Arena Zero - AI-Native Sci-Fi Action Series',
 				},
 			],
 		},
@@ -80,8 +80,8 @@ export async function generateMetadata({ params }: Props): Promise<Metadata> {
 			card: 'summary_large_image',
 			title: t('twitterTitle'),
 			description: t('twitterDescription'),
-			images: [`${siteUrl}/images/hero.webp`],
-			creator: '@lucidblocks',
+			images: ['https://arenazeromovie.wiki/images/hero.webp'],
+			creator: '@higgsfield_ai',
 		},
 		icons: {
 			icon: [
@@ -125,6 +125,25 @@ export default async function LocaleLayout({ children, params }: Props) {
 					src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-7733402184034568"
 					crossOrigin="anonymous"
 					strategy="lazyOnload"
+				/>
+				<Script
+					id="organization-jsonld"
+					type="application/ld+json"
+					strategy="afterInteractive"
+					dangerouslySetInnerHTML={{
+						__html: JSON.stringify({
+							'@context': 'https://schema.org',
+							'@type': 'Organization',
+							name: 'Arena Zero Movie Wiki',
+							url: 'https://arenazeromovie.wiki',
+							logo: 'https://arenazeromovie.wiki/images/hero.webp',
+							image: 'https://arenazeromovie.wiki/images/hero.webp',
+							sameAs: [
+								'https://www.youtube.com/@HiggsfielfAI',
+								'https://www.instagram.com/higgsfield.ai/',
+							],
+						}),
+					}}
 				/>
 			</head>
 			<body suppressHydrationWarning className="antialiased">

@@ -77,7 +77,7 @@ interface HomePageClientProps {
 
 export default function HomePageClient({ latestArticles, moduleLinkMap, locale }: HomePageClientProps) {
   const t = useMessages() as any
-  const siteUrl = process.env.NEXT_PUBLIC_SITE_URL || 'https://www.lucidblocks.wiki'
+  const siteUrl = process.env.NEXT_PUBLIC_SITE_URL || 'https://arenazeromovie.wiki'
 
   // Structured data
   const structuredData = {
@@ -87,14 +87,14 @@ export default function HomePageClient({ latestArticles, moduleLinkMap, locale }
         '@type': 'WebSite',
         '@id': `${siteUrl}/#website`,
         url: siteUrl,
-        name: "Lucid Blocks Wiki",
-        description: "Complete Lucid Blocks Wiki covering crafting, biomes, creatures, items, achievements, lore, and survival tips for the surreal voxel sandbox on Steam.",
+        name: "Arena Zero Movie Wiki",
+        description: "Arena Zero Movie Wiki covering Episode 1, trailer, plot, ending explained, characters, reviews, AI production, and episode updates.",
         image: {
           '@type': 'ImageObject',
           url: `${siteUrl}/images/hero.webp`,
           width: 1920,
           height: 1080,
-          caption: "Lucid Blocks - Surreal Voxel Survival Sandbox",
+          caption: "Arena Zero - AI-Native Sci-Fi Action Series",
         },
         potentialAction: {
           '@type': 'SearchAction',
@@ -105,10 +105,10 @@ export default function HomePageClient({ latestArticles, moduleLinkMap, locale }
       {
         '@type': 'Organization',
         '@id': `${siteUrl}/#organization`,
-        name: "Lucid Blocks Wiki",
-        alternateName: "Lucid Blocks",
+        name: "Arena Zero Movie Wiki",
+        alternateName: "Arena Zero Wiki",
         url: siteUrl,
-        description: "Complete Lucid Blocks Wiki resource hub for crafting, biomes, creatures, items, achievements, and survival guides",
+        description: "Arena Zero Movie Wiki - resource hub for Episode 1, trailer, plot, ending explained, characters, reviews, AI production, and episode updates",
         logo: {
           '@type': 'ImageObject',
           url: `${siteUrl}/android-chrome-512x512.png`,
@@ -120,31 +120,14 @@ export default function HomePageClient({ latestArticles, moduleLinkMap, locale }
           url: `${siteUrl}/images/hero.webp`,
           width: 1920,
           height: 1080,
-          caption: "Lucid Blocks Wiki - Surreal Voxel Survival Sandbox",
+          caption: "Arena Zero Movie Wiki - AI-Native Sci-Fi Action Series",
         },
         sameAs: [
-          'https://store.steampowered.com/app/3495730/Lucid_Blocks/',
-          'https://discord.com/invite/lucidblocks',
-          'https://www.reddit.com/r/LucidBlocks/',
-          'https://www.youtube.com/@lucy_b_locks',
+          'https://higgsfield.ai/original-series',
+          'https://www.youtube.com/@HiggsfielfAI',
+          'https://www.instagram.com/higgsfield.ai/',
+          'https://www.reddit.com/r/aivideo/',
         ],
-      },
-      {
-        '@type': 'VideoGame',
-        name: "Lucid Blocks",
-        gamePlatform: ['PC', 'Steam'],
-        applicationCategory: 'Game',
-        genre: ['Survival', 'Sandbox', 'Adventure', 'Psychedelic'],
-        numberOfPlayers: {
-          minValue: 1,
-          maxValue: 1,
-        },
-        offers: {
-          '@type': 'Offer',
-          priceCurrency: 'USD',
-          availability: 'https://schema.org/InStock',
-          url: 'https://store.steampowered.com/app/3495730/Lucid_Blocks/',
-        },
       },
     ],
   }
@@ -236,14 +219,14 @@ export default function HomePageClient({ latestArticles, moduleLinkMap, locale }
                 {t.hero.getFreeCodesCTA}
               </button>
               <a
-                href="https://store.steampowered.com/app/3495730/Lucid_Blocks/"
+                href="https://higgsfield.ai/original-series/arena-zero/episode-1"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="inline-flex items-center justify-center gap-2 px-8 py-4
                            border border-border hover:bg-white/10 rounded-lg
                            font-semibold text-lg transition-colors"
               >
-                {t.hero.playOnSteamCTA}
+                {t.hero.playOnRobloxCTA}
                 <ArrowRight className="w-5 h-5" />
               </a>
             </div>
@@ -264,8 +247,8 @@ export default function HomePageClient({ latestArticles, moduleLinkMap, locale }
         <div className="scroll-reveal container mx-auto max-w-4xl">
           <div className="relative rounded-2xl overflow-hidden">
             <VideoFeature
-              videoId="7C7fybRM_No"
-              title="LUCID BLOCKS | AVAILABLE NOW"
+              videoId="qqcH-1Rk-ow"
+              title="Arena Zero Episode 1 - World's First AI Action Series"
               posterImage="/images/hero.webp"
             />
           </div>
@@ -832,13 +815,13 @@ export default function HomePageClient({ latestArticles, moduleLinkMap, locale }
                 <h3 className="font-bold text-yellow-400 mb-2">Still having issues?</h3>
                 <p className="text-sm text-muted-foreground mb-3">Report bugs with your logs through the official channels:</p>
                 <div className="flex flex-wrap gap-3">
-                  <a href="https://discord.com/invite/lucidblocks" target="_blank" rel="noopener noreferrer"
+                  <a href="https://higgsfield.ai/contact" target="_blank" rel="noopener noreferrer"
                     className="inline-flex items-center gap-2 px-4 py-2 rounded-lg bg-[hsl(var(--nav-theme)/0.1)] border border-[hsl(var(--nav-theme)/0.3)] text-sm hover:bg-[hsl(var(--nav-theme)/0.2)] transition-colors">
-                    <MessageCircle className="w-4 h-4" /> Discord <ExternalLink className="w-3 h-3" />
+                    <MessageCircle className="w-4 h-4" /> Higgsfield Contact <ExternalLink className="w-3 h-3" />
                   </a>
-                  <a href="https://store.steampowered.com/app/3495730/Lucid_Blocks/" target="_blank" rel="noopener noreferrer"
+                  <a href="https://higgsfield.ai/original-series" target="_blank" rel="noopener noreferrer"
                     className="inline-flex items-center gap-2 px-4 py-2 rounded-lg bg-[hsl(var(--nav-theme)/0.1)] border border-[hsl(var(--nav-theme)/0.3)] text-sm hover:bg-[hsl(var(--nav-theme)/0.2)] transition-colors">
-                    Steam Community <ExternalLink className="w-3 h-3" />
+                    Official Series <ExternalLink className="w-3 h-3" />
                   </a>
                 </div>
               </div>
@@ -888,7 +871,7 @@ export default function HomePageClient({ latestArticles, moduleLinkMap, locale }
               <ul className="space-y-2 text-sm">
                 <li>
                   <a
-                    href="https://discord.com/invite/lucidblocks"
+                    href="https://higgsfield.ai/contact"
                     target="_blank"
                     rel="noopener noreferrer"
                     className="text-muted-foreground hover:text-[hsl(var(--nav-theme-light))] transition"
@@ -898,32 +881,42 @@ export default function HomePageClient({ latestArticles, moduleLinkMap, locale }
                 </li>
                 <li>
                   <a
-                    href="https://x.com/lucidblocks"
+                    href="https://www.youtube.com/@HiggsfielfAI"
                     target="_blank"
                     rel="noopener noreferrer"
                     className="text-muted-foreground hover:text-[hsl(var(--nav-theme-light))] transition"
                   >
-                    {t.footer.twitter}
+                    {t.footer.youtube}
                   </a>
                 </li>
                 <li>
                   <a
-                    href="https://steamcommunity.com/app/3495730"
+                    href="https://www.instagram.com/higgsfield.ai/"
                     target="_blank"
                     rel="noopener noreferrer"
                     className="text-muted-foreground hover:text-[hsl(var(--nav-theme-light))] transition"
                   >
-                    {t.footer.steamCommunity}
+                    {t.footer.instagram}
                   </a>
                 </li>
                 <li>
                   <a
-                    href="https://store.steampowered.com/app/3495730/Lucid_Blocks/"
+                    href="https://www.reddit.com/r/aivideo/"
                     target="_blank"
                     rel="noopener noreferrer"
                     className="text-muted-foreground hover:text-[hsl(var(--nav-theme-light))] transition"
                   >
-                    {t.footer.steamStore}
+                    {t.footer.reddit}
+                  </a>
+                </li>
+                <li>
+                  <a
+                    href="https://higgsfield.ai/original-series"
+                    target="_blank"
+                    rel="noopener noreferrer"
+                    className="text-muted-foreground hover:text-[hsl(var(--nav-theme-light))] transition"
+                  >
+                    {t.footer.officialSite}
                   </a>
                 </li>
               </ul>

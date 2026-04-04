@@ -1,13 +1,13 @@
 {
   "seo": {
     "home": {
-      "title": "Lucid Blocks Wiki - Crafting, Biomes & Achievements",
-      "description": "Lucid Blocks Wiki covers crafting, biomes, creatures, items, achievements, endings, and survival tips for the surreal voxel sandbox adventure on Steam.",
-      "keywords": "Lucid Blocks, Lucid Blocks wiki, crafting, biomes, achievements, survival, Steam",
-      "ogTitle": "Lucid Blocks Wiki - Crafting, Biomes & Achievements",
-      "ogDescription": "Lucid Blocks Wiki covers crafting, biomes, creatures, items, achievements, endings, and survival tips for the surreal voxel sandbox adventure on Steam.",
-      "twitterTitle": "Lucid Blocks Wiki - Crafting, Biomes & Achievements",
-      "twitterDescription": "Lucid Blocks Wiki covers crafting, biomes, creatures, items, achievements, and survival tips for the surreal voxel sandbox on Steam."
+      "title": "Arena Zero Wiki - Episode 1, Trailer & Ending Guide",
+      "description": "Arena Zero Wiki covers Episode 1, trailer, plot, ending explained, watch links, AI production details, release updates, and series news for Higgsfield viewers.",
+      "keywords": "Arena Zero, Arena Zero movie, Episode 1, trailer, ending explained, Higgsfield, AI series",
+      "ogTitle": "Arena Zero Wiki - Episode 1, Trailer & Ending Guide",
+      "ogDescription": "Arena Zero Wiki covers Episode 1, trailer, plot, ending explained, watch links, AI production details, release updates, and series news for Higgsfield viewers.",
+      "twitterTitle": "Arena Zero Wiki - Episode 1, Trailer & Ending Guide",
+      "twitterDescription": "Arena Zero Wiki covers Episode 1, trailer, plot, ending explained, watch links, AI production details, and series news for Higgsfield viewers."
     }
   },
   "nav": {
@@ -33,27 +33,27 @@
     "readMore": "Read More"
   },
   "hero": {
-    "badge": "Surreal Voxel Survival Sandbox",
-    "title": "Lucid Blocks Wiki",
-    "description": "Explore dreamlike biomes, fuse items with Apotheosis, build freely, and survive strange creatures in this surreal open-world sandbox on Steam.",
-    "getFreeCodesCTA": "Explore Crafting Guide",
-    "playOnSteamCTA": "Play on Steam",
+    "badge": "AI-Native Sci-Fi Action Series",
+    "title": "Arena Zero Movie Wiki",
+    "description": "Watch Arena Zero Episode 1, explore the plot, ending, characters, trailer, AI production process, and future episode updates in one place.",
+    "getFreeCodesCTA": "Watch Episode 1",
+    "playOnRobloxCTA": "Official Site",
     "stats": {
       "stat1": {
-        "value": "1,325",
-        "label": "Players Online"
+        "value": "627.9K",
+        "label": "Official Views"
       },
       "stat2": {
-        "value": "1,986",
-        "label": "Peak CCU"
+        "value": "694K",
+        "label": "YouTube Views"
       },
       "stat3": {
-        "value": "97%",
-        "label": "Positive Reviews"
+        "value": "10 Min",
+        "label": "Runtime"
       },
       "stat4": {
-        "value": "Mar 12, 2026",
-        "label": "Release Date"
+        "value": "5 Listed",
+        "label": "Episodes"
       }
     }
   },
@@ -784,26 +784,28 @@
     ]
   },
   "cta": {
-    "title": "Ready to Explore Lucid Blocks?",
-    "description": "Join the Lucid Blocks community on Discord for guides, updates, and discussions!",
+    "title": "Ready to Explore Arena Zero?",
+    "description": "Join the Arena Zero community and stay updated on new episodes, trailers, and AI production breakdowns!",
     "joinCommunity": "Join Discord",
-    "joinGame": "Play on Steam"
+    "joinGame": "Watch Episode 1"
   },
   "footer": {
-    "title": "Lucid Blocks Wiki",
-    "description": "Your complete resource hub for Lucid Blocks crafting, biomes, creatures, achievements, and survival guides.",
+    "title": "Arena Zero Movie Wiki",
+    "description": "Your complete resource hub for Arena Zero episodes, trailers, plot, ending explained, characters, reviews, and AI production guides.",
     "resources": "Resources",
     "community": "Community",
     "legal": "Legal",
     "discord": "Discord",
     "twitter": "X / Twitter",
-    "steamCommunity": "Steam Community",
-    "steamStore": "Steam Store",
+    "youtube": "YouTube",
+    "instagram": "Instagram",
+    "reddit": "Reddit",
+    "officialSite": "Official Site",
     "about": "About",
     "privacy": "Privacy Policy",
     "terms": "Terms of Service",
     "copyrightNotice": "Copyright",
-    "copyright": "© 2026 Lucid Blocks Wiki. Not affiliated with the developers of Lucid Blocks.",
+    "copyright": "© 2025-2026 Arena Zero Movie Wiki. Not affiliated with Higgsfield AI.",
     "disclaimer": "Unofficial fan-made resource website."
   },
   "pages": {
