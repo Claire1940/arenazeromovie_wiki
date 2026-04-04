@@ -28,6 +28,17 @@ export const iconRegistry: Record<string, LucideIcon> = {
   Gamepad2: LucideIcons.Gamepad2,
   TrendingUp: LucideIcons.TrendingUp,
 
+  // Arena Zero Movie 图标
+  Play: LucideIcons.Play,
+  Tv: LucideIcons.Tv,
+  Calendar: LucideIcons.Calendar,
+  Lightbulb: LucideIcons.Lightbulb,
+  Video: LucideIcons.Video,
+  Cpu: LucideIcons.Cpu,
+  Clapperboard: LucideIcons.Clapperboard,
+  Globe: LucideIcons.Globe,
+  Bell: LucideIcons.Bell,
+
   // UI 交互图标
   Sparkles: LucideIcons.Sparkles,
   ChevronDown: LucideIcons.ChevronDown,

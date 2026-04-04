@@ -51,734 +51,629 @@
     }
   },
   "gameFeature": {
-    "title": "Lucid Blocks Gameplay",
-    "description": "Explore surreal biomes, fuse items with Apotheosis, and survive strange creatures in this dreamlike voxel sandbox on Steam."
+    "title": "Arena Zero - Watch the First AI Action Series",
+    "description": "A 10-minute sci-fi pilot created entirely with AI tools. Watch Episode 1 free on Higgsfield, explore the plot, characters, and the production story behind it."
   },
   "tools": {
-    "title": "Lucid Blocks",
-    "titleHighlight": "Resources",
-    "subtitle": "Everything you need to explore, craft, and survive in Lucid Blocks",
+    "title": "Arena Zero",
+    "titleHighlight": "Wiki Guide",
+    "subtitle": "Everything you need to explore episodes, plot, trailers, characters, and AI production for Arena Zero",
     "cards": [
       {
+        "icon": "Play",
+        "title": "Arena Zero Watch Online",
+        "description": "Official streaming links and free watch options"
+      },
+      {
         "icon": "BookOpen",
-        "title": "Beginner Guide",
-        "description": "First steps, exploration, and early progression"
+        "title": "Arena Zero Plot Summary",
+        "description": "Full story breakdown from Episode 1"
       },
       {
-        "icon": "Sparkles",
-        "title": "Apotheosis Crafting",
-        "description": "Freeform fusion system and early recipes"
+        "icon": "Tv",
+        "title": "Arena Zero Episode Guide",
+        "description": "All 5 episodes, status, and view counts"
       },
       {
-        "icon": "Hammer",
-        "title": "Tools and Weapons",
-        "description": "Frost Pick, Azrael, Hookshot, and more"
+        "icon": "Calendar",
+        "title": "Arena Zero Episode 2 Release",
+        "description": "Official release timeline and Coming Soon status"
       },
       {
-        "icon": "Package",
-        "title": "Storage and Inventory",
-        "description": "Cache Cubes, Cabinets, and Qualia storage"
+        "icon": "Lightbulb",
+        "title": "Arena Zero Ending Explained",
+        "description": "What happened, why it ended that way"
       },
       {
-        "icon": "Home",
-        "title": "Qualia and Base Building",
-        "description": "Personal Qualia and home base setup"
-      },
-      {
-        "icon": "Eye",
-        "title": "World Regions",
-        "description": "Fog Meadow, Essence Morass, and more"
-      },
-      {
-        "icon": "AlertTriangle",
-        "title": "Creatures and Enemies",
-        "description": "Manikins, spiders, and how to survive"
-      },
-      {
-        "icon": "ArrowRight",
-        "title": "Mobility Gear",
-        "description": "Hookshot, Glider Glove, Bee Glider"
-      },
-      {
-        "icon": "TrendingUp",
-        "title": "Farming and Growth",
-        "description": "Seed progression and material farming"
+        "icon": "Video",
+        "title": "Arena Zero Trailer",
+        "description": "Official YouTube uploads and preview clips"
       },
       {
         "icon": "Star",
-        "title": "Best Early Unlocks",
-        "description": "Priority upgrades for the first hour"
+        "title": "Arena Zero Review",
+        "description": "Is it worth watching? Community verdict"
       },
       {
-        "icon": "ClipboardCheck",
-        "title": "Achievement Tracker",
-        "description": "All 19 Steam achievements and conditions"
+        "icon": "HelpCircle",
+        "title": "Arena Zero What Is It",
+        "description": "Movie, pilot, or AI demo - explained clearly"
       },
       {
-        "icon": "MessageCircle",
-        "title": "Singleplayer FAQ",
-        "description": "Platform, price, co-op, and language questions"
+        "icon": "Cpu",
+        "title": "Arena Zero AI Movie Explained",
+        "description": "How it was made entirely with AI tools"
       },
       {
-        "icon": "Gamepad2",
-        "title": "Steam Deck and Controller",
-        "description": "Proton 9.0.4 setup and controller tips"
+        "icon": "Clapperboard",
+        "title": "Arena Zero Making Of",
+        "description": "Behind-the-scenes production breakdown"
       },
       {
-        "icon": "Settings",
-        "title": "Settings and Accessibility",
-        "description": "Hide hands, Vulkan, and display options"
+        "icon": "Users",
+        "title": "Arena Zero Characters",
+        "description": "Main character, enemies, and creatures"
       },
       {
         "icon": "Clock",
-        "title": "Updates and Patch Notes",
-        "description": "Recent fixes and roadmap notes"
+        "title": "Arena Zero Runtime",
+        "description": "Episode length, release dates, platform info"
       },
       {
-        "icon": "Shield",
-        "title": "Crash Fix",
-        "description": "Vulkan check, logs path, and bug reporting"
+        "icon": "Globe",
+        "title": "Arena Zero Higgsfield Guide",
+        "description": "Higgsfield Original Series platform overview"
+      },
+      {
+        "icon": "MessageCircle",
+        "title": "Arena Zero Viewer Reactions",
+        "description": "Reddit and community first impressions"
+      },
+      {
+        "icon": "Sparkles",
+        "title": "Arena Zero Similar AI Series",
+        "description": "Other AI-made films and series to watch next"
+      },
+      {
+        "icon": "Bell",
+        "title": "Arena Zero News and Updates",
+        "description": "Latest official announcements and episode news"
       }
     ]
   },
   "modules": {
-    "lucidBlocksBeginnerGuide": {
-      "title": "Lucid Blocks Beginner Guide",
-      "displayType": "steps",
-      "intro": "Start by learning how exploration, fusion, and progression connect. Lucid Blocks rewards experimentation, so early progress comes from gathering unusual materials, testing combinations, and unlocking your personal Qualia.",
+    "arenaZeroWatchOnline": {
+      "title": "Arena Zero Watch Online",
+      "displayType": "cardList",
+      "intro": "Arena Zero is free to watch. The main entry point is the official Higgsfield Episode 1 page, which streams the full 10-minute sci-fi pilot directly. The Original Series hub works as the main directory, and the official YouTube upload is a reliable backup option.",
+      "items": [
+        {
+          "label": "Official Episode 1 Page",
+          "platform": "Higgsfield Original Series",
+          "status": "Watch now",
+          "price": "Free",
+          "runtime": "10 minutes",
+          "note": "Primary official streaming page for Arena Zero Episode 1.",
+          "href": "https://higgsfield.ai/original-series/arena-zero/episode-1"
+        },
+        {
+          "label": "Original Series Hub",
+          "platform": "Higgsfield Original Series",
+          "status": "Browse and watch",
+          "price": "Free",
+          "runtime": "Series hub",
+          "note": "Main discovery page for Arena Zero and other Higgsfield originals.",
+          "href": "https://higgsfield.ai/original-series"
+        },
+        {
+          "label": "Official YouTube Upload",
+          "platform": "YouTube",
+          "status": "Watch now",
+          "price": "Free",
+          "runtime": "Full episode upload",
+          "note": "Official Higgsfield AI upload of Arena Zero Episode 1.",
+          "href": "https://www.youtube.com/watch?v=qqcH-1Rk-ow"
+        }
+      ]
+    },
+    "arenaZeroPlotSummary": {
+      "title": "Arena Zero Plot Summary",
+      "displayType": "storyFlow",
+      "intro": "Arena Zero is a 10-minute sci-fi pilot from Higgsfield. The story follows a deadbeat gamer who accidentally triggers an alien abduction, gets drafted to represent Earth in a deadly intergalactic tournament, and faces an immediate life-or-death threat the moment he arrives.",
       "steps": [
         {
-          "title": "Explore Before You Commit",
-          "description": "Walk outward, mine common blocks, and keep any strange drops you find. Early progress is less about fixed quests and more about discovering what materials can become."
+          "step": "01",
+          "heading": "A gamer makes the wrong move",
+          "text": "The story begins when a deadbeat gamer hits the wrong button and is suddenly pulled out of normal life."
         },
         {
-          "title": "Unlock Your Personal Qualia Early",
-          "description": "Your personal Qualia is one of the most important early milestones. It gives you a reliable place to regroup and build around."
+          "step": "02",
+          "heading": "He wakes up in an alien arena",
+          "text": "Instead of a familiar world, he lands inside a hostile arena built for combat and spectacle."
         },
         {
-          "title": "Use Osmium for Fast Early Progress",
-          "description": "Osmium is one of the most useful early materials. A popular early route is combining Osmium with sticks to make a Frost Pick for fast mining."
+          "step": "03",
+          "heading": "Earth gets an unwilling representative",
+          "text": "He is chosen to represent Earth in an intergalactic tournament he never agreed to join."
         },
         {
-          "title": "Record Good Fusions",
-          "description": "Keep track of successful combinations in your journal. Lucid Blocks has many possible fusion paths, so writing down useful results saves a lot of time."
-        }
-      ],
-      "quickTips": [
-        "Apotheosis does not require a fixed recipe list.",
-        "Infinite world generation means moving higher or deeper can reveal completely different materials.",
-        "Movement tools and utility gear become a major quality-of-life boost once you start unlocking them.",
-        "Getting lost early is normal, but useful tools, storage, and movement options snowball fast once your first good fusions start working."
-      ]
-    },
-    "lucidBlocksApotheosisCrafting": {
-      "title": "Lucid Blocks Apotheosis Crafting",
-      "displayType": "cards",
-      "intro": "Apotheosis is the game's unrestricted fusion system. Instead of memorizing a traditional recipe book, you combine materials, watch the result, and build your own crafting knowledge over time.",
-      "cards": [
-        {
-          "name": "Freeform Fusion",
-          "description": "Apotheosis lets you fuse together different items without needing to follow a fixed recipe list."
+          "step": "04",
+          "heading": "The stakes are planetary",
+          "text": "If he loses, Earth gets wiped. Winning is the only path forward, even though he is clearly unprepared."
         },
         {
-          "name": "Multiple Useful Outcomes",
-          "description": "Different materials often push toward certain results. Community discoveries show that similar inputs can still lead to practical tools, storage, or combat upgrades."
-        },
-        {
-          "name": "Journal-First Crafting",
-          "description": "The best way to learn Apotheosis is to track your successful combinations. Your journal quickly becomes your own crafting reference."
-        },
-        {
-          "name": "Community-Tested Early Fusions",
-          "description": "Popular early examples include Osmium plus Stick for a Frost Pick, Stick plus Tungsten Appendage for Azrael, and Azrael plus Magnetite for the Tendril Rapier."
-        }
-      ],
-      "milestones": [
-        "Fuse an item",
-        "Fuse a vermin",
-        "Fuse a divine artifact"
-      ]
-    },
-    "lucidBlocksToolsAndWeapons": {
-      "title": "Lucid Blocks Tools and Weapons",
-      "displayType": "itemCards",
-      "intro": "Lucid Blocks mixes official utility gear with community-discovered early weapons. The best setup is usually a blend of fast mining, safe traversal, and one dependable combat option.",
-      "items": [
-        {
-          "name": "Frost Pick",
-          "type": "Mining Tool",
-          "description": "A fast and affordable early pick made from Osmium and Stick. Players use it to speed up early material gathering."
-        },
-        {
-          "name": "Azrael",
-          "type": "Starter Weapon",
-          "description": "A practical early weapon route crafted from Stick and Tungsten Appendage."
-        },
-        {
-          "name": "Tendril Rapier",
-          "type": "Upgraded Weapon",
-          "description": "A stronger follow-up made by combining Azrael with Magnetite. It is one of the most useful early-mid combat paths shared by players."
-        },
-        {
-          "name": "Hookshot",
-          "type": "Mobility Tool",
-          "description": "An official traversal item that greatly improves movement and vertical exploration."
-        },
-        {
-          "name": "Bee Glider",
-          "type": "Mobility Tool",
-          "description": "An official movement item that helps cover space more safely and efficiently."
-        },
-        {
-          "name": "Ball Wand",
-          "type": "Utility Weapon",
-          "description": "An official ranged utility item that expands your combat and puzzle options."
-        },
-        {
-          "name": "Scuba Diving Gear",
-          "type": "Traversal Gear",
-          "description": "An official utility item for reaching areas that would otherwise slow down exploration."
-        },
-        {
-          "name": "Explosives",
-          "type": "Utility Damage",
-          "description": "Officially highlighted as part of the core toolset and useful for breaking through threats or obstacles."
+          "step": "05",
+          "heading": "Survival comes before heroics",
+          "text": "Before he can think about victory, he has to survive the first immediate threat: a 7-foot Ogre charging straight at him."
         }
       ]
     },
-    "lucidBlocksStorageAndInventory": {
-      "title": "Lucid Blocks Storage and Inventory",
-      "displayType": "solutionCards",
-      "intro": "Inventory pressure starts early in Lucid Blocks, so building storage should be one of your first goals. Several real player-tested solutions already stand out.",
-      "solutions": [
+    "arenaZeroEpisodeGuide": {
+      "title": "Arena Zero Episode Guide",
+      "displayType": "episodeGrid",
+      "intro": "Arena Zero has five official episode pages on Higgsfield. Episode 1 is the active watch page, while Episodes 2 through 5 each have public URLs with view counts. The episode navigation still shows Coming Soon for later entries.",
+      "episodes": [
         {
-          "name": "Cache Cube",
-          "role": "Chest-Like Storage",
-          "description": "Cache Cubes are one of the earliest practical storage answers and are treated by players as the game's main chest-style container."
+          "episode": "Episode 1",
+          "status": "Available now",
+          "pageState": "Public watch page",
+          "views": "627.9K views",
+          "note": "Main live episode page on Higgsfield.",
+          "href": "https://higgsfield.ai/original-series/arena-zero/episode-1"
         },
         {
-          "name": "Cabinet",
-          "role": "Simple Base Storage",
-          "description": "Cabinets are another confirmed storage option. A shared early recipe uses 1 Cut Wood and 1 String."
+          "episode": "Episode 2",
+          "status": "Coming Soon",
+          "pageState": "Page live",
+          "views": "12.7K views",
+          "note": "Episode page includes synopsis, but the episode card still shows Coming Soon.",
+          "href": "https://higgsfield.ai/original-series/arena-zero/episode-2"
         },
         {
-          "name": "Personal Qualia",
-          "role": "Long-Term Storage Hub",
-          "description": "Once unlocked, your personal Qualia becomes a natural place to organize materials, craft in peace, and expand your base setup."
+          "episode": "Episode 3",
+          "status": "Coming Soon",
+          "pageState": "Page live",
+          "views": "436 views",
+          "note": "Episode shell is public and listed in the sequence.",
+          "href": "https://higgsfield.ai/original-series/arena-zero/episode-3"
         },
         {
-          "name": "Journal Tracking",
-          "role": "Inventory Efficiency",
-          "description": "Recording useful combinations in your journal reduces wasted materials and makes inventory management much easier."
-        }
-      ],
-      "managementTips": [
-        "Prioritize one dependable storage option before hoarding rare drops.",
-        "Build around your personal Qualia once it becomes available.",
-        "Keep crafting materials, combat tools, and movement gear separated so upgrades are easier to plan.",
-        "Use your journal as part of inventory management, not just crafting discovery."
-      ]
-    },
-    "lucidBlocksQualiaAndBaseBuilding": {
-      "title": "Lucid Blocks Qualia and Base Building",
-      "displayType": "cards",
-      "intro": "Qualia is one of the most important progression milestones in Lucid Blocks. It gives you a personal space to regroup, store materials, and gradually turn exploration progress into a real home base.",
-      "cards": [
-        {
-          "name": "Personal Qualia",
-          "description": "Unlocking a Qualia is an early milestone that gives you a more reliable place to return to while exploring the wider world."
+          "episode": "Episode 4",
+          "status": "Coming Soon",
+          "pageState": "Page live",
+          "views": "239 views",
+          "note": "Episode shell is public and listed in the sequence.",
+          "href": "https://higgsfield.ai/original-series/arena-zero/episode-4"
         },
         {
-          "name": "Storage-First Building",
-          "description": "Many players start using their Qualia as a storage hub before turning it into a larger base with organized crafting and building space."
-        },
-        {
-          "name": "Creative Home Building",
-          "description": "Lucid Blocks supports creative building, and players are already using Qualia spaces to make houses and personalized layouts."
-        },
-        {
-          "name": "Progression Hub",
-          "description": "A strong base helps you separate exploration loot, crafting materials, seeds, tools, and mobility gear so your next upgrades are easier to plan."
-        }
-      ],
-      "highlights": [
-        "Enter a qualia",
-        "Store materials safely",
-        "Expand from utility to decoration",
-        "Use base space to support crafting and farming"
-      ]
-    },
-    "lucidBlocksWorldRegions": {
-      "title": "Lucid Blocks World Regions",
-      "displayType": "regionCards",
-      "intro": "Lucid Blocks uses infinite world generation, so players keep discovering new environments and structures. A few named places are already showing up in achievements and community discussions.",
-      "regions": [
-        {
-          "name": "Fog Meadow",
-          "type": "Community-Noted Area",
-          "description": "Fog Meadow is already known among players as a tense area associated with hidden threats and dangerous encounters."
-        },
-        {
-          "name": "Tiamana Leyline",
-          "type": "Discovery Landmark",
-          "description": "The tiamana leyline is important enough to have its own achievement milestone, making it one of the clearest named world discoveries so far."
-        },
-        {
-          "name": "Clonaqualia",
-          "type": "Build Space",
-          "description": "Players are already using Clonaqualia as a place to build houses, store materials, and experiment with more permanent layouts."
-        },
-        {
-          "name": "Essence Morass",
-          "type": "Farming Area",
-          "description": "Essence Morass is being shared by players as a useful farming location, especially for fighting slimes and gaining experience."
+          "episode": "Episode 5",
+          "status": "Coming Soon",
+          "pageState": "Page live",
+          "views": "223 views",
+          "note": "Episode shell is public and listed in the sequence.",
+          "href": "https://higgsfield.ai/original-series/arena-zero/episode-5"
         }
       ]
     },
-    "lucidBlocksCreaturesAndEnemies": {
-      "title": "Lucid Blocks Creatures and Enemies",
-      "displayType": "creatureCards",
-      "intro": "Lucid Blocks mixes surreal creatures with real danger. Official descriptions and community posts point to a world full of strange life, hostile threats, and a few standout encounters players remember quickly.",
-      "creatures": [
-        {
-          "name": "Manikins",
-          "role": "Hostile Enemy",
-          "description": "Manikins are one of the officially named foes in the world and part of the game's surreal threat roster."
-        },
-        {
-          "name": "Squishy Gels",
-          "role": "Hostile Enemy",
-          "description": "Squishy gels are another officially named enemy type and help define the game's strange biological style."
-        },
-        {
-          "name": "Higher-Dimensional Beings",
-          "role": "Hostile Enemy",
-          "description": "These beings are presented as part of the world's more abstract and unsettling enemy lineup."
-        },
-        {
-          "name": "Colossal Spiders",
-          "role": "Major Threat",
-          "description": "Spiders are one of the most immediately feared enemies in community discussions and are clearly a memorable danger."
-        },
-        {
-          "name": "Bubblebear",
-          "role": "Named Creature",
-          "description": "Bubblebear is notable enough to have its own achievement, which makes it one of the clearest named creature encounters in the game."
-        },
-        {
-          "name": "Cute Vermin",
-          "role": "Interactable Creature",
-          "description": "Vermin are not only part of fusion progression, they can also be renamed, giving them a more personal role than standard enemies."
-        },
-        {
-          "name": "Blasphemous Creature",
-          "role": "Elite Threat",
-          "description": "The blasphemous creature is tied to a dedicated combat achievement, marking it as a significant enemy encounter."
-        }
-      ]
-    },
-    "lucidBlocksMobilityGear": {
-      "title": "Lucid Blocks Mobility Gear",
-      "displayType": "itemCards",
-      "intro": "Movement upgrades are one of the biggest quality-of-life jumps in Lucid Blocks. Once you unlock your first traversal tools, exploration becomes faster, safer, and much more rewarding.",
-      "items": [
-        {
-          "name": "Hookshot",
-          "type": "Traversal Tool",
-          "description": "The hookshot is one of the clearest movement milestones in the game and has its own dedicated achievement."
-        },
-        {
-          "name": "Glider Glove",
-          "type": "Air Mobility",
-          "description": "The glider glove opens up much smoother travel and is another major progression milestone with its own achievement."
-        },
-        {
-          "name": "Bee Glider",
-          "type": "Traversal Tool",
-          "description": "Bee gliders are officially highlighted as part of the game's movement toolkit for covering space more efficiently."
-        },
-        {
-          "name": "Ball Wand",
-          "type": "Utility Gear",
-          "description": "Ball wands are one of the officially highlighted special tools and expand how you move through or interact with the world."
-        },
-        {
-          "name": "Scuba Diving Gear",
-          "type": "Exploration Gear",
-          "description": "Scuba diving gear is officially listed as part of the core utility set for reaching areas that would otherwise be harder to explore."
-        },
-        {
-          "name": "Explosives",
-          "type": "Utility Damage",
-          "description": "Explosives are both officially highlighted and linked to an achievement milestone, making them part of the game's core utility progression."
-        }
-      ],
-      "unlockMilestones": [
-        "Command a hookshot",
-        "Fly with the glider glove",
-        "Brandish a projectile wand",
-        "Brandish an explosive"
-      ]
-    },
-    "lucidBlocksFarmingAndGrowth": {
-      "title": "Lucid Blocks Farming and Growth",
-      "displayType": "mixedCards",
-      "intro": "Growth is part of real progression in Lucid Blocks. Farming is not only about planting and harvesting, but also about setting up repeatable material routes that keep your tools, weapons, and crafting options flowing.",
-      "sections": [
-        {
-          "name": "Seed Progression",
-          "description": "Planting and fertilizing seeds is a real milestone in the game, and harvesting a fully-grown nut is part of the same growth path."
-        },
-        {
-          "name": "Material Farming",
-          "description": "A practical early farming loop is creating Mercury Capsules, which spawn small slimes that drop Tendrils and goo for repeatable crafting materials."
-        },
-        {
-          "name": "Tool Sustain",
-          "description": "Resource farming becomes much stronger once you can consistently gather Osmium, glass shards, plants, and slime materials for follow-up crafts."
-        },
-        {
-          "name": "Base Routine",
-          "description": "The best farming setup supports more than food. It should feed your storage, movement tools, weapon upgrades, and future fusion experiments."
-        }
-      ],
-      "growthMilestones": [
-        "Fertilize a seed",
-        "Harvest a fully-grown nut",
-        "Create repeatable material loops",
-        "Turn farming into long-term progression"
-      ]
-    },
-    "lucidBlocksBestEarlyUnlocks": {
-      "title": "Lucid Blocks Best Early Unlocks",
-      "displayType": "priorityCards",
-      "intro": "The strongest early unlocks are the ones that improve safety, storage, and movement. In Lucid Blocks, a few practical upgrades can make the entire rest of the game much smoother.",
-      "priorities": [
-        {
-          "name": "Personal Qualia",
-          "priority": "Essential",
-          "description": "As soon as you get access to your personal Qualia, your run becomes much more stable. It acts as a reliable hub for storage, building, and regrouping."
-        },
-        {
-          "name": "Frost Pick",
-          "priority": "Very High",
-          "description": "A fast and cheap early mining tool made from Osmium and Stick. It is one of the most useful upgrades for accelerating early resource collection."
-        },
-        {
-          "name": "Cache Cube",
-          "priority": "Very High",
-          "description": "Storage pressure starts early, so getting your first dependable chest-style container is a major quality-of-life upgrade."
-        },
-        {
-          "name": "Hookshot",
-          "priority": "High",
-          "description": "The hookshot is one of the clearest movement milestones in the game and quickly makes exploration faster and safer."
-        },
-        {
-          "name": "Glider Glove",
-          "priority": "High",
-          "description": "The glider glove adds another major mobility boost and makes long-distance movement far more efficient."
-        },
-        {
-          "name": "Projectile Wand or Bombs",
-          "priority": "High",
-          "description": "A ranged tool or explosive option gives you a safer answer to dangerous enemies and trial-style encounters."
-        }
-      ]
-    },
-    "lucidBlocksAchievementTracker": {
-      "title": "Lucid Blocks Achievement Tracker",
-      "displayType": "achievementGrid",
-      "intro": "Lucid Blocks currently has 19 Steam achievements, and they naturally split into exploration, crafting, mobility, combat, and growth progression.",
-      "groups": [
-        {
-          "name": "Exploration",
-          "achievements": [
-            {
-              "title": "Angel α",
-              "description": "Enter a qualia."
-            },
-            {
-              "title": "Angel γ",
-              "description": "Discover a tiamana leyline."
-            },
-            {
-              "title": "Angel δ",
-              "description": "Overcome a tiamana challenge."
-            },
-            {
-              "title": "Angel ε",
-              "description": "Hidden achievement."
-            }
-          ]
-        },
-        {
-          "name": "Crafting and Summoning",
-          "achievements": [
-            {
-              "title": "Apotheosis α",
-              "description": "Fuse an item."
-            },
-            {
-              "title": "Apotheosis β",
-              "description": "Fuse a vermin."
-            },
-            {
-              "title": "Apotheosis γ",
-              "description": "Fuse a divine artifact."
-            },
-            {
-              "title": "Archangel β",
-              "description": "Summon your faith."
-            }
-          ]
-        },
-        {
-          "name": "Mobility and Utility",
-          "achievements": [
-            {
-              "title": "Virtue α",
-              "description": "Fly with the glider glove."
-            },
-            {
-              "title": "Virtue β",
-              "description": "Command a hookshot."
-            },
-            {
-              "title": "Archangel α",
-              "description": "Brandish a projectile wand."
-            },
-            {
-              "title": "Archangel γ",
-              "description": "Brandish an explosive."
-            }
-          ]
-        },
-        {
-          "name": "Combat and Creatures",
-          "achievements": [
-            {
-              "title": "Bubblebear Massacre",
-              "description": "Defeat innocent bubblebears."
-            },
-            {
-              "title": "Archangel δ",
-              "description": "Eliminate a blasphemous creature."
-            },
-            {
-              "title": "Angel β",
-              "description": "Die."
-            },
-            {
-              "title": "Dominion γ",
-              "description": "Rename a cute vermin."
-            }
-          ]
-        },
-        {
-          "name": "Growth and Farming",
-          "achievements": [
-            {
-              "title": "Dominion α",
-              "description": "Fertilize a seed."
-            },
-            {
-              "title": "Dominion β",
-              "description": "Harvest a fully-grown nut."
-            },
-            {
-              "title": "Dominion δ",
-              "description": "Hidden achievement."
-            }
-          ]
-        }
-      ]
-    },
-    "lucidBlocksSingleplayerAndPlatformFAQ": {
-      "title": "Lucid Blocks Singleplayer and Platform FAQ",
-      "displayType": "accordion",
-      "intro": "These are the core platform and access questions players keep asking before buying Lucid Blocks.",
-      "faqs": [
-        {
-          "question": "Is Lucid Blocks singleplayer?",
-          "answer": "Yes. Lucid Blocks is a singleplayer game."
-        },
-        {
-          "question": "Is multiplayer or co-op planned?",
-          "answer": "No. Multiplayer is not planned for release or future updates."
-        },
-        {
-          "question": "Where can I play Lucid Blocks?",
-          "answer": "It is currently available on Steam for Windows."
-        },
-        {
-          "question": "How much does Lucid Blocks cost?",
-          "answer": "$9.99 on Steam."
-        },
-        {
-          "question": "Does Lucid Blocks support controllers?",
-          "answer": "Yes, but controller play is not recommended because the menus are not designed around it."
-        },
-        {
-          "question": "Does Lucid Blocks work on Steam Deck?",
-          "answer": "Yes. Proton 9.0 or 9.0.4 is the commonly recommended setup for Steam Deck."
-        },
-        {
-          "question": "Does Lucid Blocks work on Linux?",
-          "answer": "Yes. Proton 9.0 is reported to work well for Linux and Steam Deck."
-        },
-        {
-          "question": "Will Mac or Android be supported?",
-          "answer": "They may be supported in the future, but they are not current launch platforms."
-        },
-        {
-          "question": "Does Lucid Blocks have translations?",
-          "answer": "No. There are currently no translations planned."
-        },
-        {
-          "question": "Will Lucid Blocks keep getting updates?",
-          "answer": "Yes. Some content updates are planned after release, but they are not intended to continue on an indefinite regular schedule."
-        }
-      ]
-    },
-    "lucidBlocksSteamDeckAndController": {
-      "title": "Lucid Blocks Steam Deck and Controller",
-      "displayType": "accordion",
-      "intro": "Lucid Blocks can run on Steam Deck, but the default setup may need adjustment. Keyboard and mouse remains the smoother option for menus and general play.",
-      "faqs": [
-        {
-          "question": "Does Lucid Blocks work on Steam Deck?",
-          "answer": "Yes. Proton 9.0 works well, and Proton 9.0.4 is a commonly shared fix for Steam Deck issues."
-        },
-        {
-          "question": "What should I do if Steam Deck controls are not working?",
-          "answer": "Force compatibility and switch the game to Proton 9.0.4. The default configuration may not accept controller input correctly."
-        },
-        {
-          "question": "Does Lucid Blocks support controllers?",
-          "answer": "Yes, but controller play is not recommended because the game's menus are not designed around it."
-        },
-        {
-          "question": "Is Linux support possible?",
-          "answer": "Yes. Proton 9.0 is reported to work well for Linux and Steam Deck."
-        },
-        {
-          "question": "What is the best input setup?",
-          "answer": "Keyboard and mouse is the smoothest option for menu navigation and general moment-to-moment play."
-        }
-      ]
-    },
-    "lucidBlocksSettingsAndAccessibility": {
-      "title": "Lucid Blocks Settings and Accessibility",
-      "displayType": "settingCards",
-      "intro": "Lucid Blocks already has a few practical settings and compatibility notes that matter immediately when players first launch the game.",
-      "settings": [
-        {
-          "name": "Display Settings",
-          "type": "Comfort Option",
-          "description": "Display Settings includes an option that lets players hide the on-screen hands."
-        },
-        {
-          "name": "Graphics Compatibility",
-          "type": "System Requirement",
-          "description": "Vulkan support is required for the graphics to render properly. Systems without Vulkan can run into crashes and severe graphical glitches."
-        },
-        {
-          "name": "Input Preference",
-          "type": "Control Setup",
-          "description": "Controller support exists, but keyboard and mouse gives a smoother experience because menus are not built around controller use."
-        },
-        {
-          "name": "Language Support",
-          "type": "Localization",
-          "description": "The current setup is English-only, and no translations are planned right now."
-        }
-      ]
-    },
-    "lucidBlocksUpdatesAndPatchNotes": {
-      "title": "Lucid Blocks Updates and Patch Notes",
+    "arenaZeroEpisode2Release": {
+      "title": "Arena Zero Episode 2 Release Status",
       "displayType": "timeline",
-      "intro": "Lucid Blocks is already receiving quick post-launch fixes and small usability updates.",
-      "entries": [
+      "intro": "Arena Zero Episode 2 has a live page on Higgsfield with a synopsis, but the episode navigation still shows Coming Soon. No specific release date has been announced.",
+      "timeline": [
         {
-          "title": "Update 2.8.2",
-          "type": "UI Update",
-          "description": "Renamed \"awaken\" to \"exit\" in the main menu."
+          "date": "Mar 20, 2026",
+          "event": "Original Series launch announcement",
+          "status": "Confirmed",
+          "details": "Higgsfield launches Original Series with Arena Zero as the featured 10-minute sci-fi pilot, free to watch.",
+          "href": "https://higgsfield.ai/blog/blog-original-series"
         },
         {
-          "title": "Small Patch for Start-Up Crashes",
-          "type": "Hotfix",
-          "description": "A dedicated patch was released for players whose game was crashing on launch."
+          "date": "Episode 1 live",
+          "event": "Episode 1 is live on the official watch page",
+          "status": "Live",
+          "details": "The Episode 1 page is the active watch destination and shows 627.9K views on the official platform.",
+          "href": "https://higgsfield.ai/original-series/arena-zero/episode-1"
         },
         {
-          "title": "Post-Launch Content Support",
-          "type": "Roadmap Note",
-          "description": "Some content updates are planned after release, but they are not intended to continue on an indefinite regular schedule."
+          "date": "Mar 19, 2026",
+          "event": "Episode 2 page is publicly indexed",
+          "status": "Page live",
+          "details": "The official Episode 2 URL is publicly accessible and already carries the Arena Zero story synopsis.",
+          "href": "https://higgsfield.ai/original-series/arena-zero/episode-2"
+        },
+        {
+          "date": "Current",
+          "event": "Episode 2 still shows Coming Soon",
+          "status": "Pending",
+          "details": "The episode navigation card for Episode 2 continues to display Coming Soon across Arena Zero pages.",
+          "href": "https://higgsfield.ai/original-series/arena-zero/episode-2"
         }
       ]
     },
-    "lucidBlocksCrashFixAndTroubleshooting": {
-      "title": "Lucid Blocks Crash Fix and Troubleshooting",
-      "displayType": "steps",
-      "intro": "Most immediate launch and crash issues should be checked in a simple order: patch level, graphics support, platform compatibility, and logs.",
+    "arenaZeroEndingExplained": {
+      "title": "Arena Zero Ending Explained",
+      "displayType": "accordion",
+      "intro": "Arena Zero Episode 1 ends with several open threads. Here is a breakdown of what the ending shows, what it leaves unresolved, and what it sets up for Episode 2.",
+      "faqs": [
+        {
+          "question": "What happens at the end of Arena Zero Episode 1?",
+          "answer": "The main character faces a 7-foot Ogre as his first combat challenge inside the alien arena. Episode 1 ends at this confrontation, establishing the immediate survival threat without resolving it."
+        },
+        {
+          "question": "Does Arena Zero Episode 1 have a resolution?",
+          "answer": "Episode 1 functions as a sci-fi pilot, so it is structured to establish the premise and end on a cliffhanger rather than deliver a complete story arc. The resolution begins in Episode 2."
+        },
+        {
+          "question": "What are the rules of the Arena Zero tournament?",
+          "answer": "Arena Zero is framed as an intergalactic tournament where Earth must be represented by a chosen combatant. Losing means Earth is destroyed. The specific rules of each fight are introduced across episodes."
+        },
+        {
+          "question": "Who abducted the main character and why?",
+          "answer": "The abduction is triggered by the character accidentally pressing the wrong button. The alien force running the arena drafts participants without consent. The full scope of who is organizing the tournament is part of the ongoing story."
+        },
+        {
+          "question": "Will the main character win the tournament?",
+          "answer": "Episode 1 does not reveal the outcome. The series is structured across multiple episodes, with Episodes 2 through 5 listed on Higgsfield. The ongoing result of the tournament is the central dramatic thread."
+        }
+      ]
+    },
+    "arenaZeroTrailer": {
+      "title": "Arena Zero Trailer",
+      "displayType": "videoGallery",
+      "intro": "The official Arena Zero trailer and episode content are available on the Higgsfield AI YouTube channel. The main entry is the full Episode 1 upload, with an official Short covering the series premise.",
+      "videos": [
+        {
+          "title": "Arena Zero Episode 1 - World's First AI Action Series",
+          "url": "https://www.youtube.com/watch?v=qqcH-1Rk-ow",
+          "type": "Full Episode",
+          "description": "Official Higgsfield AI YouTube upload of the full Arena Zero Episode 1. Runtime: approximately 10 minutes."
+        },
+        {
+          "title": "What is Arena Zero? | Higgsfield AI Original Series",
+          "url": "https://www.youtube.com/shorts/P2RQ_K05XsU",
+          "type": "Official Short",
+          "description": "Official Shorts-format preview introducing the Arena Zero series premise and visual style."
+        },
+        {
+          "title": "Seedance 2.0: Arena Zero Breakdown",
+          "url": "https://www.youtube.com/watch?v=036jyFZWppw",
+          "type": "Production Breakdown",
+          "description": "Official breakdown of how Arena Zero was produced using Higgsfield AI tools, including character consistency and action sequences."
+        }
+      ]
+    },
+    "arenaZeroReview": {
+      "title": "Arena Zero Movie Review",
+      "displayType": "quoteWall",
+      "intro": "Arena Zero has drawn attention as the first fully AI-generated action series on a dedicated platform. Reactions focus on its technical achievement, visual quality, and the question of whether the storytelling matches the production ambition.",
+      "quotes": [
+        {
+          "text": "This might be the beginning of AI Hollywood. The action sequences and character consistency are genuinely impressive for a fully AI-generated series.",
+          "author": "r/ChatGPT community",
+          "source": "Reddit discussion thread"
+        },
+        {
+          "text": "The visual quality is there. Whether it tells a compelling story is a different question, but as a proof of concept for what AI can do in under 10 minutes, it lands.",
+          "author": "AI video creator community",
+          "source": "r/aivideo"
+        },
+        {
+          "text": "Worth watching if you want to see where AI-generated video is heading. The production value is higher than most AI demos.",
+          "author": "Future Film Fridays",
+          "source": "Medium / Taryn O'Neill"
+        },
+        {
+          "text": "Arena Zero is the first AI original series I've seen where the action actually looks intentional rather than random. Higgsfield clearly worked on the pacing.",
+          "author": "Independent creator",
+          "source": "Reddit / r/aivideo"
+        }
+      ]
+    },
+    "arenaZeroWhatIsIt": {
+      "title": "Arena Zero What Is It",
+      "displayType": "accordion",
+      "intro": "Arena Zero is frequently described as a movie, a short film, and an AI demo. Here is a clear breakdown of what it actually is and where it fits.",
+      "faqs": [
+        {
+          "question": "Is Arena Zero a movie?",
+          "answer": "Arena Zero is a 10-minute sci-fi pilot, not a feature-length movie. It is the first episode in a multi-episode original series produced by Higgsfield AI and published on their streaming platform."
+        },
+        {
+          "question": "Is Arena Zero made entirely with AI?",
+          "answer": "Yes. Arena Zero is described by Higgsfield as an AI-native original series, meaning the visuals, character animation, and action sequences were generated using AI video tools."
+        },
+        {
+          "question": "Where is Arena Zero available to watch?",
+          "answer": "Arena Zero is available for free on the Higgsfield Original Series platform. The official Episode 1 page streams the full pilot, and a YouTube upload on the Higgsfield AI channel offers a second viewing option."
+        },
+        {
+          "question": "How long is Arena Zero?",
+          "answer": "Arena Zero Episode 1 runs approximately 10 minutes. It is described as a sci-fi pilot designed to introduce the world, characters, and tournament premise."
+        },
+        {
+          "question": "Is Arena Zero part of a series?",
+          "answer": "Yes. Higgsfield has published five episode pages for Arena Zero, with Episode 1 live and Episodes 2 through 5 listed as Coming Soon. The platform presents it as an ongoing original series."
+        }
+      ]
+    },
+    "arenaZeroAiMovie": {
+      "title": "Arena Zero AI Movie Explained",
+      "displayType": "comparisonTable",
+      "intro": "Arena Zero is significant because it demonstrates what fully AI-generated production can achieve at the series level. Here is how it differs from traditional filmmaking.",
+      "comparisons": [
+        {
+          "aspect": "Production Method",
+          "traditional": "Live actors, physical sets, traditional VFX pipeline",
+          "aiNative": "Entirely generated with AI video tools, no physical production"
+        },
+        {
+          "aspect": "Character Consistency",
+          "traditional": "Same actor across all scenes",
+          "aiNative": "AI character consistency maintained across generated scenes using Higgsfield tools"
+        },
+        {
+          "aspect": "Action Sequences",
+          "traditional": "Stunt teams, choreography, multi-camera shoots",
+          "aiNative": "AI-generated action sequences directed through prompt-based production"
+        },
+        {
+          "aspect": "Release Model",
+          "traditional": "Theatrical release or traditional streaming deal",
+          "aiNative": "Direct release on Higgsfield's own AI-native streaming platform"
+        },
+        {
+          "aspect": "Production Speed",
+          "traditional": "Months to years of pre and post production",
+          "aiNative": "Significantly compressed production timeline using AI generation"
+        },
+        {
+          "aspect": "Cost Structure",
+          "traditional": "Large crew, location costs, licensing",
+          "aiNative": "AI tool subscription-based production with a small team"
+        }
+      ]
+    },
+    "arenaZeroMakingOf": {
+      "title": "Arena Zero Making Of",
+      "displayType": "stepByStep",
+      "intro": "Higgsfield published a breakdown of how Arena Zero was produced. The process covers character design, scene generation, action sequence production, and how consistency was maintained across the full episode.",
       "steps": [
         {
-          "title": "Install the Latest Crash Hotfix",
-          "description": "If the game is crashing on start, update first and test again with the latest start-up crash patch."
+          "title": "Character Design and Consistency",
+          "description": "The main character and opponent designs were established first to maintain visual consistency across all generated scenes. Higgsfield tools allow character identity to carry through separate AI video generations."
         },
         {
-          "title": "Check Vulkan Support",
-          "description": "Lucid Blocks requires Vulkan support. Systems without Vulkan can suffer from crashes or major rendering problems."
+          "title": "Scene-by-Scene Generation",
+          "description": "Each scene in Arena Zero was generated using Higgsfield's AI video system, with the production team directing the content through prompts and iterating on output quality."
         },
         {
-          "title": "Use Proton 9.0.4 on Steam Deck",
-          "description": "If Steam Deck input or launch behavior is broken, force compatibility and switch to Proton 9.0.4."
+          "title": "Action Sequence Production",
+          "description": "The arena combat sequences used AI generation to produce dynamic action. The Seedance 2.0 breakdown video shows how the 7-foot Ogre confrontation was built from generated clips."
         },
         {
-          "title": "Collect Crash Logs",
-          "description": "Open Windows Run, paste %APPDATA%, go to lucid blocks/logs, and gather the .txt files for troubleshooting."
+          "title": "Assembly and Pacing",
+          "description": "Individual generated scenes were assembled into the full 10-minute episode. Pacing and narrative flow were managed in the editing phase, similar to traditional film post-production."
         },
         {
-          "title": "Report the Issue Properly",
-          "description": "Share the logs and device details through the official Discord bug-reports forum or on the Steam community page."
+          "title": "Platform Release",
+          "description": "The completed episode was published to Higgsfield's Original Series platform as a free watch, with the YouTube upload following for broader distribution."
+        }
+      ]
+    },
+    "arenaZeroCharacters": {
+      "title": "Arena Zero Characters and Creatures",
+      "displayType": "cardList",
+      "intro": "Arena Zero introduces its characters through action rather than exposition. Episode 1 establishes the protagonist and the first enemy encounter, with future episodes expected to expand the roster.",
+      "characters": [
+        {
+          "name": "The Main Character",
+          "role": "Protagonist",
+          "description": "A deadbeat gamer accidentally pulled into the alien arena and forced to represent Earth in an intergalactic tournament. His survival instinct drives the plot forward."
+        },
+        {
+          "name": "The 7-Foot Ogre",
+          "role": "First Enemy",
+          "description": "The primary threat in Episode 1. A massive opponent charging directly at the protagonist in the opening arena sequence. Establishes the scale and danger of the tournament."
+        },
+        {
+          "name": "The Arena Organizers",
+          "role": "Unknown Antagonists",
+          "description": "The alien force running the tournament that drafted the protagonist. Their full identity, motives, and rules are revealed across episodes."
+        },
+        {
+          "name": "Earth's Representation",
+          "role": "Narrative Concept",
+          "description": "Arena Zero is structured around the idea that one ordinary person represents an entire planet. This raises the stakes of every fight to a planetary level."
+        }
+      ]
+    },
+    "arenaZeroRuntime": {
+      "title": "Arena Zero Runtime and Release Date",
+      "displayType": "infoTable",
+      "intro": "Key production and release information for Arena Zero Episode 1 and the series as a whole.",
+      "info": [
+        {
+          "label": "Episode 1 Runtime",
+          "value": "Approximately 10 minutes"
+        },
+        {
+          "label": "Genre",
+          "value": "Sci-fi action, survival, tournament"
+        },
+        {
+          "label": "Production Method",
+          "value": "Fully AI-generated (Higgsfield AI tools)"
+        },
+        {
+          "label": "Platform",
+          "value": "Higgsfield Original Series (free to watch)"
+        },
+        {
+          "label": "Launch Date",
+          "value": "March 20, 2026 (Original Series launch)"
+        },
+        {
+          "label": "Episode 1 Views",
+          "value": "627.9K (official Higgsfield platform)"
+        },
+        {
+          "label": "YouTube Views",
+          "value": "694K (Higgsfield AI channel)"
+        },
+        {
+          "label": "Episodes Listed",
+          "value": "5 (Episode 1 live, Episodes 2-5 Coming Soon)"
+        },
+        {
+          "label": "Episode 2 Status",
+          "value": "Page live, Coming Soon label"
+        },
+        {
+          "label": "Price",
+          "value": "Free on Higgsfield and YouTube"
+        }
+      ]
+    },
+    "arenaZeroHiggsfieldGuide": {
+      "title": "Arena Zero Higgsfield Original Series Guide",
+      "displayType": "cardList",
+      "intro": "Arena Zero is the launch title for Higgsfield's Original Series platform. Higgsfield is an AI video generation company that built its own streaming destination for AI-native content.",
+      "series": [
+        {
+          "name": "Arena Zero",
+          "status": "Episode 1 Live",
+          "description": "The flagship launch series. A 10-minute sci-fi action pilot about a gamer drafted to represent Earth in an alien tournament."
+        },
+        {
+          "name": "Higgsfield Original Series Hub",
+          "status": "Active",
+          "description": "The main platform page listing all Higgsfield original content. Arena Zero is the featured entry, with other series in development."
+        },
+        {
+          "name": "Higgsfield AI Platform",
+          "status": "Active",
+          "description": "The underlying AI video generation platform powering all Original Series content. Used by creators to generate character-consistent AI videos."
+        }
+      ]
+    },
+    "arenaZeroViewerReactions": {
+      "title": "Arena Zero Viewer Reactions",
+      "displayType": "quoteWall",
+      "intro": "Arena Zero generated immediate reactions on Reddit and social media after launch. Here is a sample of what viewers said about the Episode 1 experience.",
+      "quotes": [
+        {
+          "text": "This is what I've been waiting for. AI action that actually has narrative structure. Episode 1 sets up something genuinely interesting.",
+          "author": "Viewer on r/aivideo",
+          "source": "Reddit"
+        },
+        {
+          "text": "I was skeptical but the visual quality surprised me. The 7-foot Ogre scene in the arena is legitimately tense.",
+          "author": "r/ChatGPT community",
+          "source": "Reddit"
+        },
+        {
+          "text": "The concept is strong and the pacing works for a 10-minute format. Curious to see if Episode 2 keeps the momentum.",
+          "author": "AI video observer",
+          "source": "Reddit / r/aivideo"
+        },
+        {
+          "text": "The fact that this is fully AI-generated and has coherent characters across the entire episode is the real story here.",
+          "author": "Tech media reader",
+          "source": "Medium"
+        }
+      ]
+    },
+    "arenaZeroSimilarSeries": {
+      "title": "Arena Zero Similar AI Series",
+      "displayType": "gallery",
+      "intro": "If you enjoyed Arena Zero, Higgsfield's Original Series platform has additional AI-generated content. The broader AI video landscape also has other notable productions worth exploring.",
+      "series": [
+        {
+          "name": "Higgsfield Original Series",
+          "platform": "Higgsfield",
+          "status": "Active",
+          "description": "The full catalog of Higgsfield AI original productions. Arena Zero is the flagship series, with other titles in development or announced."
+        },
+        {
+          "name": "Higgsfield AI YouTube Channel",
+          "platform": "YouTube",
+          "status": "Active",
+          "description": "The official Higgsfield AI YouTube channel features Arena Zero episodes, production breakdowns, and previews of upcoming AI-native series."
+        },
+        {
+          "name": "AI Video Creator Community",
+          "platform": "Reddit / r/aivideo",
+          "status": "Active",
+          "description": "A community of creators and viewers discussing AI-generated video content, including Arena Zero reactions and other notable AI film projects."
+        }
+      ]
+    },
+    "arenaZeroNewsUpdates": {
+      "title": "Arena Zero News and Updates",
+      "displayType": "timeline",
+      "intro": "Follow the latest official announcements for Arena Zero, including episode releases, platform updates, and series news from Higgsfield.",
+      "events": [
+        {
+          "date": "Mar 20, 2026",
+          "event": "Higgsfield Original Series launches with Arena Zero",
+          "details": "Higgsfield announces its Original Series platform with Arena Zero as the featured title. Episode 1 is free to watch.",
+          "href": "https://higgsfield.ai/blog/blog-original-series"
+        },
+        {
+          "date": "Episode 1 Live",
+          "event": "Arena Zero Episode 1 reaches 627.9K views on Higgsfield",
+          "details": "Episode 1 accumulates 627.9K official views on the Higgsfield platform and 694K on YouTube.",
+          "href": "https://higgsfield.ai/original-series/arena-zero/episode-1"
+        },
+        {
+          "date": "Episode 2 Page Live",
+          "event": "Episode 2 URL and synopsis are publicly accessible",
+          "details": "The official Episode 2 page is live on Higgsfield with a story synopsis, but the episode itself still shows Coming Soon.",
+          "href": "https://higgsfield.ai/original-series/arena-zero/episode-2"
+        },
+        {
+          "date": "Episodes 3-5",
+          "event": "Episodes 3, 4, and 5 pages indexed on Higgsfield",
+          "details": "All five Arena Zero episode pages are publicly accessible. Episodes 3-5 show early view counts and are marked Coming Soon.",
+          "href": "https://higgsfield.ai/original-series"
         }
       ]
     }
   },
   "faq": {
-    "title": "Frequently Asked",
-    "titleHighlight": "Questions",
-    "subtitle": "Everything you need to know about Lucid Blocks",
+    "title": "Arena Zero Movie",
+    "titleHighlight": "FAQ",
+    "subtitle": "Common questions about Arena Zero, Episode 1, streaming, and the series",
     "questions": [
       {
-        "question": "Is Lucid Blocks a singleplayer game?",
-        "answer": "Yes. Lucid Blocks is a singleplayer-only game with no multiplayer or co-op planned."
+        "question": "Where can I watch Arena Zero?",
+        "answer": "Arena Zero Episode 1 is free to watch on the Higgsfield Original Series platform at higgsfield.ai. The official YouTube upload on the Higgsfield AI channel is also available as a free streaming option."
       },
       {
-        "question": "What is the Apotheosis system in Lucid Blocks?",
-        "answer": "Apotheosis is Lucid Blocks' freeform fusion crafting system. Instead of following fixed recipes, you combine materials and discover your own crafting paths."
+        "question": "Is Arena Zero made entirely with AI?",
+        "answer": "Yes. Arena Zero is Higgsfield's first AI-native original series, meaning all visuals, characters, and action sequences were generated using Higgsfield's AI video tools with no live-action production."
       },
       {
-        "question": "Where can I play Lucid Blocks?",
-        "answer": "Lucid Blocks is currently available on Steam for Windows. Linux and Steam Deck support is available through Proton 9.0."
+        "question": "How long is Arena Zero Episode 1?",
+        "answer": "Arena Zero Episode 1 runs approximately 10 minutes. It is structured as a sci-fi pilot introducing the arena concept, the protagonist, and the planetary stakes."
       },
       {
-        "question": "How much does Lucid Blocks cost?",
-        "answer": "Lucid Blocks costs $9.99 on Steam."
+        "question": "When does Arena Zero Episode 2 come out?",
+        "answer": "Arena Zero Episode 2 has a live page on Higgsfield with a synopsis, but the episode card still shows Coming Soon. No specific release date has been officially announced."
       },
       {
-        "question": "Does Lucid Blocks support controllers?",
-        "answer": "Yes, but controller play is not recommended because the menus are not designed around it. Keyboard and mouse is the smoother option."
+        "question": "How many Arena Zero episodes are there?",
+        "answer": "Higgsfield has listed five Arena Zero episodes. Episode 1 is currently watchable, while Episodes 2 through 5 have public pages but are marked as Coming Soon."
       },
       {
-        "question": "Will Lucid Blocks receive updates?",
-        "answer": "Yes. Some content updates are planned after release, but they are not intended to continue on an indefinite regular schedule."
+        "question": "What is the plot of Arena Zero?",
+        "answer": "A deadbeat gamer accidentally triggers an alien abduction and is drafted to represent Earth in a deadly intergalactic tournament. If he loses, Earth is destroyed. Episode 1 ends with him facing his first arena opponent, a 7-foot Ogre."
       }
     ]
   },
   "cta": {
     "title": "Ready to Explore Arena Zero?",
-    "description": "Join the Arena Zero community and stay updated on new episodes, trailers, and AI production breakdowns!",
+    "description": "Watch Arena Zero Episode 1 free on Higgsfield and stay updated on new episodes, trailers, and AI production breakdowns.",
     "joinCommunity": "Join Discord",
     "joinGame": "Watch Episode 1"
   },
@@ -803,10 +698,10 @@
   },
   "pages": {
     "guides": {
-      "title": "Lucid Blocks Guides",
+      "title": "Arena Zero Guides",
       "description": "Complete gameplay guides from beginner basics to advanced Apotheosis strategies. Master survival and crafting.",
-      "metaTitle": "Lucid Blocks Guides - Beginner to Advanced Strategies",
-      "metaDescription": "Complete Lucid Blocks guides covering beginner tips, Apotheosis system, survival strategies, and expert tactics for mastering the surreal sandbox.",
+      "metaTitle": "Arena Zero Guides - Episode, Plot & Story Guide",
+      "metaDescription": "Complete Arena Zero guides covering Episode 1, plot summary, ending explained, and story guides for the Higgsfield AI sci-fi series.",
       "categoryLabel": "GAME GUIDES",
       "whatIs": "What are Guides?",
       "whatIsDescription": "Comprehensive guides covering gameplay mechanics, survival strategies, and the Apotheosis crafting system. Learn everything from first steps to advanced techniques.",
@@ -823,10 +718,10 @@
       "all": "All Guides"
     },
     "crafting": {
-      "title": "Lucid Blocks Crafting",
+      "title": "Arena Zero Trailer",
       "description": "Master the Apotheosis fusion system with essence mechanics, recipes, and crafting strategies for powerful items.",
-      "metaTitle": "Lucid Blocks Crafting - Apotheosis System & Recipes",
-      "metaDescription": "Master Lucid Blocks Apotheosis crafting system. Learn essence mechanics, fusion recipes, and strategies for creating powerful tools and weapons.",
+      "metaTitle": "Arena Zero Trailer - Official YouTube Videos",
+      "metaDescription": "Watch Arena Zero official trailers, Episode 1 full video, and preview shorts from the Higgsfield AI YouTube channel.",
       "categoryLabel": "CRAFTING SYSTEM",
       "whatIs": "What is Crafting?",
       "whatIsDescription": "The Apotheosis system is a unique essence-driven fusion mechanic where you combine up to six items to discover new recipes. No fixed crafting menus—experimentation is key.",
@@ -843,10 +738,10 @@
       "all": "All Crafting Guides"
     },
     "items": {
-      "title": "Lucid Blocks Items",
+      "title": "Arena Zero Characters",
       "description": "Detailed item guides covering tools, weapons, mobility gear, and storage solutions with crafting recipes and usage tips.",
-      "metaTitle": "Lucid Blocks Items - Tools, Weapons & Gear Guide",
-      "metaDescription": "Complete item database for Lucid Blocks including tools, weapons, mobility gear, and storage. Learn how to craft and use every item effectively.",
+      "metaTitle": "Arena Zero Characters - Cast and Creatures Guide",
+      "metaDescription": "Complete guide to Arena Zero characters including the protagonist, arena opponents, and creatures from the Higgsfield original series.",
       "categoryLabel": "ITEMS & EQUIPMENT",
       "whatIs": "What are Items?",
       "whatIsDescription": "Comprehensive guides for tools, weapons, mobility gear, and functional items. Learn crafting recipes, usage strategies, and optimal combinations.",
@@ -863,10 +758,10 @@
       "all": "All Items"
     },
     "biomes": {
-      "title": "Lucid Blocks Biomes",
+      "title": "Arena Zero Episodes",
       "description": "Explore world regions, environmental features, resource locations, and survival tips for each biome.",
-      "metaTitle": "Lucid Blocks Biomes - World Regions & Exploration",
-      "metaDescription": "Explore Lucid Blocks biomes including Tiamana Leylines, Fog Meadow, and surreal regions. Find resources, avoid dangers, and navigate the infinite world.",
+      "metaTitle": "Arena Zero Episodes - Full Episode Guide",
+      "metaDescription": "Complete guide to Arena Zero episodes including Episode 1 watch links, Episodes 2-5 status, and release updates from Higgsfield.",
       "categoryLabel": "WORLD REGIONS",
       "whatIs": "What are Biomes?",
       "whatIsDescription": "Guides to different world regions, environmental features, resource distribution, and danger zones. Learn what to expect and how to prepare for each area.",
@@ -883,10 +778,10 @@
       "all": "All Biomes"
     },
     "building": {
-      "title": "Lucid Blocks Building",
+      "title": "Arena Zero Production",
       "description": "Master Qualia personal dimensions, base building, storage management, and creative construction techniques.",
-      "metaTitle": "Lucid Blocks Building - Qualia & Base Construction",
-      "metaDescription": "Master Lucid Blocks building with Qualia personal dimensions, base construction, storage solutions, and creative building techniques.",
+      "metaTitle": "Arena Zero Production - How the AI Series Was Made",
+      "metaDescription": "Learn how Arena Zero was produced using Higgsfield AI tools. Behind-the-scenes breakdown of the world's first AI action series.",
       "categoryLabel": "BUILDING & BASES",
       "whatIs": "What is Building?",
       "whatIsDescription": "Guides to the Qualia personal dimension system, base construction, storage management, and creative building. Learn to create your safe haven in the surreal world.",
@@ -903,10 +798,10 @@
       "all": "All Building Guides"
     },
     "support": {
-      "title": "Lucid Blocks Support",
+      "title": "Arena Zero FAQ",
       "description": "Technical support, platform compatibility, performance optimization, and troubleshooting for common issues.",
-      "metaTitle": "Lucid Blocks Support - Technical Help & Fixes",
-      "metaDescription": "Get technical support for Lucid Blocks including Steam Deck setup, crash fixes, performance optimization, and platform compatibility guides.",
+      "metaTitle": "Arena Zero FAQ - Common Questions Answered",
+      "metaDescription": "Frequently asked questions about Arena Zero including how to watch, episode status, AI production details, and series updates.",
       "categoryLabel": "TECHNICAL SUPPORT",
       "whatIs": "What is Support?",
       "whatIsDescription": "Technical guides covering platform compatibility, performance optimization, crash fixes, and common issues. Get help with Steam Deck, multiplayer questions, and settings.",
