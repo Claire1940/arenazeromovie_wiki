@@ -1,967 +1,994 @@
 {
   "seo": {
     "home": {
-      "title": "Lucid Blocks Wiki - Téléchargement de la démo, Guide de coopération, Fabrication et Mods",
-      "description": "Centre de ressources complet pour Lucid Blocks ! Obtenez des informations sur le téléchargement de la démo, des guides pour débutants, des stratégies de coopération, des conseils de fabrication, des commandes, des mods et des liens communautaires pour le jeu de braquage furtif sur Steam.",
-      "keywords": "Lucid Blocks Wiki, Lucid Blocks, téléchargement de la démo, guide pour débutants, guide de coopération, fabrication, équipement, mods, BepInEx, jeu Steam, jeu furtif",
-      "ogTitle": "Lucid Blocks Wiki - Téléchargement de la démo, Guide de coopération, Fabrication et Mods",
-      "ogDescription": "Centre de ressources complet pour Lucid Blocks ! Obtenez des informations sur le téléchargement de la démo, des guides pour débutants, des stratégies de coopération, des conseils de fabrication et des mods pour le jeu de braquage furtif sur Steam.",
-      "twitterTitle": "Lucid Blocks Wiki - Téléchargement de la démo, Guide de coopération, Fabrication et Mods",
-      "twitterDescription": "Centre de ressources complet pour Lucid Blocks ! Obtenez des informations sur le téléchargement de la démo, des guides pour débutants, des stratégies de coopération et des conseils de fabrication."
+      "title": "Wiki Arena Zero - Episode 1, Bande-annonce et Guide de fin",
+      "description": "Le Wiki Arena Zero couvre l'Episode 1, la bande-annonce, l'intrigue, l'explication de la fin, les liens de visionnage, les détails de production AI, les mises à jour de sortie et les actualités de la série pour les spectateurs de Higgsfield.",
+      "keywords": "Arena Zero, film Arena Zero, Episode 1, bande-annonce, explication de la fin, Higgsfield, série AI",
+      "ogTitle": "Wiki Arena Zero - Episode 1, Bande-annonce et Guide de fin",
+      "ogDescription": "Le Wiki Arena Zero couvre l'Episode 1, la bande-annonce, l'intrigue, l'explication de la fin, les liens de visionnage, les détails de production AI, les mises à jour de sortie et les actualités de la série pour les spectateurs de Higgsfield.",
+      "twitterTitle": "Wiki Arena Zero - Episode 1, Bande-annonce et Guide de fin",
+      "twitterDescription": "Le Wiki Arena Zero couvre l'Episode 1, la bande-annonce, l'intrigue, l'explication de la fin, les liens de visionnage, les détails de production AI et les actualités de la série pour les spectateurs de Higgsfield."
     }
   },
   "nav": {
-    "episode": "Episodes",
-    "watch": "Watch",
-    "cast": "Cast",
+    "episode": "Épisodes",
+    "watch": "Regarder",
+    "cast": "Distribution",
     "guide": "Guide",
-    "release": "Release",
+    "release": "Sortie",
     "format": "Format",
-    "platform": "Platform",
-    "creator": "Creator"
+    "platform": "Plateforme",
+    "creator": "Créateur"
   },
   "common": {
     "home": "Accueil",
     "more": "Plus",
-    "playNow": "Obtenir la démo",
+    "playNow": "Jouer sur Steam",
     "switchLanguage": "Changer de langue",
     "switchTheme": "Changer de thème",
     "lightMode": "Mode clair",
     "darkMode": "Mode sombre",
-    "notFound": "Page introuvable",
+    "notFound": "Page non trouvée",
     "notFoundDescription": "La page que vous recherchez n'existe pas.",
     "backToHome": "Retour à l'accueil",
-    "relatedArticles": "Articles similaires",
-    "readMore": "En savoir plus"
+    "relatedArticles": "Articles connexes",
+    "readMore": "Lire la suite"
   },
   "hero": {
-    "badge": "Minuscules gnomes. Grandes maisons. Braquages furtifs entre amis.",
-    "title": "Lucid Blocks wiki",
-    "description": "Votre centre pour Lucid Blocks : comment fonctionnent les braquages, les tâches de Haut-Gnome, la fabrication et les améliorations, les ennemis, les commandes et les moyens les plus rapides de survivre à chaque partie.",
-    "getFreeCodesCTA": "Télécharger la démo",
-    "playOnSteamCTA": "Ajouter à la liste de souhaits sur Steam",
+    "badge": "Série d'action de science-fiction native AI",
+    "title": "Wiki du film Arena Zero",
+    "description": "Regardez l'Episode 1 d'Arena Zero, explorez l'intrigue, la fin, les personnages, la bande-annonce, le processus de production AI et les futures mises à jour des épisodes en un seul endroit.",
+    "getFreeCodesCTA": "Regarder l'Episode 1",
+    "playOnRobloxCTA": "Site officiel",
     "stats": {
       "stat1": {
-        "value": "15K",
-        "label": "Pic de CCU (Démo)"
+        "value": "627.9K",
+        "label": "Vues officielles"
       },
       "stat2": {
-        "value": "6",
-        "label": "Joueurs en coopération"
+        "value": "694K",
+        "label": "Vues YouTube"
       },
       "stat3": {
-        "value": "31/01/2026",
-        "label": "Sortie de la démo"
+        "value": "10 Min",
+        "label": "Durée"
       },
       "stat4": {
-        "value": "PC (Steam)",
-        "label": "Plateforme"
+        "value": "5 Listés",
+        "label": "Épisodes"
       }
     }
   },
   "gameFeature": {
-    "title": "Gameplay de Lucid Blocks",
-    "description": "Regardez de minuscules gnomes réaliser de gros braquages dans des missions furtives chaotiques en coopération à 6 joueurs !"
+    "title": "Arena Zero - Regardez la première série d'action AI",
+    "description": "Un pilote de science-fiction de 10 minutes créé entièrement avec des outils AI. Regardez l'Episode 1 gratuitement sur Higgsfield, explorez l'intrigue, les personnages et l'histoire de sa production."
   },
   "tools": {
-    "title": "Lucid Blocks",
-    "titleHighlight": "Ressources",
-    "subtitle": "Tout ce dont vous avez besoin pour maîtriser les braquages et la furtivité en coopération",
+    "title": "Arena Zero",
+    "titleHighlight": "Guide Wiki",
+    "subtitle": "Tout ce dont vous avez besoin pour explorer les épisodes, l'intrigue, les bandes-annonces, les personnages et la production AI pour Arena Zero",
     "cards": [
       {
-        "icon": "Télécharger",
-        "title": "Téléchargement de la démo",
-        "description": "Obtenez la démo gratuite sur Steam"
+        "icon": "Play",
+        "title": "Regarder Arena Zero en ligne",
+        "description": "Liens de streaming officiels et options de visionnage gratuit"
       },
       {
         "icon": "BookOpen",
-        "title": "Guide du débutant",
-        "description": "Boucle de base et pièges courants"
+        "title": "Résumé de l'intrigue d'Arena Zero",
+        "description": "Analyse complète de l'histoire de l'Episode 1"
       },
       {
-        "icon": "Utilisateurs",
-        "title": "Guide de coopération",
-        "description": "Rôles à 6 joueurs et tactiques de sauvetage"
+        "icon": "Tv",
+        "title": "Guide des épisodes d'Arena Zero",
+        "description": "Les 5 épisodes, statuts et nombres de vues"
       },
       {
-        "icon": "ClipboardCheck",
-        "title": "Tâches et objectifs",
-        "description": "Ce que le Haut-Gnome attend de vous"
+        "icon": "Calendar",
+        "title": "Sortie de l'Episode 2 d'Arena Zero",
+        "description": "Calendrier de sortie officiel et statut À venir"
       },
       {
-        "icon": "Clavier",
-        "title": "Commandes et raccourcis clavier",
-        "description": "Touches par défaut et comment les modifier"
+        "icon": "Lightbulb",
+        "title": "Explication de la fin du film Arena Zero",
+        "description": "Ce qui s'est passé, pourquoi cela s'est terminé ainsi"
       },
       {
-        "icon": "Bouclier",
-        "title": "Paramètres de contenu",
-        "description": "Contenu pour adultes et options d'activation/désactivation"
+        "icon": "Video",
+        "title": "Bande-annonce du film Arena Zero",
+        "description": "Vidéos YouTube officielles et extraits d'aperçu"
       },
       {
-        "icon": "Marteau",
-        "title": "Fabrication et équipement",
-        "description": "Équipez-vous avec des matériaux volés"
+        "icon": "Star",
+        "title": "Critique du film Arena Zero",
+        "description": "Est-ce que ça vaut le coup ? Verdict de la communauté"
       },
       {
-        "icon": "Package",
-        "title": "Butin et objets",
-        "description": "Quoi voler et conseils de transport"
+        "icon": "HelpCircle",
+        "title": "Le film Arena Zero expliqué",
+        "description": "Film, pilote ou démo AI - expliqué clairement"
       },
       {
-        "icon": "AlertTriangle",
-        "title": "Ennemis et dangers",
-        "description": "Menaces et comment les gérer"
+        "icon": "Cpu",
+        "title": "Le film AI Arena Zero expliqué",
+        "description": "Comment il a été réalisé entièrement avec des outils AI"
       },
       {
-        "icon": "Oeil",
-        "title": "Furtivité et évasion",
-        "description": "Restez caché et extrayez-vous en toute sécurité"
+        "icon": "Clapperboard",
+        "title": "Making-of d'Arena Zero",
+        "description": "Analyse de la production en coulisses"
       },
       {
-        "icon": "Accueil",
-        "title": "Améliorations de la maison",
-        "description": "Améliorez votre base d'île flottante"
+        "icon": "Users",
+        "title": "Personnages du film Arena Zero",
+        "description": "Personnage principal, ennemis et créatures"
+      },
+      {
+        "icon": "Clock",
+        "title": "Durée du film Arena Zero",
+        "description": "Durée des épisodes, dates de sortie, infos plateforme"
+      },
+      {
+        "icon": "Globe",
+        "title": "Guide Higgsfield d'Arena Zero",
+        "description": "Présentation de la plateforme Higgsfield Original Series"
       },
       {
         "icon": "MessageCircle",
-        "title": "Communauté et Discord",
-        "description": "Liens officiels et recherche de groupe"
+        "title": "Réactions des spectateurs d'Arena Zero",
+        "description": "Premières impressions de Reddit et de la communauté"
       },
       {
-        "icon": "Paramètres",
-        "title": "Mods et BepInEx",
-        "description": "Installer le framework et configurer les mods"
+        "icon": "Sparkles",
+        "title": "Séries AI similaires à Arena Zero",
+        "description": "Autres films et séries créés par AI à regarder ensuite"
       },
       {
-        "icon": "Étoile",
-        "title": "Mods populaires",
-        "description": "Meilleures sélections et fonctionnalités de la communauté"
-      },
-      {
-        "icon": "Gamepad2",
-        "title": "Prise en charge de la manette",
-        "description": "Jeu complet à la manette avec curseur d'interface utilisateur"
-      },
-      {
-        "icon": "TrendingUp",
-        "title": "Nombre de joueurs et tendance",
-        "description": "Statistiques en direct et suivi des pics"
+        "icon": "Bell",
+        "title": "Actualités et mises à jour d'Arena Zero",
+        "description": "Dernières annonces officielles et actualités des épisodes"
       }
     ]
   },
   "modules": {
-    "demoDownload": {
-      "title": "Téléchargement de la démo de Lucid Blocks",
-      "subtitle": "Obtenez la démo gratuite sur Steam",
-      "downloadSize": "2,62 Gio",
-      "diskSize": "4,88 Gio",
-      "releaseDate": "30 janvier 2026",
-      "price": "Gratuit",
-      "platform": "PC (Steam) / Windows",
-      "engine": "Unity",
-      "primaryCTA": "Télécharger la démo",
-      "secondaryCTA": "Voir les informations techniques",
-      "installPath": "Steam\\steamapps\\common\\Lucid Blocks Demo",
-      "sections": [
+    "arenaZeroWatchOnline": {
+      "title": "Regarder Arena Zero en ligne",
+      "displayType": "cardList",
+      "intro": "Arena Zero est gratuit à regarder. Le point d'entrée principal est la page officielle de Higgsfield Episode 1, qui diffuse directement le pilote de science-fiction complet de 10 minutes. Le hub Higgsfield Original Series sert de répertoire principal, et la vidéo officielle sur YouTube est une option de secours fiable.",
+      "items": [
         {
-          "heading": "Où télécharger",
-          "items": [
-            "Ouvrez la page officielle du magasin Steam et utilisez la section \"Télécharger la démo\".",
-            "Si Steam vous demande de vous connecter, connectez-vous d'abord et réessayez."
-          ]
+          "label": "Page officielle de Episode 1",
+          "platform": "Higgsfield Original Series",
+          "status": "Regarder maintenant",
+          "price": "Gratuit",
+          "runtime": "10 minutes",
+          "note": "Page de streaming officielle principale pour Arena Zero Episode 1.",
+          "href": "https://higgsfield.ai/original-series/arena-zero/episode-1"
         },
         {
-          "heading": "Vérifications rapides d'installation et de lancement",
-          "items": [
-            "Emplacement d'installation par défaut : Dossier de la bibliothèque Steam → steamapps → common → (dossier du jeu).",
-            "Si le jeu ne se lance pas : vérifiez les fichiers du jeu dans Steam, puis redémarrez Steam."
-          ]
+          "label": "Hub des séries originales",
+          "platform": "Higgsfield Original Series",
+          "status": "Parcourir et regarder",
+          "price": "Gratuit",
+          "runtime": "Hub de la série",
+          "note": "Page de découverte principale pour Arena Zero et les autres créations originales de Higgsfield.",
+          "href": "https://higgsfield.ai/original-series"
+        },
+        {
+          "label": "Vidéo officielle YouTube",
+          "platform": "YouTube",
+          "status": "Regarder maintenant",
+          "price": "Gratuit",
+          "runtime": "Épisode complet",
+          "note": "Mise en ligne officielle par Higgsfield AI de Arena Zero Episode 1.",
+          "href": "https://www.youtube.com/watch?v=qqcH-1Rk-ow"
         }
       ]
     },
-    "beginnerGuide": {
-      "title": "Guide du débutant de Lucid Blocks",
-      "subtitle": "Maîtrisez la boucle de base et évitez les erreurs courantes",
+    "arenaZeroPlotSummary": {
+      "title": "Résumé de l'intrigue de Arena Zero",
+      "displayType": "storyFlow",
+      "intro": "Arena Zero est un pilote de science-fiction de 10 minutes de Higgsfield. L'histoire suit un gamer raté qui déclenche accidentellement un enlèvement par des extraterrestres, se retrouve enrôlé pour représenter la Terre dans un tournoi intergalactique mortel, et fait face à une menace de vie ou de mort immédiate dès son arrivée.",
       "steps": [
         {
-          "number": 1,
-          "title": "Entrer dans la maison",
-          "description": "Descendez dans une maison humaine depuis votre base d'île flottante. Apparaissez à l'extérieur et faufilez-vous par des portes ou des fenêtres déverrouillées."
+          "step": "01",
+          "heading": "Un gamer fait le mauvais choix",
+          "text": "L'histoire commence lorsqu'un gamer raté appuie sur le mauvais bouton et se retrouve soudainement arraché à sa vie normale."
         },
         {
-          "number": 2,
-          "title": "Effectuer des tâches",
-          "description": "Terminez les tâches du Haut-Gnome avant la fin du temps imparti. Vérifiez les objectifs via la touche Tab et donnez la priorité aux tâches risquées en premier."
+          "step": "02",
+          "heading": "Il se réveille dans une arène extraterrestre",
+          "text": "Au lieu d'un monde familier, il atterrit dans une arène hostile conçue pour le combat et le spectacle."
         },
         {
-          "number": 3,
-          "title": "Voler des objets",
-          "description": "Attrapez des objets de valeur et des matériaux pour la fabrication. Évitez de faire du bruit ou de vous faire repérer par le propriétaire."
+          "step": "03",
+          "heading": "La Terre obtient un représentant malgré lui",
+          "text": "Il est choisi pour représenter la Terre dans un tournoi intergalactique auquel il n'a jamais accepté de participer."
         },
         {
-          "number": 4,
-          "title": "S'échapper via une tornade",
-          "description": "Lorsque le minuteur se termine, une tornade apparaît dans la cour - atteignez-la pour vous extraire en toute sécurité. Commencez à bouger tôt !"
+          "step": "04",
+          "heading": "Les enjeux sont planétaires",
+          "text": "S'il perd, la Terre est anéantie. La victoire est la seule issue, même s'il n'est manifestement pas préparé."
         },
         {
-          "number": 5,
-          "title": "Améliorer et répéter",
-          "description": "Utilisez les récompenses et les matériaux pour fabriquer de l'équipement à la maison, puis commencez votre prochain braquage avec un meilleur équipement."
-        }
-      ],
-      "pitfalls": [
-        {
-          "title": "Se faire prendre",
-          "description": "Le propriétaire vous poursuivra. Restez caché, utilisez des distractions et brisez les lignes de vue pour vous échapper.",
-          "icon": "AlertTriangle"
-        },
-        {
-          "title": "Manque de temps",
-          "description": "Le minuteur de la tornade est strict. Commencez à vous diriger vers l'extraction tôt au lieu de trop piller.",
-          "icon": "Clock"
-        },
-        {
-          "title": "Ignorer ses coéquipiers",
-          "description": "Sauvez rapidement les alliés piégés dans les pièges du réfrigérateur/four - signalez immédiatement pour les sauvetages.",
-          "icon": "Utilisateurs"
+          "step": "05",
+          "heading": "La survie avant l'héroïsme",
+          "text": "Avant de pouvoir penser à la victoire, il doit survivre à la première menace immédiate : un ogre de 7 pieds chargeant droit sur lui."
         }
       ]
     },
-    "coopGuide": {
-      "title": "Guide de coopération de Lucid Blocks",
-      "subtitle": "Coordonnez-vous avec jusqu'à 6 joueurs pour un chaos maximal",
-      "maxPlayers": 6,
-      "roles": [
+    "arenaZeroEpisodeGuide": {
+      "title": "Guide des épisodes de Arena Zero",
+      "displayType": "episodeGrid",
+      "intro": "Arena Zero dispose de cinq pages d'épisodes officielles sur Higgsfield. Episode 1 est la page de visionnage active, tandis que les Episode 2 à Episode 5 ont chacun des URL publiques avec des compteurs de vues. La navigation des épisodes affiche toujours « Coming Soon » pour les entrées ultérieures.",
+      "episodes": [
         {
-          "name": "Éclaireur",
-          "description": "Vérifiez les menaces, marquez les chemins sûrs et guidez les mouvements de l'équipe",
-          "icon": "Oeil"
+          "episode": "Episode 1",
+          "status": "Disponible maintenant",
+          "pageState": "Page de visionnage publique",
+          "views": "627,9k vues",
+          "note": "Page d'épisode principale en direct sur Higgsfield.",
+          "href": "https://higgsfield.ai/original-series/arena-zero/episode-1"
         },
         {
-          "name": "Transporteur",
-          "description": "Concentrez-vous sur les objets lourds avec des améliorations de sac à dos et sécurisez la progression des tâches",
-          "icon": "Package"
+          "episode": "Episode 2",
+          "status": "Coming Soon",
+          "pageState": "Page en ligne",
+          "views": "12,7k vues",
+          "note": "La page de l'épisode comprend un synopsis, mais la carte de l'épisode affiche toujours Coming Soon.",
+          "href": "https://higgsfield.ai/original-series/arena-zero/episode-2"
         },
         {
-          "name": "Distraction",
-          "description": "Attirez le propriétaire/les animaux de compagnie loin de l'équipe pour créer des fenêtres sûres",
-          "icon": "Utilisateurs"
+          "episode": "Episode 3",
+          "status": "Coming Soon",
+          "pageState": "Page en ligne",
+          "views": "436 vues",
+          "note": "La structure de l'épisode est publique et listée dans la séquence.",
+          "href": "https://higgsfield.ai/original-series/arena-zero/episode-3"
         },
         {
-          "name": "Sauveteur",
-          "description": "Libérez les coéquipiers piégés du réfrigérateur/four avant qu'ils ne meurent",
-          "icon": "Bouclier"
-        }
-      ],
-      "threats": [
-        "Propriétaire (vous poursuit et vous piège)",
-        "Chats et souris (itinéraires de patrouille)",
-        "Aspirateur robot (danger instantané)",
-        "Limite de temps (extraction par tornade)"
-      ],
-      "communication": "Utilisez le chat vocal (touche V) pour coordonner les tâches et les sauvetages. Annoncez : \"Repéré\", \"Itinéraire\", \"Besoin d'un sauvetage\", \"Extraire bientôt\"."
-    },
-    "tasksObjectives": {
-      "title": "Tâches et objectifs de Lucid Blocks",
-      "subtitle": "Ce que le Haut-Gnome veut : exemples de tâches",
-      "taskTypes": [
-        {
-          "type": "Voler des objets",
-          "examples": [
-            "Attrapez des objets spécifiques marqués par les objectifs du Haut-Gnome"
-          ]
+          "episode": "Episode 4",
+          "status": "Coming Soon",
+          "pageState": "Page en ligne",
+          "views": "239 vues",
+          "note": "La structure de l'épisode est publique et listée dans la séquence.",
+          "href": "https://higgsfield.ai/original-series/arena-zero/episode-4"
         },
         {
-          "type": "Atteindre des lieux",
-          "examples": [
-            "Naviguez vers des zones spécifiées à l'intérieur de la maison"
-          ]
-        },
-        {
-          "type": "Faire des bêtises",
-          "examples": [
-            "Casser une télévision",
-            "Inonder des toilettes",
-            "Créer le chaos"
-          ]
-        }
-      ],
-      "efficiency": [
-        "Effectuez d'abord les tâches risquées pendant que l'équipe est ensemble",
-        "Attribuez un transporteur pour les objets de la tâche afin qu'ils ne soient pas perdus pendant les poursuites",
-        "Commencez à vous déplacer vers l'extraction avant la fin du temps imparti"
-      ]
-    },
-    "controlsKeybinds": {
-      "title": "Commandes et raccourcis clavier de Lucid Blocks",
-      "subtitle": "Commandes clavier par défaut (et où les modifier)",
-      "keybinds": [
-        {
-          "action": "Déplacer à gauche",
-          "key": "A"
-        },
-        {
-          "action": "Déplacer à droite",
-          "key": "D"
-        },
-        {
-          "action": "Avancer",
-          "key": "W"
-        },
-        {
-          "action": "Reculer",
-          "key": "S"
-        },
-        {
-          "action": "S'accroupir",
-          "key": "Ctrl gauche"
-        },
-        {
-          "action": "Attaquer",
-          "key": "Clic gauche"
-        },
-        {
-          "action": "Courir",
-          "key": "Maj gauche"
-        },
-        {
-          "action": "Déposer un objet",
-          "key": "G"
-        },
-        {
-          "action": "Interagir",
-          "key": "E"
-        },
-        {
-          "action": "Sauter",
-          "key": "Espace"
-        },
-        {
-          "action": "Appuyer pour parler",
-          "key": "V"
-        },
-        {
-          "action": "Pousser",
-          "key": "Clic droit"
-        },
-        {
-          "action": "Ragdoll",
-          "key": "Q"
-        },
-        {
-          "action": "Emplacement d'équipement 1",
-          "key": "1"
-        },
-        {
-          "action": "Emplacement d'équipement 2",
-          "key": "2"
-        },
-        {
-          "action": "Emplacement d'équipement 3",
-          "key": "3"
-        },
-        {
-          "action": "Emplacement d'équipement 4",
-          "key": "4"
-        },
-        {
-          "action": "Inventaire",
-          "key": "Tab"
-        }
-      ],
-      "changePath": "Depuis le menu titre : ouvrez PARAMÈTRES, puis vérifiez les paramètres du clavier. Utilisez le champ de recherche pour filtrer les lignes de raccourcis clavier."
-    },
-    "contentSettings": {
-      "title": "Paramètres de contenu de Lucid Blocks",
-      "subtitle": "Contenu pour adultes, activation/désactivation de la nudité et préférences Steam",
-      "descriptors": [
-        "Nudité ou contenu sexuel partiel",
-        "Contenu général pour adultes"
-      ],
-      "details": [
-        {
-          "heading": "Ce que les développeurs déclarent",
-          "items": [
-            "Un humain peut apparaître nu en faisant des activités comme se baigner.",
-            "La nudité est censurée et peut être complètement désactivée en option.",
-            "Les gnomes peuvent être démembrés et mourir de manière brutale."
-          ]
-        },
-        {
-          "heading": "Si Steam bloque la page de la communauté",
-          "items": [
-            "Steam peut masquer le hub de la communauté en fonction de vos préférences de contenu.",
-            "Utilisez \"Mettre à jour les préférences de contenu\" de Steam pour ajuster ce que vous autorisez Steam à afficher."
-          ]
+          "episode": "Episode 5",
+          "status": "Coming Soon",
+          "pageState": "Page en ligne",
+          "views": "223 vues",
+          "note": "La structure de l'épisode est publique et listée dans la séquence.",
+          "href": "https://higgsfield.ai/original-series/arena-zero/episode-5"
         }
       ]
     },
-    "craftingEquipment": {
-      "title": "Fabrication et équipement de Lucid Blocks",
-      "subtitle": "Équipez-vous : exemples de fabrication et ce que chaque outil fait",
-      "equipment": [
+    "arenaZeroEpisode2Release": {
+      "title": "Statut de sortie d'Arena Zero Episode 2",
+      "displayType": "timeline",
+      "intro": "Arena Zero Episode 2 a une page en ligne sur Higgsfield avec un synopsis, mais la navigation de l'épisode affiche toujours « À venir ». Aucune date de sortie précise n'a été annoncée.",
+      "timeline": [
         {
-          "item": "Sac à dos",
-          "benefit": "Augmente la capacité de l'inventaire pour plus de butin par course"
+          "date": "20 mars 2026",
+          "event": "Annonce du lancement de la série originale",
+          "status": "Confirmé",
+          "details": "Higgsfield lance sa série originale avec Arena Zero comme pilote de science-fiction de 10 minutes, gratuit à regarder.",
+          "href": "https://higgsfield.ai/blog/blog-original-series"
         },
         {
-          "item": "Gants de gnome",
-          "benefit": "Vous permet d'ouvrir des portes et d'interagir avec plus d'objets"
+          "date": "Episode 1 en ligne",
+          "event": "L'Episode 1 est en ligne sur la page de visionnage officielle",
+          "status": "En ligne",
+          "details": "La page de l'Episode 1 est la destination de visionnage active et affiche 627,9k vues sur la plateforme officielle.",
+          "href": "https://higgsfield.ai/original-series/arena-zero/episode-1"
         },
         {
-          "item": "Chaussures à ressort",
-          "benefit": "Empêche les dégâts de chute lors des évasions depuis des hauteurs"
+          "date": "19 mars 2026",
+          "event": "La page de l'Episode 2 est indexée publiquement",
+          "status": "Page en ligne",
+          "details": "L'URL officielle de l'Episode 2 est accessible au public et contient déjà le synopsis de l'histoire d'Arena Zero.",
+          "href": "https://higgsfield.ai/original-series/arena-zero/episode-2"
         },
         {
-          "item": "Arme",
-          "benefit": "Vous aide à combattre les menaces comme les souris lorsque vous êtes acculé"
-        }
-      ],
-      "sections": [
-        {
-          "heading": "Comment la fabrication se connecte au pillage",
-          "items": [
-            "Pendant une course, volez des objets et rapportez-les comme matériaux de fabrication.",
-            "Après l'extraction, les récompenses/matériaux soutiennent de nouvelles fabrications."
-          ]
-        },
-        {
-          "heading": "Amélioration de la base",
-          "items": [
-            "Fabriquez des meubles et améliorez votre maison sur l'île flottante (fonctionnalité du jeu complet)."
-          ]
+          "date": "Actuel",
+          "event": "L'Episode 2 affiche toujours « À venir »",
+          "status": "En attente",
+          "details": "La carte de navigation pour l'Episode 2 continue d'afficher « À venir » sur les pages d'Arena Zero.",
+          "href": "https://higgsfield.ai/original-series/arena-zero/episode-2"
         }
       ]
     },
-    "lootItems": {
-      "title": "Butin et objets de Lucid Blocks",
-      "subtitle": "Quoi voler : types d'objets, risque et conseils de transport",
-      "categories": [
+    "arenaZeroEndingExplained": {
+      "title": "Explication de la fin du film Arena Zero",
+      "eyebrow": "Analyse de l'histoire",
+      "subtitle": "Ce que la fin d'Arena Zero prépare réellement",
+      "displayType": "accordion",
+      "intro": "Arena Zero se termine comme un solide pilote de science-fiction : il donne au spectateur un premier choc complet, puis élargit le cadre. Le conflit immédiat est la survie à l'intérieur de l'arène, mais l'enjeu majeur est qu'un joueur sous-qualifié est désormais lié au destin de la Terre dans une compétition intergalactique à laquelle il n'a jamais accepté de participer.",
+      "faqs": [
         {
-          "type": "Objets de tâche",
-          "examples": [
-            "Objets requis par le Haut-Gnome pour les objectifs"
-          ]
+          "question": "L'Episode 1 a-t-il une vraie fin ou un suspense ?",
+          "answer": "Il offre un dénouement de premier acte plutôt qu'une résolution complète. L'épisode prouve que le héros peut survivre à la menace initiale de l'arène, puis laisse le tournoi plus large non résolu pour que l'histoire puisse s'étendre aux rounds suivants."
         },
         {
-          "type": "Matériaux de fabrication",
-          "examples": [
-            "Objets ménagers réutilisés en équipement et améliorations de gnome"
-          ]
+          "question": "Que confirment les enjeux de la fin ?",
+          "answer": "Le cadre officiel est simple et brutal : le protagoniste est forcé de représenter la Terre dans un tournoi intergalactique, et perdre signifie que la Terre est anéantie. Cela transforme la fin en une confirmation ferme que chaque combat futur aura des conséquences planétaires."
         },
         {
-          "type": "Cibles de méfait",
-          "examples": [
-            "Objets impliqués dans des tâches comme casser ou inonder"
-          ]
-        }
-      ],
-      "carryTips": [
-        "Donnez la priorité à la progression de la tâche, puis remplissez la capacité restante avec des matériaux de fabrication",
-        "Si des menaces sont à proximité, déplacez les objets par petits sauts sûrs plutôt que par de longs transports exposés",
-        "Planifiez l'itinéraire vers l'extraction dans la cour avant la fin du temps imparti"
-      ],
-      "riskLevels": [
-        {
-          "level": "Faible",
-          "description": "Près des entrées ou des coins sûrs"
+          "question": "Pourquoi le premier combat contre l'ogre est-il si important ?",
+          "answer": "Le combat établit la logique de la série. Arena Zero ne parle pas d'un guerrier entraîné devenant soudainement invincible ; il s'agit d'un joueur survivant grâce à la reconnaissance de formes, au timing, à la gestion de la panique et à l'improvisation sous pression."
         },
         {
-          "level": "Moyen",
-          "description": "Pièces plus profondes ou près des menaces errantes"
-        },
-        {
-          "level": "Élevé",
-          "description": "Près de la patrouille du propriétaire ou de l'aspirateur robot"
+          "question": "Que suggère la fin concernant le prochain épisode ?",
+          "answer": "La page officielle de la série Arena Zero liste déjà les Episode 2 à Episode 5 comme étant à venir, donc le moment final est conçu pour ouvrir le tableau, pas pour clore l'histoire. La fin est une impulsion vers le prochain match et les règles plus larges de l'arène."
         }
       ]
     },
-    "enemiesHazards": {
-      "title": "Ennemis et dangers de Lucid Blocks",
-      "subtitle": "Sachez ce qui peut vous attraper",
-      "threats": [
+    "arenaZeroTrailer": {
+      "title": "Bande-annonce du film Arena Zero",
+      "eyebrow": "Regarder",
+      "subtitle": "Les meilleures vidéos officielles d'Arena Zero à regarder en priorité",
+      "displayType": "videoGallery",
+      "intro": "Pour un sujet axé sur la vidéo comme Arena Zero, les utilisateurs veulent généralement l'une de ces trois choses : l'épisode complet, une explication rapide ou l'endroit officiel où les futurs téléchargements apparaîtront. Ces liens officiels gèrent les trois sans forcer les gens à fouiller dans les republications.",
+      "videos": [
         {
-          "name": "Le propriétaire",
-          "trigger": "Se faire repérer en cambriolant ou en effectuant des tâches",
-          "behavior": "Il vous poursuit et essaie de vous attraper",
-          "counter": "Restez furtif, brisez les lignes de vue et continuez à bouger en équipe"
+          "title": "Première série d'action AI au monde - Arena Zero Ep.1",
+          "meta": "Épisode officiel complet",
+          "description": "C'est le point d'entrée principal pour les utilisateurs qui veulent le pilote complet d'Arena Zero en un clic. C'est le point de départ le plus clair pour l'intrigue, le ton, le style visuel et le rythme.",
+          "url": "https://www.youtube.com/watch?v=qqcH-1Rk-ow",
+          "label": "Regarder l'Episode 1"
         },
         {
-          "name": "Chats",
-          "trigger": "S'approcher trop près ou croiser leur chemin",
-          "behavior": "Ils deviennent une menace directe pendant que vous vous faufilez",
-          "counter": "Évitez leurs itinéraires et passez silencieusement"
+          "title": "Qu'est-ce qu'Arena Zero ? | Série originale Higgsfield AI",
+          "meta": "Courte explication officielle",
+          "description": "Une introduction au format court pour les utilisateurs qui veulent comprendre le concept avant de s'engager dans l'épisode complet. Cela fonctionne particulièrement bien pour les nouveaux visiteurs arrivant via la recherche ou les réseaux sociaux.",
+          "url": "https://www.youtube.com/shorts/P2RQ_K05XsU",
+          "label": "Regarder le short"
         },
         {
-          "name": "Souris",
-          "trigger": "Entrer dans des zones où les souris errent",
-          "behavior": "Elles menacent les gnomes fragiles pendant les courses",
-          "counter": "Restez vigilant dans les espaces restreints et soyez prêt à vous retirer"
-        },
-        {
-          "name": "Aspirateur robot",
-          "trigger": "Être sur son chemin de nettoyage",
-          "behavior": "Il peut aspirer les gnomes",
-          "counter": "Écoutez-le, restez en dehors de son itinéraire et repositionnez-vous rapidement"
-        },
-        {
-          "name": "Piège du réfrigérateur / four",
-          "trigger": "Se faire attraper par le propriétaire",
-          "behavior": "Vous pouvez être enfermé à l'intérieur ; si les coéquipiers ne vous sauvent pas à temps, vous mourez",
-          "counter": "Signalez immédiatement ; les coéquipiers donnent la priorité à l'itinéraire de sauvetage"
-        },
-        {
-          "name": "Limite de temps",
-          "trigger": "Le minuteur de course atteint la limite",
-          "behavior": "Une tornade d'extraction apparaît dans la cour ; vous devez l'atteindre pour vous échapper",
-          "counter": "Arrêtez de trop piller, regroupez-vous et engagez-vous à l'extraction tôt"
+          "title": "Higgsfield AI",
+          "meta": "Hub de la chaîne officielle",
+          "description": "Idéal pour les spectateurs qui souhaitent retrouver les futurs téléchargements, bandes-annonces, shorts et contenus Arena Zero côté créateur au même endroit. C'est la source récurrente la plus sûre pour les futures intégrations vidéo sur la page.",
+          "url": "https://www.youtube.com/@HiggsfieldAI",
+          "label": "Ouvrir la chaîne"
         }
       ]
     },
-    "stealthEscape": {
-      "title": "Conseils de furtivité et d'évasion de Lucid Blocks",
-      "subtitle": "Volez plus, mourez moins",
-      "do": [
-        "Restez furtif et mettez-vous à couvert avant d'interagir avec des objets",
-        "Utilisez le travail d'équipe : signalez les menaces et coordonnez les itinéraires",
-        "Sauvez rapidement les coéquipiers lorsque quelqu'un est piégé ou à terre",
-        "Réduisez vos pertes et dirigez-vous vers l'extraction lorsque le minuteur est serré"
-      ],
-      "dont": [
-        "Devenez gourmand lorsque l'extraction approche",
-        "Séparez-vous trop de l'équipe lorsque le propriétaire est actif",
-        "Ignorez les itinéraires de l'aspirateur robot ou les patrouilles d'animaux",
-        "Retardez les sauvetages lorsqu'un coéquipier est enfermé"
-      ],
-      "quickTips": [
+    "arenaZeroReview": {
+      "title": "Critique du film Arena Zero",
+      "eyebrow": "Premières réactions",
+      "subtitle": "Ce que disent les premiers spectateurs et les observateurs de l'industrie",
+      "displayType": "quoteWall",
+      "intro": "La première vague de critiques d'Arena Zero porte moins sur les notes étoilées que sur des questions fondamentales : est-ce regardable ? Cela ressemble-t-il à une vraie série ? Est-ce encore une démo technique ? L'aperçu le plus utile consiste à mettre côte à côte les commentaires des créateurs et les réactions de la communauté.",
+      "quotes": [
         {
-          "title": "La règle des 3 secondes",
-          "text": "Si vous ne pouvez pas expliquer votre prochain mouvement en 3 secondes, vous êtes sur le point de vous faire repérer."
+          "text": "la qualité et la cohérence méritent qu'on s'y attarde",
+          "author": "Taryn O'Neill",
+          "source": "Future Film Fridays",
+          "tone": "Positif",
+          "href": "https://tarynoneill.medium.com/03-20-26-future-film-fridays-f6017a621435"
         },
         {
-          "title": "Sauvetage d'abord",
-          "text": "Un sauvetage rapide maintient la course en vie ; le pillage peut attendre."
+          "text": "On dirait que Netflix + YouTube + les outils AI ont tous fusionné en un seul.",
+          "author": "Réaction à un post",
+          "source": "r/ChatGPT",
+          "tone": "Enthousiaste",
+          "href": "https://www.reddit.com/r/ChatGPT/comments/1rz8cxi/this_might_be_the_beginning_of_ai_hollywood_arena/"
         },
         {
-          "title": "Discipline d'extraction",
-          "text": "Regroupez-vous tôt et engagez-vous dans la tornade avant que la panique ne commence."
+          "text": "C'était vraiment génial de regarder tout ça comme s'il s'agissait d'une série",
+          "author": "Commentaire de la communauté",
+          "source": "r/aivideo",
+          "tone": "Positif",
+          "href": "https://www.reddit.com/r/aivideo/comments/1rzlggl/arena_zero_ai_web_series/"
+        },
+        {
+          "text": "C'est gênant, mais c'est vraiment bien fait.",
+          "author": "Commentaire de la communauté",
+          "source": "r/aivideo",
+          "tone": "Mitigé",
+          "href": "https://www.reddit.com/r/aivideo/comments/1rzlggl/arena_zero_ai_web_series/"
         }
       ]
     },
-    "homeUpgrades": {
-      "title": "Améliorations de la maison de Lucid Blocks",
-      "subtitle": "Fabriquez, construisez, améliorez",
-      "branches": [
+    "arenaZeroWhatIsIt": {
+      "title": "Le film Arena Zero expliqué",
+      "eyebrow": "Les bases",
+      "subtitle": "Alors, qu'est-ce qu'est exactement Arena Zero ?",
+      "displayType": "accordion",
+      "intro": "Arena Zero s'inscrit dans une catégorie pour laquelle de nombreux utilisateurs n'ont pas encore d'étiquette précise. Il ressemble à un court-métrage, sort comme un épisode pilote et fait l'objet de discussions tant en tant que lancement de série narrative qu'en tant que vitrine pour une nouvelle plateforme de réalisation de films par AI.",
+      "faqs": [
         {
-          "branch": "Stockage",
-          "summary": "Transportez plus et rapportez plus",
-          "items": [
-            "Sac à dos (extension d'inventaire)"
-          ]
+          "question": "Arena Zero est-il un film, un court-métrage ou une série ?",
+          "answer": "Arena Zero est présenté comme un épisode pilote de science-fiction de 10 minutes sur Higgsfield Original Series. Il se rapproche davantage d'un lancement de série ou d'un pilote de preuve de concept que d'un film de cinéma autonome."
         },
         {
-          "branch": "Utilité",
-          "summary": "Interagissez plus efficacement avec la maison",
-          "items": [
-            "Gants de gnome (vous permet d'ouvrir des portes et plus encore)"
-          ]
+          "question": "Arena Zero est-il entièrement généré par AI ?",
+          "answer": "Oui. Higgsfield décrit Original Series comme une plateforme de streaming native AI où des épisodes complets sont produits à partir de zéro à l'aide de l'AI générative, et Arena Zero est le titre de lancement utilisé pour introduire ce format."
         },
         {
-          "branch": "Mobilité",
-          "summary": "Déplacez-vous plus en sécurité dans les espaces verticaux",
-          "items": [
-            "Chaussures à ressort (réduisent les dégâts de chute)"
-          ]
+          "question": "Peut-on regarder Arena Zero gratuitement ?",
+          "answer": "Oui. Higgsfield précise qu'Arena Zero et les bandes-annonces sur Original Series sont gratuits à regarder sur la plateforme."
         },
         {
-          "branch": "Défense",
-          "summary": "Gérez les petites menaces si nécessaire",
-          "items": [
-            "Armes (pour les menaces comme les souris)"
-          ]
-        },
-        {
-          "branch": "Base d'attache",
-          "summary": "Fabriquez des meubles et améliorez votre maison sur l'île flottante",
-          "items": [
-            "Améliorations de meubles fonctionnels"
-          ]
-        }
-      ],
-      "priority": [
-        {
-          "rank": 1,
-          "title": "Stockage en premier",
-          "reason": "Plus de capacité de transport améliore le rendement de chaque course"
-        },
-        {
-          "rank": 2,
-          "title": "Utilité ensuite",
-          "reason": "De meilleures interactions réduisent le temps passé dans les zones dangereuses"
-        },
-        {
-          "rank": 3,
-          "title": "Mobilité pour la survie",
-          "reason": "La sécurité contre les chutes prévient les morts évitables lors de l'évasion"
+          "question": "Pourquoi les gens le décrivent-ils de différentes manières ?",
+          "answer": "Parce qu'Arena Zero fonctionne sur plusieurs niveaux à la fois : c'est un épisode narratif visionnable, un pilote pour un concept de science-fiction plus vaste et un exemple phare de la pile de réalisation et de distribution de films par AI de Higgsfield."
         }
       ]
     },
-    "community": {
-      "title": "Communauté et Discord de Lucid Blocks",
-      "subtitle": "Trouvez des équipes, des mises à jour, des discussions",
-      "links": [
+    "arenaZeroAiMovie": {
+      "title": "Film Arena Zero : Production par AI vs Film traditionnel",
+      "eyebrow": "RÉALISATION PAR AI",
+      "subtitle": "Pourquoi le film Arena Zero semble différent d'une sortie de science-fiction traditionnelle",
+      "displayType": "comparisonTable",
+      "intro": "Arena Zero se distingue car Higgsfield le présente comme un pilote de science-fiction entièrement généré par AI sur une plateforme de streaming native AI. Cela déplace la conversation du simple scénario vers le processus, la vitesse, l'échelle et ce qu'une petite équipe peut désormais produire avec des outils génératifs.",
+      "comparisons": [
         {
-          "title": "Discord officiel",
-          "subtitle": "Annonces • Commentaires • LFG",
-          "url": "https://discord.com/invite/lucidblocks"
+          "aspect": "Ce que c'est",
+          "traditional": "Généralement lancé comme un court-métrage, un épisode de télévision ou un long-métrage via les circuits standards des studios, des festivals ou du streaming.",
+          "aiNative": "Un pilote de science-fiction de 10 minutes sorti dans le cadre de Higgsfield Original Series."
         },
         {
-          "title": "X officiel (Twitter)",
-          "subtitle": "Mises à jour et publications des développeurs",
-          "url": "https://x.com/lucidblocks"
+          "aspect": "Comment les images sont créées",
+          "traditional": "Les scènes sont filmées avec des caméras, des acteurs, des décors physiques, des configurations d'éclairage et une post-production.",
+          "aiNative": "Chaque image a été générée à l'aide de l'AI. Le message de lancement officiel décrit l'épisode comme étant composé d'images entièrement générées par AI."
         },
         {
-          "title": "Hub de la communauté Steam",
-          "subtitle": "Discussions • Captures d'écran • Guides",
-          "url": "https://steamcommunity.com/app/3495730"
+          "aspect": "Pile d'outils",
+          "traditional": "Packs de caméras, lieux, direction artistique, distribution, équipe technique, suites de montage, pipelines VFX et travail sonore.",
+          "aiNative": "Un écosystème de plus de 20 outils comprenant Cinema Studio, SOUL 2.0 et Soul ID, utilisant Higgsfield comme couche de contrôle créatif sur des modèles tels que Kling 2.6, Veo 3.1 et Sora 2."
         },
         {
-          "title": "Page du magasin Steam",
-          "subtitle": "Liste de souhaits • Démo • Description officielle",
-          "url": "https://store.steampowered.com/app/3495730/Lucid_Blocks/"
+          "aspect": "Équipe et rapidité",
+          "traditional": "Des équipes plus nombreuses et des calendriers de production et de post-production beaucoup plus longs pour un contenu comparable riche en action.",
+          "aiNative": "Une équipe de 4 personnes, environ 5 000 générations, et le projet a été réalisé en 4 jours selon le compte-rendu officiel des coulisses."
+        },
+        {
+          "aspect": "Pourquoi on continue d'en parler",
+          "traditional": "La discussion porte généralement sur l'histoire, les acteurs, la mise en scène, les effets et le box-office ou les audiences.",
+          "aiNative": "Il présente la vidéo AI comme une histoire complète avec une continuité des personnages, des enjeux d'arène et une page de sortie publique au lieu d'un simple clip impressionnant."
+        },
+        {
+          "aspect": "Modèle de sortie",
+          "traditional": "La distribution passe normalement par les cinémas, les diffuseurs, les grands services de streaming ou les canaux de studios établis.",
+          "aiNative": "Lancé en avant-première sur Higgsfield Original Series, décrit comme la première plateforme de streaming AI complète pour des séries et des films entièrement générés par AI."
         }
       ]
     },
-    "modsBepInEx": {
-      "title": "Configuration des mods et de BepInEx de Lucid Blocks",
-      "subtitle": "Installez les mods proprement",
+    "arenaZeroMakingOf": {
+      "title": "Le Making Of du film Arena Zero",
+      "eyebrow": "COULISSES",
+      "subtitle": "Comment le film Arena Zero a été transformé en un pilote AI visionnable",
+      "displayType": "stepByStep",
+      "intro": "L'analyse publique d'Arena Zero clarifie une chose : le résultat provient d'un flux de travail reproductible, et non d'un simple prompt en un clic. L'accent est mis sur la planification, la cohérence des personnages, le contrôle des prises de vue et l'assemblage de nombreuses générations courtes en un épisode cohérent.",
       "steps": [
         {
-          "step": 1,
-          "title": "Installer BepInEx 5",
-          "text": "Téléchargez BepInEx 5 et extrayez-le dans le dossier racine du jeu."
+          "title": "Commencer par une colonne vertébrale narrative simple",
+          "description": "L'épisode est structuré autour d'une accroche facile à suivre : un gamer raté est traîné dans une arène extraterrestre et forcé de représenter la Terre dans un tournoi intergalactique."
         },
         {
-          "step": 2,
-          "title": "Lancez une fois pour générer des dossiers",
-          "text": "Démarrez le jeu jusqu'au menu principal, puis fermez-le. Cela crée la structure de dossiers BepInEx."
+          "title": "Concevoir la continuité avant de chercher le spectacle",
+          "description": "Le guide du flux de travail souligne la planification, les systèmes de cohérence et la nécessité d'enchaîner des clips courts en récits plus longs, c'est pourquoi l'épisode ressemble plus à un pilote qu'à un montage décousu."
         },
         {
-          "step": 3,
-          "title": "Installer des mods",
-          "text": "Placez les fichiers .dll des mods dans le dossier plugins."
+          "title": "Utiliser Higgsfield comme couche de contrôle",
+          "description": "Higgsfield est décrit comme une couche de contrôle créatif sur plusieurs modèles vidéo, tandis que le message de lancement officiel positionne les outils de Higgsfield comme l'environnement de production pour le travail cinématographique par AI."
         },
         {
-          "step": 4,
-          "title": "Vérifiez l'installation",
-          "text": "Relancez le jeu et confirmez que la fonctionnalité du mod est disponible (bascule de la caméra, curseur de l'interface utilisateur, etc.)."
-        }
-      ],
-      "paths": [
-        {
-          "label": "Installation Steam typique",
-          "path": "Steam\\steamapps\\common\\Lucid Blocks Demo\\"
+          "title": "Générer des scènes à grande échelle",
+          "description": "L'analyse officielle de Seedance 2.0 a mis en avant une équipe de 4 personnes travaillant sur environ 5 000 générations, montrant l'ampleur de l'itération derrière les images finales."
         },
         {
-          "label": "Dossier Plugins",
-          "path": "Steam\\steamapps\\common\\Lucid Blocks Demo\\BepInEx\\plugins\\"
-        }
-      ],
-      "multiplayerNote": "Pour les fonctionnalités de jeu en coopération modifiées, tout le monde doit installer BepInEx et les mêmes mods de gameplay."
-    },
-    "popularMods": {
-      "title": "Mods populaires de Lucid Blocks",
-      "subtitle": "Meilleures sélections de la communauté",
-      "mods": [
-        {
-          "title": "Menu de spawn",
-          "tags": [
-            "Amusant",
-            "Outils",
-            "Hôte uniquement"
-          ],
-          "description": "Ajoute un menu de spawn d'objets avec un mode de vol.",
-          "controls": [
-            {
-              "key": "F",
-              "action": "Ouvrir le menu de spawn"
-            },
-            {
-              "key": "V",
-              "action": "Activer le vol"
-            }
-          ],
-          "note": "Hôte uniquement ; les autres n'ont pas besoin de l'installer pour rejoindre."
+          "title": "Assembler des générations courtes en un montage long format",
+          "description": "Le guide du flux de travail souligne que la réalisation de films AI long format dépend de la compréhension de la manière de connecter des prises de vue générées courtes en un seul épisode structuré avec du dynamisme."
         },
         {
-          "title": "Vue à la troisième personne",
-          "tags": [
-            "Caméra",
-            "QoL"
-          ],
-          "description": "Ajoute une vue de caméra à la troisième personne.",
-          "controls": [
-            {
-              "key": "F7",
-              "action": "Basculer entre la première personne / la troisième personne"
-            }
-          ]
-        },
-        {
-          "title": "Plus de chapeaux",
-          "tags": [
-            "Cosmétique"
-          ],
-          "description": "Ajoute des options de couleur de chapeau supplémentaires pour les gnomes.",
-          "colors": [
-            "Bleu",
-            "Vert",
-            "Orange",
-            "Violet",
-            "Noir",
-            "Rouge"
-          ]
-        },
-        {
-          "title": "DOOM à la télé",
-          "tags": [
-            "Amusant",
-            "Mini-jeu"
-          ],
-          "description": "Jouez à DOOM original sur un téléviseur dans le jeu, avec le son provenant du haut-parleur du téléviseur.",
-          "highlights": [
-            "Fonctionne en multijoueur afin que d'autres joueurs puissent regarder le même téléviseur",
-            "Inclut les données de l'épisode de DOOM en shareware (Épisode 1)"
-          ]
+          "title": "Publier dans le cadre d'une plateforme épisodique",
+          "description": "Au lieu de laisser le projet sous forme de bande démo, Higgsfield a sorti Arena Zero au sein d'Original Series, offrant au pilote une véritable page de visionnage et un contexte de type série."
         }
       ]
     },
-    "controllerSupport": {
-      "title": "Prise en charge de la manette de Lucid Blocks",
-      "subtitle": "Jeu complet à la manette",
-      "native": {
-        "title": "Paramètres dans le jeu",
-        "description": "Utilisez les menus de liaisons/paramètres du jeu pour ajuster les commandes."
-      },
-      "mod": {
-        "title": "Mod de prise en charge de la manette",
-        "description": "Ajoute une prise en charge complète de la manette/du contrôleur et un curseur d'interface utilisateur pour la navigation dans les menus."
-      },
-      "features": [
-        "Commandes de jeu complètes : mouvement, caméra, combat, interactions et capacités mappés à la manette",
-        "Navigation avec le curseur de l'interface utilisateur : un curseur de cercle blanc apparaît dans les menus ; appuyez sur A pour cliquer et faire glisser les curseurs",
-        "Navigation dans l'inventaire : maintenez Select enfoncé pour ouvrir l'inventaire ; utilisez le stick droit pour naviguer tout en le maintenant enfoncé",
-        "Menus déroulants : le stick droit fait défiler les recettes de fabrication, les paramètres et autres zones d'interface utilisateur déroulantes",
-        "Défilement de la barre d'accès rapide : la croix directionnelle gauche/droite fait défiler 4 emplacements de la barre d'accès rapide",
-        "Commutation d'entrée transparente : détecte automatiquement le clavier/la souris par rapport à la manette"
+    "arenaZeroCharacters": {
+      "title": "Personnages et créatures du film Arena Zero",
+      "eyebrow": "DISTRIBUTION ET MENACES",
+      "subtitle": "Les visages, voix et monstres clés qui définissent le film Arena Zero",
+      "displayType": "cardList",
+      "intro": "Arena Zero n'arrive pas encore avec un wiki de franchise approfondi, mais les pages officielles établissent déjà quelques points d'ancrage mémorables. Le protagoniste, le spectacle de l'arène et la première menace de créature majeure sont les éléments les plus clairs de l'identité de l'histoire pour le moment.",
+      "characters": [
+        {
+          "name": "Le Gamer",
+          "role": "Protagoniste",
+          "description": "Le synopsis officiel le décrit comme un gamer raté qui appuie sur le mauvais bouton et se réveille dans une arène extraterrestre."
+        },
+        {
+          "name": "Le représentant de la Terre",
+          "role": "Rôle",
+          "description": "Le même synopsis clarifie son nouveau rôle : il est choisi pour représenter la Terre dans un tournoi intergalactique auquel il n'a jamais accepté de participer."
+        },
+        {
+          "name": "L'annonceur de l'arène",
+          "role": "Voix de l'hôte",
+          "description": "Des extraits de transcription de l'Episode 1 incluent un annonceur présentant un guerrier de la mystérieuse planète Terre, présentant l'arène autant comme un spectacle que comme une bataille."
+        },
+        {
+          "name": "L'ogre de 7 pieds",
+          "role": "Menace (Créature)",
+          "description": "La description officielle de l'épisode distingue un ogre de 7 pieds comme le premier défi de survie évident qui se dresse entre le héros et sa survie."
+        },
+        {
+          "name": "Adversaires d'autres univers de fiction",
+          "role": "Liste de l'arène",
+          "description": "Le message de lancement de Higgsfield décrit Arena Zero comme une histoire de combat contre des adversaires issus d'autres univers de fiction, donnant à la série son identité d'arène de style crossover."
+        },
+        {
+          "name": "Planète Gnid",
+          "role": "Élément de l'univers",
+          "description": "Les courts-métrages Arena Zero de Higgsfield font référence à la destruction de la planète Gnid, suggérant une toile de fond de science-fiction plus large au-delà de la première confrontation dans l'arène."
+        }
       ]
     },
-    "playerCount": {
-      "title": "Nombre de joueurs et tendance de Lucid Blocks",
-      "subtitle": "Instantané de popularité en direct",
-      "stats": {
-        "now": {
-          "value": "6 047",
-          "label": "Joueurs en ce moment"
+    "arenaZeroRuntime": {
+      "title": "Arena Zero Movie Runtime and Release Date",
+      "eyebrow": "QUICK FACTS",
+      "subtitle": "Arena Zero Movie runtime, launch timing, and current episode status",
+      "displayType": "infoTable",
+      "intro": "This is the clean reference block for users who just want the basics. The official material gives enough to answer the most common watch-page questions: what it is, when it arrived, how long it runs, and whether more episodes are live yet.",
+      "info": [
+        {
+          "label": "Format",
+          "value": "AI-generated sci-fi pilot episode on Higgsfield Original Series"
         },
-        "peak24h": {
-          "value": "13 859",
-          "label": "Pic sur 24 heures"
+        {
+          "label": "Official Launch Announcement",
+          "value": "March 20, 2026"
         },
-        "allTimePeak": {
-          "value": "15 272",
-          "label": "Pic de tous les temps"
+        {
+          "label": "Episode 1 Runtime",
+          "value": "10 minutes"
+        },
+        {
+          "label": "Episode 1 Status",
+          "value": "Live on the official Arena Zero Episode 1 page"
+        },
+        {
+          "label": "Episode 1 Page Views",
+          "value": "627.9K views shown on the official platform"
+        },
+        {
+          "label": "Series Rollout Status",
+          "value": "Episode 2 and Episode 3 pages are public; Episodes 2 through 5 are marked Coming Soon"
+        },
+        {
+          "label": "Episode 2 Page Date",
+          "value": "March 19, 2026"
+        },
+        {
+          "label": "Current Positioning",
+          "value": "Presented by Higgsfield as the launch title for its Original Series platform"
         }
-      },
-      "milestones": [
+      ]
+    },
+    "arenaZeroHiggsfieldGuide": {
+      "title": "How Arena Zero Fits Into Higgsfield Original Series",
+      "eyebrow": "Platform Guide",
+      "subtitle": "Arena Zero is the watch-first title inside Higgsfield's AI-native streaming lineup.",
+      "displayType": "cardList",
+      "intro": "Higgsfield positions Arena Zero as the entry point to Original Series: a free, 10-minute sci-fi pilot that launches a broader slate of AI-made episodes and trailers. This guide explains both where Arena Zero sits now and how the larger series slate grows around it.",
+      "items": [
         {
-          "date": "30 janvier 2026",
-          "title": "Démo sortie sur Steam",
-          "detail": "La démo publique est devenue disponible sur PC (Steam)."
+          "title": "Watch-first launch title",
+          "value": "Arena Zero",
+          "description": "The official launch article introduces Arena Zero as the title viewers should start with before exploring the rest of the slate."
         },
         {
-          "date": "8 février 2026",
-          "title": "Pic de tous les temps atteint",
-          "detail": "La démo a atteint son plus grand nombre de joueurs simultanés enregistré."
+          "title": "What Original Series is",
+          "value": "AI-native streaming platform",
+          "description": "Higgsfield describes Original Series as a complete streaming destination for fully AI-generated films and series released to a global audience."
+        },
+        {
+          "title": "Launch slate",
+          "value": "1 pilot plus 12 trailers",
+          "description": "The initial rollout combines the Arena Zero pilot with twelve trailers across different genres and worlds."
+        },
+        {
+          "title": "How full series get selected",
+          "value": "Audience decides what expands",
+          "description": "Viewers help determine which trailers move forward into fuller series treatment."
+        },
+        {
+          "title": "Creator pipeline",
+          "value": "Contests feed new titles",
+          "description": "Higgsfield uses contests as the route for independent creators and studios to get discovered, sponsored, and added to Original Series."
+        },
+        {
+          "title": "Scale of the latest contest",
+          "value": "8,752 submissions from 139 countries",
+          "description": "The most recent Action Contest distributed $500,000 to independent filmmakers and serves as the platform's current talent funnel."
+        },
+        {
+          "title": "Viewing model",
+          "value": "Free to watch",
+          "description": "Higgsfield states that Arena Zero and the trailer slate are available to watch for free on the platform."
+        },
+        {
+          "title": "Browsing shelves you will see",
+          "value": "Higgsfield Choice, First Look, On Our Radar, Coming Soon",
+          "description": "These shelves organize the broader slate and make Arena Zero feel like part of a living catalog rather than a single isolated upload."
+        }
+      ]
+    },
+    "arenaZeroViewerReactions": {
+      "title": "What Early Viewers Are Saying About Arena Zero",
+      "eyebrow": "Community Pulse",
+      "subtitle": "The first wave of reactions centers on consistency, fun factor, and whether Arena Zero Movie feels like a real step forward for AI-native filmmaking.",
+      "displayType": "quoteWall",
+      "intro": "Arena Zero Movie is getting discussed less like a novelty clip and more like an early benchmark for long-form AI storytelling. These reactions capture the main themes: character consistency, watchability, genre appeal, and the feeling that AI-made series are becoming easier to imagine as a real category.",
+      "quotes": [
+        {
+          "text": "the quality and consistency are worth paying attention to",
+          "author": "Taryn O'Neill",
+          "source": "Medium",
+          "theme": "Craft quality"
+        },
+        {
+          "text": "Dang that was fun.",
+          "author": "SteviaCannonball9117",
+          "source": "Reddit r/aivideo",
+          "theme": "Instant entertainment"
+        },
+        {
+          "text": "Really well done. The constancy is really impressive.",
+          "author": "notEnotA",
+          "source": "Reddit r/aivideo",
+          "theme": "Character consistency"
+        },
+        {
+          "text": "Dungeon Crawler Carl meets Gladiator. I liked it.",
+          "author": "pexoroo",
+          "source": "Reddit r/aivideo",
+          "theme": "Genre comparison"
+        },
+        {
+          "text": "Ok im hooked sure why not",
+          "author": "5280Rockymtn",
+          "source": "Reddit r/aivideo",
+          "theme": "Series hook"
+        },
+        {
+          "text": "this is the second short ai film ive ever seen that was actually decent. the future is here",
+          "author": "blisstaker",
+          "source": "Reddit r/aivideo",
+          "theme": "AI milestone framing"
+        }
+      ]
+    },
+    "arenaZeroSimilarSeries": {
+      "title": "More AI Series and Trailers to Watch After Arena Zero",
+      "eyebrow": "More to Watch",
+      "subtitle": "Arena Zero Movie works best as a gateway title. The Higgsfield Originals hub surfaces a wider set of AI-native titles across featured shelves.",
+      "displayType": "gallery",
+      "intro": "Higgsfield is not presenting Arena Zero as a one-off experiment. The Original Series hub already surfaces a wider set of AI-native titles across featured shelves, early looks, and newer releases.",
+      "series": [
+        {
+          "name": "Spit & Glow",
+          "badge": "Higgsfield Choice",
+          "format": "Featured title",
+          "snapshot": "Listed alongside Arena Zero in the platform's main featured shelf.",
+          "href": "https://higgsfield.ai/original-series/spit-and-glow/episode-1"
+        },
+        {
+          "name": "Bucket List",
+          "badge": "Higgsfield Choice",
+          "format": "Trailer",
+          "snapshot": "The trailer page shows 33.2K views and places it among the platform's front-facing picks.",
+          "href": "https://higgsfield.ai/original-series/bucket-list/episode-1"
+        },
+        {
+          "name": "Vermin Control Unit",
+          "badge": "Higgsfield Choice / First Look",
+          "format": "Episode 1",
+          "snapshot": "Appears in multiple shelves and the episode page shows 20.9K views.",
+          "href": "https://higgsfield.ai/original-series/vermin-control-unit/episode-1"
+        },
+        {
+          "name": "Buddy",
+          "badge": "First Look",
+          "format": "Episode 1",
+          "snapshot": "A currently watchable title in the discovery shelf, with 7,317 views on its episode page.",
+          "href": "https://higgsfield.ai/original-series/buddy/episode-1"
+        },
+        {
+          "name": "Tails of Steel",
+          "badge": "First Look / On Our Radar",
+          "format": "Episode 1",
+          "snapshot": "Featured in two browsing shelves, with 19.8K views on its watch page.",
+          "href": "https://higgsfield.ai/original-series/tails-of-steel/episode-1"
+        },
+        {
+          "name": "Viking Courier",
+          "badge": "First Look",
+          "format": "Episode 1",
+          "snapshot": "A live title in the expanding lineup, with 10.8K views on its page.",
+          "href": "https://higgsfield.ai/original-series/viking-courier/episode-1"
+        },
+        {
+          "name": "Misfortune",
+          "badge": "Higgsfield Choice",
+          "format": "Episode 1",
+          "snapshot": "Another featured-series entry, with 9,987 views on the current episode page.",
+          "href": "https://higgsfield.ai/original-series/misfortune/episode-1"
+        },
+        {
+          "name": "Zephyr",
+          "badge": "Current release",
+          "format": "Intro / Episode rollout",
+          "snapshot": "Already present on the hub with fresh rollout activity.",
+          "href": "https://higgsfield.ai/original-series/zephyr/episode-1"
+        }
+      ]
+    },
+    "arenaZeroNewsUpdates": {
+      "title": "Arena Zero and Original Series Launch Timeline",
+      "eyebrow": "Latest Timeline",
+      "subtitle": "This timeline tracks the rollout around Arena Zero Movie, from the platform launch to follow-up episodes and official behind-the-scenes content.",
+      "displayType": "timeline",
+      "intro": "Arena Zero Movie is part of a broader, actively developing release cycle. A timeline works well here because viewers want quick answers about when the platform launched, what went live since, and where official follow-up content is appearing.",
+      "events": [
+        {
+          "date": "Mar 20, 2026",
+          "event": "Original Series launch article goes live",
+          "details": "Higgsfield publishes the official post framing Original Series as the first complete AI streaming platform.",
+          "href": "https://higgsfield.ai/blog/blog-original-series"
+        },
+        {
+          "date": "Mar 20, 2026",
+          "event": "Arena Zero Movie is named the watch-first title",
+          "details": "The launch article says the rollout starts with Arena Zero, a 10-minute sci-fi pilot, plus twelve trailers produced by the Higgsfield team.",
+          "href": "https://higgsfield.ai/blog/blog-original-series"
+        },
+        {
+          "date": "Late Mar 2026",
+          "event": "Arena Zero Episode 1 becomes the anchor watch page",
+          "details": "The on-platform Episode 1 page shows 627.9K views and presents Episode 2 through Episode 5 slots in the series rail.",
+          "href": "https://higgsfield.ai/original-series/arena-zero/episode-1"
+        },
+        {
+          "date": "Mar 19, 2026",
+          "event": "Additional Arena Zero episode pages are listed",
+          "details": "Episode 2 is indexed on the platform with its own page and 12.7K views, extending Arena Zero beyond a single landing page.",
+          "href": "https://higgsfield.ai/original-series/arena-zero/episode-2"
+        },
+        {
+          "date": "Early Apr 2026",
+          "event": "Official breakdown video appears on YouTube",
+          "details": "Higgsfield adds Seedance 2.0: Arena Zero Breakdown to the official channel, giving the series a making-of style follow-up.",
+          "href": "https://www.youtube.com/watch?v=036jyFZWppw"
+        },
+        {
+          "date": "Early Apr 2026",
+          "event": "The platform continues rolling out new titles",
+          "details": "Zephyr's current episode page appears as a fresh release, showing that Original Series is expanding beyond the Arena Zero launch wave.",
+          "href": "https://higgsfield.ai/original-series/zephyr/episode-1"
         }
       ]
     }
   },
   "faq": {
-    "title": "Foire aux",
-    "titleHighlight": "Questions",
-    "subtitle": "Tout ce que vous devez savoir sur Lucid Blocks",
+    "title": "Film Arena Zero",
+    "titleHighlight": "FAQ",
+    "subtitle": "Questions fréquentes sur Arena Zero, Episode 1, le streaming et la série",
     "questions": [
       {
-        "question": "Comment télécharger la démo de Lucid Blocks ?",
-        "answer": "Visitez la page du magasin Steam et cliquez sur \"Télécharger la démo\". La démo est gratuite et nécessite 2,62 Gio à télécharger, 4,88 Gio d'espace disque."
+        "question": "Où puis-je regarder Arena Zero ?",
+        "answer": "Arena Zero Episode 1 est disponible gratuitement sur la plateforme Higgsfield Original Series à l'adresse higgsfield.ai. La mise en ligne officielle sur la chaîne YouTube Higgsfield AI est également disponible comme option de streaming gratuit."
       },
       {
-        "question": "Puis-je jouer à Lucid Blocks en solo ou ai-je besoin d'amis ?",
-        "answer": "Lucid Blocks prend en charge le jeu en solo et en coopération avec jusqu'à 6 joueurs. Le solo est plus difficile mais possible."
+        "question": "Arena Zero est-il entièrement réalisé avec l'AI ?",
+        "answer": "Oui. Arena Zero est la première série originale nativement AI de Higgsfield, ce qui signifie que tous les visuels, personnages et séquences d'action ont été générés à l'aide des outils vidéo AI de Higgsfield, sans aucune production en prises de vues réelles."
       },
       {
-        "question": "Quelles sont les tâches du Haut-Gnome dans Lucid Blocks ?",
-        "answer": "Le Haut-Gnome est votre patron qui vous assigne des objectifs comme \"casser la télévision\", \"inonder les toilettes\" ou \"voler des objets spécifiques\". Effectuez-les pour obtenir des récompenses supplémentaires."
+        "question": "Quelle est la durée de Arena Zero Episode 1 ?",
+        "answer": "Arena Zero Episode 1 dure environ 10 minutes. Il est structuré comme un pilote de science-fiction présentant le concept de l'arène, le protagoniste et les enjeux planétaires."
       },
       {
-        "question": "Comment installer des mods pour Lucid Blocks ?",
-        "answer": "Installez BepInEx 5, lancez le jeu une fois, puis placez les DLL des mods dans le dossier BepInEx/plugins/. Tous les joueurs ont besoin des mêmes mods pour le multijoueur."
+        "question": "Quand sort Arena Zero Episode 2 ?",
+        "answer": "Arena Zero Episode 2 possède une page en ligne sur Higgsfield avec un synopsis, mais la fiche de l'épisode indique toujours « Coming Soon ». Aucune date de sortie spécifique n'a été officiellement annoncée."
       },
       {
-        "question": "Lucid Blocks prend-il en charge les manettes ?",
-        "answer": "Oui ! Utilisez les paramètres du jeu pour la prise en charge de base de la manette, ou installez le Mod de manette de Nexus Mods pour une navigation complète dans l'interface utilisateur."
+        "question": "Combien y a-t-il d'épisodes de Arena Zero ?",
+        "answer": "Higgsfield a répertorié cinq épisodes de Arena Zero. Episode 1 est actuellement visionnable, tandis que les Episode 2 à Episode 5 ont des pages publiques mais sont marqués comme « Coming Soon »."
       },
       {
-        "question": "Quel est le nombre de joueurs pour Lucid Blocks ?",
-        "answer": "En février 2026, Lucid Blocks compte en moyenne plus de 6 000 joueurs simultanés, avec un pic de 15 272 le 8 février 2026."
+        "question": "Quelle est l'intrigue de Arena Zero ?",
+        "answer": "Un gamer raté déclenche accidentellement un enlèvement extraterrestre et est recruté pour représenter la Terre dans un tournoi intergalactique mortel. S'il perd, la Terre est détruite. Episode 1 se termine alors qu'il affronte son premier adversaire dans l'arène, un ogre de plus de 2 mètres."
       }
     ]
   },
   "cta": {
-    "title": "Prêt à commencer à braquer ?",
-    "description": "Rejoignez la communauté Lucid Blocks sur Discord pour des groupes de coopération, des mises à jour et des discussions sur les mods !",
+    "title": "Prêt à explorer Arena Zero ?",
+    "description": "Regardez Arena Zero Episode 1 gratuitement sur Higgsfield et restez informé des nouveaux épisodes, des bandes-annonces et des analyses de production AI.",
     "joinCommunity": "Rejoindre Discord",
-    "joinGame": "Obtenir la démo sur Steam"
+    "joinGame": "Regarder Episode 1"
   },
   "footer": {
-    "title": "Lucid Blocks Wiki",
-    "description": "Votre centre de ressources complet pour les braquages furtifs, les stratégies de coopération, les mods et les guides communautaires de Lucid Blocks.",
+    "title": "Wiki du film Arena Zero",
+    "description": "Votre centre de ressources complet pour les épisodes de Arena Zero, les bandes-annonces, l'intrigue, l'explication de la fin, les personnages, les critiques et les guides de production AI.",
     "resources": "Ressources",
     "community": "Communauté",
-    "legal": "Légal",
+    "legal": "Mentions légales",
     "discord": "Discord",
     "twitter": "X / Twitter",
-    "steamCommunity": "Communauté Steam",
-    "steamStore": "Magasin Steam",
+    "youtube": "YouTube",
+    "instagram": "Instagram",
+    "reddit": "Reddit",
+    "officialSite": "Site officiel",
     "about": "À propos",
     "privacy": "Politique de confidentialité",
     "terms": "Conditions d'utilisation",
-    "copyrightNotice": "Droits d'auteur",
-    "copyright": "© 2026 Lucid Blocks Wiki. Non affilié aux développeurs de Lucid Blocks.",
-    "disclaimer": "Site web de ressources non officiel créé par des fans."
+    "copyrightNotice": "Copyright",
+    "copyright": "© 2025-2026 Arena Zero Movie Wiki. Non affilié à Higgsfield AI.",
+    "disclaimer": "Site de ressources non officiel créé par des fans."
   },
   "pages": {
-    "guides": {
-      "title": "Guides Lucid Blocks",
-      "description": "Guides de jeu complets, des bases pour débutants aux stratégies avancées d'Apotheosis. Maîtrisez la survie et l'artisanat.",
-      "metaTitle": "Guides Lucid Blocks - Stratégies de débutant à avancé",
-      "metaDescription": "Guides complets de Lucid Blocks couvrant les conseils pour débutants, le système Apotheosis, les stratégies de survie et les tactiques d'experts pour maîtriser ce bac à sable surréaliste.",
-      "categoryLabel": "GUIDES DE JEU",
-      "whatIs": "Que sont les Guides ?",
-      "whatIsDescription": "Guides complets couvrant les mécaniques de jeu, les stratégies de survie et le système d'artisanat Apotheosis. Apprenez tout, des premiers pas aux techniques avancées.",
-      "why": "Pourquoi lire les guides ?",
+    "episode": {
+      "title": "Épisodes du film Arena Zero",
+      "description": "Guide complet des épisodes de Arena Zero - la première série d'action au monde générée par AI. Explorez Episode 1, Episode 2 et les épisodes à venir.",
+      "metaTitle": "Épisodes de Arena Zero - Guide complet des épisodes 2026",
+      "metaDescription": "Guide complet des épisodes de Arena Zero, incluant les liens de visionnage de Episode 1, le statut des Episode 2 à Episode 5 et les mises à jour de sortie de Higgsfield.",
+      "categoryLabel": "ÉPISODES",
+      "whatIs": "Que sont les épisodes de Arena Zero ?",
+      "whatIsDescription": "Les épisodes de Arena Zero sont des volets de la première série d'action au monde générée par AI par Higgsfield. Chaque épisode suit la survie de Leo dans un tournoi intergalactique où perdre signifie l'effacement de votre planète.",
+      "why": "Pourquoi regarder Arena Zero ?",
       "whySteps": {
-        "step1Title": "Apprendre les mécaniques de base",
-        "step1Description": "Comprenez le système Apotheosis et évitez les erreurs courantes de débutant",
-        "step2Title": "Progression rapide",
-        "step2Description": "Suivez des parcours éprouvés pour survivre et prospérer dans ce monde surréaliste",
-        "step3Title": "Maîtriser les stratégies",
-        "step3Description": "Développez des tactiques avancées pour l'exploration et l'artisanat"
+        "step1Title": "Regarder Episode 1 gratuitement",
+        "step1Description": "Regardez le premier épisode directement sur le site officiel de Higgsfield sans frais",
+        "step2Title": "Suivre l'histoire",
+        "step2Description": "Suivez le voyage de Leo à travers le tournoi des Mille Mondes d'épisode en épisode",
+        "step3Title": "Rester informé",
+        "step3Description": "Tenez-vous au courant du statut de sortie des Episode 2 à Episode 5 et des annonces « Coming Soon »"
+      },
+      "featured": "En vedette et essentiels",
+      "all": "Tous les épisodes"
+    },
+    "watch": {
+      "title": "Où regarder le film Arena Zero",
+      "description": "Trouvez tous les liens officiels pour regarder Arena Zero en ligne. Regardez Episode 1 gratuitement sur Higgsfield et découvrez toutes les plateformes de visionnage disponibles.",
+      "metaTitle": "Regarder Arena Zero en ligne - Liens de streaming officiels 2026",
+      "metaDescription": "Où regarder le film et les épisodes de Arena Zero. Streaming gratuit sur le site officiel de Higgsfield, YouTube et d'autres plateformes en 2026.",
+      "categoryLabel": "GUIDES DE VISIONNAGE",
+      "whatIs": "Où regarder Arena Zero ?",
+      "whatIsDescription": "Arena Zero est officiellement disponible gratuitement sur la plateforme de Higgsfield. Découvrez toutes les options de streaming, la disponibilité régionale et comment regarder la série complète en ligne.",
+      "why": "Pourquoi utiliser nos guides de visionnage ?",
+      "whySteps": {
+        "step1Title": "Trouver les liens officiels",
+        "step1Description": "Obtenez des liens vérifiés et fonctionnels pour regarder Arena Zero sans confusion ni risques de piratage",
+        "step2Title": "Comparer les plateformes",
+        "step2Description": "Vérifiez si Arena Zero est sur Netflix, YouTube, les plateformes OTT ou d'autres services de streaming",
+        "step3Title": "Regarder gratuitement",
+        "step3Description": "Découvrez comment regarder Arena Zero Episode 1 tout à fait gratuitement sur le site officiel"
+      },
+      "featured": "En vedette et essentiels",
+      "all": "Tous les guides de visionnage"
+    },
+    "cast": {
+      "title": "Distribution du film Arena Zero",
+      "description": "Rencontrez la distribution générée par AI d'Arena Zero. Du protagoniste Leo aux champions de l'arène, explorez chaque personnage de la série de science-fiction Higgsfield.",
+      "metaTitle": "Distribution d'Arena Zero - Guide des personnages et acteurs AI 2026",
+      "metaDescription": "Guide complet de la distribution d'Arena Zero couvrant les personnages générés par AI, le protagoniste Leo, les champions de l'arène et l'équipe de production de Higgsfield.",
+      "categoryLabel": "DISTRIBUTION ET PERSONNAGES",
+      "whatIs": "Qui fait partie de la distribution d'Arena Zero ?",
+      "whatIsDescription": "Contrairement aux films traditionnels, la distribution d'Arena Zero se compose entièrement de personnages générés par AI créés par Higgsfield. Du protagoniste humain Leo aux champions d'arène extraterrestres, chaque personnage est conçu à l'aide d'une AI générative de pointe.",
+      "why": "Pourquoi explorer la distribution ?",
+      "whySteps": {
+        "step1Title": "Rencontrez les personnages",
+        "step1Description": "Découvrez Leo, Hokei et chaque champion d'arène qui combat dans le tournoi des Mille Mondes",
+        "step2Title": "Comprendre le jeu d'acteur AI",
+        "step2Description": "Découvrez comment Higgsfield crée des personnages AI cohérents et expressifs à travers plusieurs scènes",
+        "step3Title": "Suivre les arcs narratifs",
+        "step3Description": "Suivez le rôle et le développement de chaque personnage au fil de la série"
+      },
+      "featured": "En vedette et essentiels",
+      "all": "Tous les guides de distribution"
+    },
+    "guide": {
+      "title": "Guides du film Arena Zero",
+      "description": "Guides complets couvrant l'intrigue d'Arena Zero, l'explication de la fin, l'analyse de l'histoire et tout ce qui concerne la première série d'action AI au monde.",
+      "metaTitle": "Guide Arena Zero - Intrigue, fin et analyse de l'histoire 2026",
+      "metaDescription": "Guides complets du film Arena Zero incluant le résumé de l'intrigue, l'explication de la fin, l'analyse de l'histoire et les détails de l'univers pour la série AI de Higgsfield.",
+      "categoryLabel": "GUIDES DE LA SÉRIE",
+      "whatIs": "Que sont les guides Arena Zero ?",
+      "whatIsDescription": "Nos guides Arena Zero fournissent une analyse approfondie de l'intrigue, des personnages, de la construction du monde et de la production de la première série d'action générée par AI au monde. Parfait pour les nouveaux spectateurs comme pour les passionnés de l'univers.",
+      "why": "Pourquoi lire nos guides ?",
+      "whySteps": {
+        "step1Title": "Comprendre l'intrigue",
+        "step1Description": "Obtenez une analyse claire de l'histoire du tournoi des Mille Mondes et de tous ses rebondissements",
+        "step2Title": "Explorer l'univers",
+        "step2Description": "Plongez dans Planet Zero, les règles de l'arène intergalactique et l'histoire de l'univers",
+        "step3Title": "Explication de la fin",
+        "step3Description": "Comprenez comment l'Episode 1 se termine et ce qu'il prépare pour les futurs épisodes"
       },
       "featured": "En vedette et essentiels",
       "all": "Tous les guides"
     },
-    "crafting": {
-      "title": "Artisanat Lucid Blocks",
-      "description": "Maîtrisez le système de fusion Apotheosis avec les mécaniques d'essence, les recettes et les stratégies d'artisanat pour des objets puissants.",
-      "metaTitle": "Artisanat Lucid Blocks - Système Apotheosis et recettes",
-      "metaDescription": "Maîtrisez le système d'artisanat Apotheosis de Lucid Blocks. Apprenez les mécaniques d'essence, les recettes de fusion et les stratégies pour créer des outils et des armes puissants.",
-      "categoryLabel": "SYSTÈME D'ARTISANAT",
-      "whatIs": "Qu'est-ce que l'artisanat ?",
-      "whatIsDescription": "Le système Apotheosis est une mécanique de fusion unique basée sur l'essence où vous combinez jusqu'à six objets pour découvrir de nouvelles recettes. Pas de menus d'artisanat fixes : l'expérimentation est la clé.",
-      "why": "Pourquoi maîtriser l'artisanat ?",
+    "release": {
+      "title": "Dates de sortie du film Arena Zero",
+      "description": "Restez informé des dates de sortie des épisodes d'Arena Zero, du calendrier de production et des actualités de la première série d'action générée par AI au monde.",
+      "metaTitle": "Date de sortie d'Arena Zero - Calendrier des épisodes et mises à jour 2026",
+      "metaDescription": "Suivi de la date de sortie du film Arena Zero. Suivez le calendrier de sortie des épisodes, les mises à jour « Bientôt disponible » et les actualités de production de la série AI de Higgsfield.",
+      "categoryLabel": "MISES À JOUR DES SORTIES",
+      "whatIs": "Quand sort Arena Zero ?",
+      "whatIsDescription": "L'Episode 1 d'Arena Zero a été lancé en 2026 sur Higgsfield. Les Episode 2, Episode 3, Episode 4 et Episode 5 sont répertoriés comme « Bientôt disponible ». Comme la production par AI est plus rapide que la réalisation traditionnelle, de nouveaux épisodes pourraient arriver rapidement.",
+      "why": "Pourquoi suivre les dates de sortie ?",
       "whySteps": {
-        "step1Title": "Débloquer des objets puissants",
-        "step1Description": "Découvrez des outils, des armes et des équipements de mobilité essentiels grâce à la fusion",
-        "step2Title": "Comprendre les essences",
-        "step2Description": "Apprenez comment les essences d'objets se combinent pour créer des résultats prévisibles",
-        "step3Title": "Optimiser les ressources",
-        "step3Description": "Utilisez les mécaniques de dilution pour maximiser le rendement à partir de matériaux bon marché"
+        "step1Title": "Ne manquez jamais un épisode",
+        "step1Description": "Soyez averti lorsque de nouveaux épisodes d'Arena Zero deviennent disponibles sur Higgsfield",
+        "step2Title": "Comprendre le calendrier",
+        "step2Description": "Découvrez comment les délais de production par AI diffèrent des calendriers de sortie de films traditionnels",
+        "step3Title": "Suivre la série",
+        "step3Description": "Restez informé de l'éventuelle extension d'Arena Zero vers des plateformes de streaming comme Netflix"
       },
       "featured": "En vedette et essentiels",
-      "all": "Tous les guides d'artisanat"
+      "all": "Tous les guides de sortie"
     },
-    "items": {
-      "title": "Objets Lucid Blocks",
-      "description": "Guides détaillés sur les objets couvrant les outils, les armes, l'équipement de mobilité et les solutions de stockage avec recettes d'artisanat et conseils d'utilisation.",
-      "metaTitle": "Objets Lucid Blocks - Guide des outils, armes et équipements",
-      "metaDescription": "Base de données complète des objets pour Lucid Blocks, incluant les outils, les armes, l'équipement de mobilité et le stockage. Apprenez à fabriquer et utiliser chaque objet efficacement.",
-      "categoryLabel": "OBJETS ET ÉQUIPEMENT",
-      "whatIs": "Que sont les objets ?",
-      "whatIsDescription": "Guides complets pour les outils, les armes, l'équipement de mobilité et les objets fonctionnels. Apprenez les recettes d'artisanat, les stratégies d'utilisation et les combinaisons optimales.",
-      "why": "Pourquoi consulter les guides d'objets ?",
+    "format": {
+      "title": "Format du film Arena Zero",
+      "description": "Arena Zero est-il un film, une série ou une démo AI ? Explorez le format, la structure, la durée des épisodes et ce qui le rend unique dans le divertissement numérique.",
+      "metaTitle": "Format d'Arena Zero - Film, série ou pilote AI ? 2026",
+      "metaDescription": "Comprenez le format d'Arena Zero. S'agit-il d'un film ou d'une série ? Découvrez le format généré par AI, la structure des épisodes et la classification en tant que série originale Higgsfield.",
+      "categoryLabel": "FORMAT DE LA SÉRIE",
+      "whatIs": "Quel est le format d'Arena Zero ?",
+      "whatIsDescription": "Arena Zero est une série originale Higgsfield - une série d'action de science-fiction épisodique générée par AI. Bien que souvent qualifiée de film, il s'agit techniquement d'un pilote avec 5 épisodes prévus, chacun d'une durée d'environ 10 minutes.",
+      "why": "Pourquoi le format est-il important ?",
       "whySteps": {
-        "step1Title": "Apprendre les recettes d'artisanat",
-        "step1Description": "Découvrez comment fabriquer des outils et des armes essentiels en utilisant Apotheosis",
-        "step2Title": "Optimiser l'équipement",
-        "step2Description": "Choisissez les meilleurs objets pour votre style de jeu et votre stade de progression",
-        "step3Title": "Améliorer la survie",
-        "step3Description": "Équipez-vous de matériel de mobilité et d'armes pour naviguer dans ce monde dangereux"
+        "step1Title": "Film vs Série",
+        "step1Description": "Clarifiez la distinction entre Arena Zero en tant que pilote, film et série AI en cours",
+        "step2Title": "Modèle de production AI",
+        "step2Description": "Découvrez comment le format AI permet une production plus rapide et des possibilités de narration uniques",
+        "step3Title": "Structure des épisodes",
+        "step3Description": "Comprenez le format d'épisode de 10 minutes et comment il s'intègre dans le récit global"
       },
       "featured": "En vedette et essentiels",
-      "all": "Tous les objets"
+      "all": "Tous les guides de format"
     },
-    "biomes": {
-      "title": "Biomes Lucid Blocks",
-      "description": "Explorez les régions du monde, les caractéristiques environnementales, l'emplacement des ressources et les conseils de survie pour chaque biome.",
-      "metaTitle": "Biomes Lucid Blocks - Régions du monde et exploration",
-      "metaDescription": "Explorez les biomes de Lucid Blocks, y compris les Tiamana Leylines, Fog Meadow et les régions surréalistes. Trouvez des ressources, évitez les dangers et naviguez dans le monde infini.",
-      "categoryLabel": "RÉGIONS DU MONDE",
-      "whatIs": "Que sont les biomes ?",
-      "whatIsDescription": "Guides des différentes régions du monde, des caractéristiques environnementales, de la distribution des ressources et des zones de danger. Apprenez à quoi vous attendre et comment vous préparer pour chaque zone.",
-      "why": "Pourquoi explorer les biomes ?",
+    "platform": {
+      "title": "Plateformes du film Arena Zero",
+      "description": "Découvrez quelles plateformes diffusent Arena Zero. Des spéculations sur Netflix à la disponibilité OTT, découvrez où vous pouvez regarder la série d'action AI.",
+      "metaTitle": "Plateformes Arena Zero - Netflix, OTT et options de streaming 2026",
+      "metaDescription": "Où Arena Zero est-il diffusé ? Vérifiez Netflix, les plateformes OTT et la disponibilité officielle sur Higgsfield pour la première série d'action AI au monde en 2026.",
+      "categoryLabel": "PLATEFORMES DE STREAMING",
+      "whatIs": "Quelles plateformes diffusent Arena Zero ?",
+      "whatIsDescription": "Arena Zero est actuellement disponible sur la plateforme officielle de Higgsfield. Les fans le recherchent sur Netflix, les services OTT et les plateformes régionales. Nous suivons tous les canaux de distribution officiels et potentiels.",
+      "why": "Pourquoi consulter les guides des plateformes ?",
       "whySteps": {
-        "step1Title": "Trouver des ressources",
-        "step1Description": "Localisez des matériaux rares et des essences spécifiques à chaque région",
-        "step2Title": "Éviter les dangers",
-        "step2Description": "Comprenez les dangers environnementaux et les créatures hostiles",
-        "step3Title": "Planifier l'exploration",
-        "step3Description": "Préparez les bons outils et équipements pour chaque type de biome"
+        "step1Title": "Trouvez votre plateforme",
+        "step1Description": "Découvrez si Arena Zero est sur Netflix, Amazon ou d'autres services de streaming près de chez vous",
+        "step2Title": "Disponibilité régionale",
+        "step2Description": "Vérifiez si Arena Zero est accessible dans votre région, y compris en tamoul, en hindi et sur les marchés internationaux",
+        "step3Title": "Officiel vs Non officiel",
+        "step3Description": "Sachez quelles plateformes sont officielles et lesquelles sont des copies non autorisées"
       },
       "featured": "En vedette et essentiels",
-      "all": "Tous les biomes"
+      "all": "Tous les guides de plateformes"
     },
-    "building": {
-      "title": "Construction Lucid Blocks",
-      "description": "Maîtrisez les dimensions personnelles Qualia, la construction de bases, la gestion du stockage et les techniques de construction créative.",
-      "metaTitle": "Construction Lucid Blocks - Qualia et construction de base",
-      "metaDescription": "Maîtrisez la construction dans Lucid Blocks avec les dimensions personnelles Qualia, la construction de bases, les solutions de stockage et les techniques de construction créative.",
-      "categoryLabel": "CONSTRUCTION ET BASES",
-      "whatIs": "Qu'est-ce que la construction ?",
-      "whatIsDescription": "Guides sur le système de dimension personnelle Qualia, la construction de bases, la gestion du stockage et la construction créative. Apprenez à créer votre havre de paix dans ce monde surréaliste.",
-      "why": "Pourquoi construire des bases ?",
+    "creator": {
+      "title": "Créateur du film Arena Zero - Higgsfield",
+      "description": "Découvrez Higgsfield, le studio AI derrière Arena Zero. Explorez leur technologie Seedance 2.0, leur équipe de production et l'avenir du cinéma AI.",
+      "metaTitle": "Créateur d'Arena Zero - Studio AI Higgsfield et technologie 2026",
+      "metaDescription": "Découvrez Higgsfield, le créateur d'Arena Zero. Apprenez-en plus sur la technologie AI Seedance 2.0, l'équipe de 4 personnes et comment ils ont construit la première série d'action AI au monde.",
+      "categoryLabel": "CRÉATEUR ET STUDIO",
+      "whatIs": "Qui a créé Arena Zero ?",
+      "whatIsDescription": "Arena Zero a été créé par Higgsfield, un studio créatif natif de l'AI. Une équipe de quatre réalisateurs a utilisé le modèle propriétaire Seedance 2.0 de Higgsfield pour produire l'intégralité de la série en seulement quatre jours.",
+      "why": "Pourquoi s'informer sur le créateur ?",
       "whySteps": {
-        "step1Title": "Créer des espaces sûrs",
-        "step1Description": "Établissez des bases sécurisées pour le stockage et les opérations d'artisanat",
-        "step2Title": "Gérer les ressources",
-        "step2Description": "Organisez les matériaux efficacement grâce aux solutions de stockage",
-        "step3Title": "Débloquer Qualia",
-        "step3Description": "Accédez à des dimensions de poche personnelles pour un confort ultime"
+        "step1Title": "Comprendre la technologie",
+        "step1Description": "Découvrez comment Seedance 2.0 permet la cohérence des personnages et une qualité cinématographique dans les films générés par AI",
+        "step2Title": "Aperçu de la production",
+        "step2Description": "Découvrez comment 4 réalisateurs ont créé une série d'action de science-fiction complète en seulement 4 jours à l'aide d'outils AI",
+        "step3Title": "L'avenir du film AI",
+        "step3Description": "Découvrez comment Higgsfield façonne l'avenir du cinéma indépendant et natif de l'AI"
       },
       "featured": "En vedette et essentiels",
-      "all": "Tous les guides de construction"
-    },
-    "support": {
-      "title": "Support Lucid Blocks",
-      "description": "Support technique, compatibilité des plateformes, optimisation des performances et dépannage des problèmes courants.",
-      "metaTitle": "Support Lucid Blocks - Aide technique et correctifs",
-      "metaDescription": "Obtenez un support technique pour Lucid Blocks, incluant la configuration du Steam Deck, les correctifs de crash, l'optimisation des performances et les guides de compatibilité des plateformes.",
-      "categoryLabel": "SUPPORT TECHNIQUE",
-      "whatIs": "Qu'est-ce que le support ?",
-      "whatIsDescription": "Guides techniques couvrant la compatibilité des plateformes, l'optimisation des performances, les correctifs de crash et les problèmes courants. Obtenez de l'aide pour le Steam Deck, les questions sur le multijoueur et les paramètres.",
-      "why": "Pourquoi consulter le support ?",
-      "whySteps": {
-        "step1Title": "Résoudre les problèmes techniques",
-        "step1Description": "Résolvez les plantages, les problèmes de performance et les problèmes de compatibilité",
-        "step2Title": "Optimiser les performances",
-        "step2Description": "Configurez les paramètres pour la meilleure expérience sur votre plateforme",
-        "step3Title": "Compatibilité des plateformes",
-        "step3Description": "Apprenez-en plus sur le Steam Deck, le support des manettes et les configurations requises"
-      },
-      "featured": "En vedette et essentiels",
-      "all": "Tous les articles de support"
+      "all": "Tous les guides du créateur"
     }
   }
 }
